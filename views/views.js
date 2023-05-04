@@ -234,8 +234,6 @@ var main = {
         $('input[id=checkbox]').change(function(){
             if($(this).is(':checked')) {
                 box_checked = true;
-                $('#questions').css("opacity", "0.2");
-                $("#error").css({"visibility": "hidden"});
                 // console.log("Yey, you checked the box!");
                 // console.log("$('#checkox')");
                 // console.log($('#checkbox').prop('checked'));
