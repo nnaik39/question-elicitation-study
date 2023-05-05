@@ -77,9 +77,9 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see 6 AI-generated descriptions paired with a scenario. For each image description, you will record why the image was in the selected scenario, and write two questions for the image based on the scenario in which you encounter it. The whole study should take about X minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see 6 AI-generated descriptions paired with a website where the image appears. For each image description, you will answer why the image appears in the selected location, and write two questions for the image based on the location in which you encounter it. The whole study should take about X minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
-        "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at <br>(650) 723-4284<br><br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
+        "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
     buttonText: "Begin experiment",
     // render function renders the view
@@ -140,13 +140,13 @@ var main = {
         // fill variables in view-template
         var viewTemplate = $("#main-view").html();
 
-        console.log("Main trials ", exp.trial_info.main_trials)
+//        console.log("Main trials ", exp.trial_info.main_trials)
 
-        console.log("Current trial ", exp.trial_info.main_trials[CT])
-        console.log("CT index ", CT)
+//        console.log("Current trial ", exp.trial_info.main_trials[CT])
+  //      console.log("CT index ", CT)
 
-        console.log("Picture name ", exp.trial_info.main_trials[CT]['filename'])
-        console.log("Current category ", exp.trial_info.main_trials[CT]['category'])
+    //    console.log("Picture name ", exp.trial_info.main_trials[CT]['filename'])
+      //  console.log("Current category ", exp.trial_info.main_trials[CT]['category'])
 
         if (exp.trial_info.main_trials[CT]['category'] == 'health') {
             text = "Imagine that you are browsing a <strong>health website</strong>, with the goal of learning how to live a healthier lifestyle, when you encounter the following image."
@@ -208,46 +208,42 @@ var main = {
         var context_justification = $('#context-justification');
         var context_justification_changed = false;
 
-        context_justification.on('input', function() {
-            value = $('#context-justification').val();
+        context_justification.on('keyup', function() {
+            value = context_justification.val();
             if (value.length >= 10) context_justification_changed = true;
+            else if (value.length < 10) context_justification_changed = false;
+
             $("#error").css({"visibility": "hidden"});
         });
 
-        var slider1 = $('#question-1');
-        var slider1_changed = false;
-        slider1.on('input', function() {
-            slider1_changed = true;
+        var question1 = $('#question-1');
+        var question1_changed = false;
+
+        question1.on('keyup', function() {
+            value = question1.val();
+            if (value.length >= 10) question1_changed = true;
+            else if (value.length < 10) question1_changed = false;
+
             $("#error").css({"visibility": "hidden"});
-            console.log("Yey, you changed slider 1");
         });
 
-        var slider2 = $('#question-2');
-        var slider2_changed = false;
-        slider2.on('input', function() {
-            slider2_changed = true;
+        var question2 = $('#question-2');
+        var question2_changed = false;
+
+        question2.on('keyup', function() {
+            value = question2.val();
+            if (value.length >= 10) question2_changed = true;
+            // Detect deletions
+            else if (value.length < 10) question2_changed = false;
             $("#error").css({"visibility": "hidden"});
-            console.log("Yey, you changed slider 2");
         });
 
         var box_checked = false;
         $('input[id=checkbox]').change(function(){
             if($(this).is(':checked')) {
                 box_checked = true;
-                // console.log("Yey, you checked the box!");
-                // console.log("$('#checkox')");
-                // console.log($('#checkbox').prop('checked'));
             } else {
                 box_checked = false;
-                // if (exp.trial_info.q1 == 'replacement') {
-                //     $('#slider2_box').css("opacity", "1");
-                // } else {
-                //     $('#slider1_box').css("opacity", "1");
-                // }
-                $('#questions').css("opacity", "1");
-                // console.log("Yey, you unchecked the box!");
-                // console.log("$('#checkox')");
-                // console.log($('#checkbox').prop('checked'));
             }
         });
 
@@ -259,20 +255,22 @@ var main = {
         });
 
         $("#next").on("click", function() {
-            console.log("Context justification changed ", context_justification_changed)
-            if (context_justification_changed & slider1_changed & slider2_changed) {
+//            console.log("Question 1 changed ", question1_changed)
+
+            if (context_justification_changed & question1_changed & question2_changed) {
                 var RT = Date.now() - startingTime; // measure RT before anything else
                 var trial_data = {
                     trial_number: CT + 1,
+                    reactionTime: RT,
                     picture: "images/" + exp.trial_info.main_trials[CT]['filename'],
                     description: exp.trial_info.main_trials[CT]['description'],
                     context_justification: $('#context-justification').val(),
                     q1: $('#question-1').val(),
                     q2: $('#question-2').val(),
-                    flawed_description: $('#checkbox').val(),
+                    checkbox: $('#checkbox').val(),
                     comments: $('#comments').val()
                 };
-                console.log('Trial data ', trial_data)
+//                console.log('Trial data ', trial_data)
 
                 exp.trial_data.push(trial_data);
                 exp.findNextView();

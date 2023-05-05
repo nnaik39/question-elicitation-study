@@ -12,7 +12,7 @@ exp.customize = function() {
         thanks
     ];
 
-    const imageSeenBefore = new Map();
+    imageSeenBefore = [];
 
     main_trials = _.shuffle(main_trials)[0]
 
@@ -25,92 +25,82 @@ exp.customize = function() {
     }
 
     health = _.sampleSize(health, 1);
-    imageSeenBefore.set(health[0]['filename'], true)
 
-    console.log("Health ", health)
+    imageSeenBefore.push(health[0]['filename']);
+
+//    console.log("image seen before ", imageSeenBefore)
+
+//    console.log("Health ", health)
 
     news_journals = [];
 
     for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'news') {
+        if (main_trials[i]['category'] == 'news' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
             news_journals.push(main_trials[i])
         }
     }
 
+//    console.log("News journals ", news_journals)
+
     news_journals = _.sampleSize(news_journals, 1);
 
-    while (imageSeenBefore[[news_journals[0]['filename']]]) {
-        news_journals = _.sampleSize(news_journals, 1);
-    }
-    imageSeenBefore.set(news_journals[0]['filename'], true)
+    imageSeenBefore.push(news_journals[0]['filename']);
 
-    console.log("news journals ", news_journals)
+//    console.log("news journals ", news_journals)
 
     science_journals = [];
 
     for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'science_journals') {
+        if (main_trials[i]['category'] == 'science_journals' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
             science_journals.push(main_trials[i])
         }
     }
 
-    science_journals = _.sampleSize(science_journals, 1);
-    console.log('science_journals chosen ', science_journals)
+//    console.log("Science journals ", science_journals)
 
-    while (imageSeenBefore[[science_journals[0]['filename']]]) {
-        science_journals = _.sampleSize(science_journals, 1);
-    }
-    imageSeenBefore.set(science_journals[0]['filename'], true)
+    science_journals = _.sampleSize(science_journals, 1);
+    imageSeenBefore.push(science_journals[0]['filename']);
 
     travel = [];
 
     for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'travel') {
+        if (main_trials[i]['category'] == 'travel' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
             travel.push(main_trials[i])
         }
     }
 
-    travel = _.sampleSize(travel, 1);
-    console.log('travel chosen ', travel)    
+//    console.log("travel ", travel)
 
-    while (imageSeenBefore[[travel[0]['filename']]]) {
-        travel = _.sampleSize(travel, 1);
-    }
-    imageSeenBefore.set(travel[0]['filename'], true)
+    travel = _.sampleSize(travel, 1);
+
+    imageSeenBefore.push(travel[0]['filename']);
 
     shopping = [];
 
     for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'shopping') {
+        if (main_trials[i]['category'] == 'shopping' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
             shopping.push(main_trials[i])
         }
     }
-    console.log('shopping! ', shopping)
+
+//    console.log("shopping ", shopping)
 
     shopping = _.sampleSize(shopping, 1);
-    console.log('shopping chosen 2 ', shopping)    
-    console.log('science_journals chosen ', science_journals)
 
-    while (imageSeenBefore[[shopping[0]['filename']]]) {
-        shopping = _.sampleSize(shopping, 1);
-    }
-    imageSeenBefore.set(shopping[0]['filename'], true)
+    imageSeenBefore.push(shopping[0]['filename']);
 
     social_media = [];
 
     for (let i = 0; i < main_trials.length; i++) {
-        if (main_trials[i]['category'] == 'social_media') {
+        if (main_trials[i]['category'] == 'social_media' && !imageSeenBefore.includes(main_trials[i]['filename'])) {
             social_media.push(main_trials[i])
         }
     }
 
-    social_media = _.sampleSize(social_media, 1);
-    console.log('social_media chosen ', social_media)    
+//    console.log("social media ", social_media)
 
-    while (imageSeenBefore[[social_media[0]['filename']]]) {
-        social_media = _.sampleSize(social_media, 1);
-    }
-    imageSeenBefore.set(social_media[0]['filename'], true)
+    social_media = _.sampleSize(social_media, 1);
+//    console.log('social_media chosen ', social_media)    
 
     main_trials.length = 0
     main_trials.push(...health)
