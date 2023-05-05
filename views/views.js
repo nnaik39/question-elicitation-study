@@ -1,7 +1,7 @@
 var botcaptcha = {
     name: "botcaptcha",
     title: "Are you a bot?",
-    buttonText: "Let's go!",
+    buttonText: "Next",
     render: function(){
         var viewTemplate = $("#botcaptcha-view").html();
 
@@ -77,11 +77,11 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see 6 AI-generated descriptions paired with a website where the image appears. For each image description, you will answer why the image appears in the selected location, and write two questions for the image based on the location in which you encounter it. The whole study should take about X minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see six AI-generated descriptions paired with a type of website where the image appears. For each image description, you will answer why the image appears in the selected location, and write two questions for the image based on the website in which you encounter it. The whole study should take about X minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
         "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
-    buttonText: "Begin experiment",
+    buttonText: "Next",
     // render function renders the view
     render: function() {
         var viewTemplate = $("#intro-view").html();
@@ -134,6 +134,39 @@ var intro = {
     trials: 1
 };
 
+var instruction_screen = {
+    name: "instruction",
+    title: "Instructions",
+    text:
+        "<strong>Images online</strong> are a useful resource, but there are cases where you <strong>cannot directly see</strong> the image—for instance, if you have a visual impairment or if you’re browsing a speech-enabled website where the site content is narrated.",
+    paragraph2: "In this study, we’re investigating how asking questions might help when you can’t see the image. You’ll see six <strong>image descriptions</strong>, each paired with a type of website where you might see the image. You’ll be asked to <strong> guess why </strong> the image appears on this type of website, and to <strong> ask questions </strong> to understand the image further.",
+    readyText: "Are you ready?",
+    buttonText: "Begin experiment",
+    // render function renders the view
+    render: function() {
+        var viewTemplate = $("#instruction-screen-view").html();
+
+        $("#main").html(
+            Mustache.render(viewTemplate, {
+                title: this.title,
+                text: this.text,
+                button: this.buttonText,
+                paragraph2: this.paragraph2,
+                readyText: this.readyText
+            })
+        );
+
+        var start = $("#start");
+
+        // moves to the next view
+        start.on("click", function() {
+            exp.findNextView();
+        });
+    },
+    // for how many trials should this view be repeated?
+    trials: 1
+};
+
 var main = {
     name: "main",
     render: function(CT) {
@@ -150,38 +183,38 @@ var main = {
 
         if (exp.trial_info.main_trials[CT]['category'] == 'health') {
             text = "Imagine that you are browsing a <strong>health website</strong>, with the goal of learning how to live a healthier lifestyle, when you encounter the following image."
-            q1 = "Why do you think this image appears on a health website?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a health website?"
+            q1 = "Why do you think this image appears on a <strong>health website </strong>?"
+            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>health website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'shopping') {
             text = "Imagine that you are browsing a <strong>shopping website</strong>, with the goal of purchasing an item or experience, when you encounter the following image."
-            q1 = "Why do you think this image appears on a shopping website?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a shopping website?"
+            q1 = "Why do you think this image appears on a <strong>shopping website</strong>?"
+            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>shopping website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'social_media') {
-            text = "Imagine that you are browsing <strong>social media</strong>, with the goal of learning more about your connections, when you encounter the following image."
-            q1 = "Why do you think this image appears on a social media website?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a social media website?"
+            text = "Imagine that you are browsing a <strong>social media website</strong>, with the goal of learning more about your connections, when you encounter the following image."
+            q1 = "Why do you think this image appears on a <strong>social media website</strong>?"
+            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>social media website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'news') {
             text = "Imagine that you are browsing a <strong>news website</strong> (such as the New York Times), with the goal of learning more about recent news developments, when you encounter the following image."
-            q1 = "Why do you think this image appears on a news website?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a news website?"
+            q1 = "Why do you think this image appears on a <strong>news website</strong>?"
+            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>news website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'travel') {
             text = "Imagine that you are browsing a <strong>travel website</strong>, with the goal of traveling to a new location, when you encounter the following image."
-            q1 = "Why do you think this image appears on a travel website?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a travel website?"
+            q1 = "Why do you think this image appears on a <strong>travel website</strong>?"
+            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>travel website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'science_journals') {
-            text = "Imagine that you are browsing <strong>science magazines</strong> (such as National Geographic), with the goal of learning more about recent science developments, when you encounter the following image."
-            q1 = "Why do you think this image appears in an online science magazine?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on an online science magazine?"
+            text = "Imagine that you are browsing <strong>science magazine website</strong> (such as National Geographic), with the goal of learning more about recent science developments, when you encounter the following image."
+            q1 = "Why do you think this image appears in an <strong>science magazine website</strong>?"
+            q2 = "What are two questions you'd want to have answered if you encountered this image on an <strong>science magazine website</strong>?"
         }
 
         q1 += " A response of 5-10 words should be sufficient."
 
-        checkbox = 'The description is flawed';
+        checkbox = 'There is a grammatical error in the description';
 
         slider_left = '';
         slider_right = '';

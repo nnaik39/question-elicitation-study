@@ -7,6 +7,7 @@ exp.customize = function() {
     this.views_seq = [
         intro,
         botcaptcha,
+        instruction_screen,
         main,
         postTest,
         thanks

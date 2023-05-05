@@ -135,6 +135,39 @@
             </div>
         </script>
 
+        <!-- Instruction screen view -->
+        <script id="instruction-screen-view" type="text/html">
+            <div class='view'>
+                <br>
+                <br>
+                 {{# title }}
+                <h1 class="title">{{ title }}</h1>
+                {{/ title }}
+                {{# text }}
+                <section class="text-container">
+                    <p class="text">{{{ text }}}</p>
+                </section>
+                {{/ text }}
+                <br>
+                {{# paragraph2 }}
+                <section class="text-container">
+                    <p class="text">{{{ paragraph2 }}}</p>
+                </section>
+                {{/ paragraph2 }}
+                <br>
+                {{# readyText }}
+                <section class="text-container">
+                    <p class="text"> <strong> {{{ readyText }}} </strong> </p>
+                </section>
+                {{/ readyText }}
+                <br>
+                {{# button }}
+                <button id="start">{{ button }}</button>
+                {{/ button }}
+                <br>
+            </div>
+        </script>
+
         <!-- main view (buttons response) -->
         <script id="main-view" type="text/html">
         <div class="view">
@@ -150,7 +183,7 @@
             {{/ critical_text }}
 
             <div class="picture">
-                    <p> {{{ description }}} </p>
+                    <p class="bordered-text"> Image Description: {{{ description }}} </p>
             </div>
             <br>
             <hr>
@@ -172,7 +205,7 @@
                 <p class="question">{{{ q2 }}} </p>
                 {{/ q2 }}
                  <div class="popup">
-                    <span class="popuptext" id="myPopup"> Please ensure your questions are more than 3 words, and try to avoid questions beginning with "Is there" or "How many".</span>
+                    <span class="popuptext" id="myPopup">Think of questions that will help you imagine the image and why it appears on the website. Please ensure your questions are more than 3 words.</span>
                 </div>
                 <button id="hint"> Hint </button>
 

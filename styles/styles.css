@@ -74,6 +74,16 @@ p {
     max-width: 650px;
 }
 
+.bordered-text {
+    border-width:3px;
+    border-style:solid;
+    border-color:#000000;
+    padding-top: 50px;
+    padding-left: 1em;
+    padding-bottom: 50px;
+    padding-right: 1em;
+}
+
 button,
 .button {
     background-color: #4381C1;
@@ -93,7 +103,7 @@ button,
 }
 
 #hint {
-    margin: 10px auto 20px auto;
+    margin: 20px auto 45px auto;
 }
 
 /* buttons when covered or clicked */
@@ -236,7 +246,7 @@ input[type=range] {
 input[type=range]::-webkit-slider-runnable-track {
     background: #cbcbcb;
     border: none;
-    outine: none;
+    outline: none;
     border-radius: 10px;
     cursor: pointer;
     height: 6px;
@@ -508,7 +518,7 @@ textarea {
   /* The actual popup (appears on top) */
   .popup .popuptext {
     display: none;
-    width: 500px;
+    width: 525px;
     background-color: hwb(0 100% 0%);
     color: hsl(0, 0%, 0%);
     text-align: center;
