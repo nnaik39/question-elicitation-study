@@ -9,7 +9,7 @@ var config_deploy = {
     "serverAppURL": "https://ig-vqa-default-rtdb.firebaseio.com/",
     // URL
 
-    // set deployment method; use one of:
+    // set deployment method; use one of: sample comment here
     //'debug', 'localServer', 'MTurk', 
     // 'MTurkSandbox', 'Prolific', 'directLink'
     "deployMethod": "Prolific",
