@@ -138,7 +138,7 @@ var instruction_screen = {
     name: "instruction",
     title: "Instructions",
     text:
-        "<strong>Images online</strong> can be a useful resource, but there are cases where you <strong>cannot directly see</strong> the image—for instance, if you have a visual impairment or if you’re browsing a speech-enabled website where the site content is narrated.",
+        "<strong>Online images</strong> can be a useful resource, but there are cases where you <strong>cannot directly see</strong> the image—for instance, if you have a visual impairment or if you’re browsing a speech-enabled website where the site content is narrated.",
     paragraph2: "In this study, we’re investigating how asking questions might help when you can’t see the image. You’ll see six <strong>image descriptions</strong>, each paired with a type of website where you might see the image. You’ll be asked to <strong> guess why </strong> the image appears on this type of website, and to <strong> ask questions </strong> to understand the image further.",
     readyText: "Are you ready?",
     buttonText: "Begin experiment",
@@ -219,6 +219,8 @@ var main = {
         slider_left = '';
         slider_right = '';
 
+        console.log("Checkbox default ", $('checkbox').val())
+
         $("#main").html(
             Mustache.render(viewTemplate, {
                 critical_text: text,
@@ -272,12 +274,16 @@ var main = {
         });
 
         var box_checked = false;
+
         $('input[id=checkbox]').change(function(){
+            console.log("checkbox on change is checked");
+            console.log("Box checked value ", box_checked)
             if($(this).is(':checked')) {
                 box_checked = true;
             } else {
                 box_checked = false;
             }
+            console.log("Box checked value after changing/updating it ", box_checked)
         });
 
         // event listener for buttons; when an input is selected, the response
@@ -288,19 +294,20 @@ var main = {
         });
 
         $("#next").on("click", function() {
-//            console.log("Question 1 changed ", question1_changed)
+            console.log("checkbox value ", box_checked)
 
             if (context_justification_changed & question1_changed & question2_changed) {
                 var RT = Date.now() - startingTime; // measure RT before anything else
                 var trial_data = {
                     trial_number: CT + 1,
                     reactionTime: RT,
-                    picture: "images/" + exp.trial_info.main_trials[CT]['filename'],
+                    picture: exp.trial_info.main_trials[CT]['filename'],
                     description: exp.trial_info.main_trials[CT]['description'],
+                    category: exp.trial_info.main_trials[CT]['category'],
                     context_justification: $('#context-justification').val(),
                     q1: $('#question-1').val(),
                     q2: $('#question-2').val(),
-                    checkbox: $('#checkbox').val(),
+                    checkbox: box_checked,
                     comments: $('#comments').val()
                 };
 //                console.log('Trial data ', trial_data)
