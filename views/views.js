@@ -181,45 +181,51 @@ var main = {
     //    console.log("Picture name ", exp.trial_info.main_trials[CT]['filename'])
       //  console.log("Current category ", exp.trial_info.main_trials[CT]['category'])
 
+        q1 = "How likely is it that you come across this image while browsing a "
+        q2 = "What are two questions you'd want to have answered if you encountered this image on a "
+
         if (exp.trial_info.main_trials[CT]['category'] == 'health') {
             text = "Imagine that you are browsing a <strong>health website</strong>, with the goal of learning how to live a healthier lifestyle, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>health website </strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>health website</strong>?"
+            q1 += "<strong>health website</strong>?"
+            q2 += "<strong>health website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'shopping') {
             text = "Imagine that you are browsing a <strong>shopping website</strong>, with the goal of purchasing an item or experience, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>shopping website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>shopping website</strong>?"
+            q1 += "<strong>shopping website</strong>?"
+            q2 += "<strong>shopping website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'social_media') {
             text = "Imagine that you are browsing a <strong>social media website</strong>, with the goal of learning more about your connections, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>social media website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>social media website</strong>?"
+            q1 += "<strong>social media website</strong>?"
+            q2 += "<strong>social media website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'news') {
             text = "Imagine that you are browsing a <strong>news website</strong> (such as the New York Times), with the goal of learning more about recent news developments, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>news website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>news website</strong>?"
+            q1 += "<strong>news website</strong>?"
+            q2 += "<strong>news website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'travel') {
             text = "Imagine that you are browsing a <strong>travel website</strong>, with the goal of traveling to a new location, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>travel website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>travel website</strong>?"
+            q1 += "<strong>travel website</strong>?"
+            q2 += "<strong>travel website</strong>?"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'science_journals') {
             text = "Imagine that you are browsing a <strong>science magazine website</strong> (such as National Geographic), with the goal of learning more about recent science developments, when you encounter the following image."
-            q1 = "Why do you think this image appears on a <strong>science magazine website</strong>?"
-            q2 = "What are two questions you'd want to have answered if you encountered this image on a <strong>science magazine website</strong>?"
+            q1 += "<strong>science magazine website</strong>?"
+            q2 += "<strong>science magazine website</strong>?"
         }
 
         q1 += " A response of 5-10 words should be sufficient."
 
         checkbox = 'There is a grammatical error in the description';
 
-        slider_left = '';
-        slider_right = '';
+        slider_left = 'Not likely';
+        slider_right = 'Likely';
 
         console.log("Checkbox default ", $('checkbox').val())
+
+        q1 = "How likely is it that this image appears on a <strong>health website </strong>?"
+
 
         $("#main").html(
             Mustache.render(viewTemplate, {
@@ -243,10 +249,9 @@ var main = {
         var context_justification = $('#context-justification');
         var context_justification_changed = false;
 
-        context_justification.on('keyup', function() {
-            value = context_justification.val();
-            if (value.length >= 10) context_justification_changed = true;
-            else if (value.length < 10) context_justification_changed = false;
+        // If the context justification has been set, then allow them to move to the next version
+        context_justification.on('click', function() {
+            context_justification_changed = true;
 
             $("#error").css({"visibility": "hidden"});
         });
@@ -271,6 +276,16 @@ var main = {
             // Detect deletions
             else if (value.length < 10) question2_changed = false;
             $("#error").css({"visibility": "hidden"});
+        });
+
+        question1.on('paste', function(e) {
+            e.preventDefault();
+            return false;
+        });
+
+        question2.on('paste', function(e) {
+            e.preventDefault();
+            return false;
         });
 
         var box_checked = false;
@@ -387,7 +402,7 @@ var thanks = {
                 Mustache.render(viewTemplate, {
                     thanksMessage: this.message,
                     extraMessage:
-                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is CUBGDLXQ. <br />" +
+                        "Please press the button below to confirm that you completed the experiment with Prolific. Your completion code is C8EY3KXX. <br />" +
                         "<a href=" +
                         config_deploy.prolificURL +
                         ' class="prolific-url">Confirm</a>'

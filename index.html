@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
 
-        <title>Browser-based Experiment</title>
+        <title>What Questions Do You Have for This Experiment?</title>
 
         <!-- fonts from Google fonts -->
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700|Noto+Serif:400,700|Playfair+Display:700" rel="stylesheet">
@@ -194,8 +194,17 @@
                 {{/ q1 }}
 
                 <p id="slider1_box" class="answer-container blend-out">
-                    <textarea class="context-survey-question" id="context-justification"/>
+                    {{# slider_left }}
+                    <span class="slider_left">{{{ slider_left }}}</span>
+                    {{/ slider_left }}
+
+                    <input type="range" id="context-justification" class="slider-response" min="0" max="100" value="0"/>
+
+                    {{# slider_right }}
+                    <span class="slider_right">{{{ slider_right }}}</span>
+                    {{/ slider_right }}
                 </p>
+
                     <br>
                 </p>
 
@@ -270,7 +279,7 @@
             <button id="next">Next</button>
             {{/ button }}
 
-            <p id="error" class="help-text" style="visibility: hidden;">You haven't responded to all questions. To continue, please respond to all questions in more than 10 characters.</p>
+            <p id="error" class="help-text" style="visibility: hidden;">You haven't responded to all questions. To continue, please answer the slider question and respond to all written questions in more than 10 characters and adjust the slider.</p>
         </div>
         </script>
 

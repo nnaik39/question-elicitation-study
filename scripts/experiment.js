@@ -142,7 +142,3 @@ exp.customize = function() {
     // the width of the progress bar or a single chunk
     this.progress_bar_width = 100;
 };
-
-// First, they'll be writing questions
-// Then, they'll be writing answers to the questions that other people generated
-// You'll need to generate questions and save them to an answer database
