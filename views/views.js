@@ -149,6 +149,7 @@ var instruction_screen = {
         $("#main").html(
             Mustache.render(viewTemplate, {
                 title: this.title,
+                picture: 'images/question_elicitation_study.gif',
                 text: this.text,
                 button: this.buttonText,
                 paragraph2: this.paragraph2,
@@ -215,17 +216,12 @@ var main = {
             q2 += "<strong>science magazine website</strong>?"
         }
 
-        q1 += " A response of 5-10 words should be sufficient."
-
         checkbox = 'There is a grammatical error in the description';
 
         slider_left = 'Not likely';
         slider_right = 'Likely';
 
         console.log("Checkbox default ", $('checkbox').val())
-
-        q1 = "How likely is it that this image appears on a <strong>health website </strong>?"
-
 
         $("#main").html(
             Mustache.render(viewTemplate, {
