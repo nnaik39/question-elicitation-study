@@ -234,6 +234,21 @@ var main_trials = {
             "filename": "7055.jpg",
             "category": "social_media",
             "description": "An album cover with seven smiling and laughing men standing in a row and dressed in various styles of denim clothing."
+        },
+        {
+            "filename": "13957.jpg",
+            "category": "social_media",
+            "description": "A narrow stair surrounded by decorative railings curves down from the pavement. The London Underground logo forms part of sign above. Large stone buildings line the street in the background"
+        },
+        {
+            "filename": "13957.jpg",
+            "category": "travel",
+            "description": "A narrow stair surrounded by decorative railings curves down from the pavement. The London Underground logo forms part of sign above. Large stone buildings line the street in the background"
+        },
+        {
+            "filename": "37044.jpg",
+            "category": "travel",
+            "description": "Island connected to the mainland by a bridge"
         }
     ]
 }
