@@ -1,254 +1,254 @@
 var main_trials = {
     "images": [
         {
-            "filename": "30164.jpg",
-            "category": "science_journals",
-            "description": "The university's island campus."
-        },
-        {
-            "filename": "30164.jpg",
-            "category": "news",
-            "description": "The university's island campus."
-        },
-        {
-            "filename": "30164.jpg",
-            "category": "social_media",
-            "description": "The university's island campus."
-        },
-        {
-            "filename": "30164.jpg",
-            "category": "travel",
-            "description": "The university's island campus."
-        },
-        {
-            "filename": "2456.jpg",
-            "category": "shopping",
-            "description": "A salad consisting of slices of half transparent jelly-like food and vegetables"
-        },
-        {
-            "filename": "2456.jpg",
-            "category": "health",
-            "description": "A salad consisting of slices of half transparent jelly-like food and vegetables"
-        },
-        {
-            "filename": "2456.jpg",
-            "category": "social_media",
-            "description": "A salad consisting of slices of half transparent jelly-like food and vegetables"
-        },
-        {
-            "filename": "3814.jpg",
-            "category": "science_journals",
-            "description": "Photograph depicting one adult and five children filling jerrycans at a rural metal water pump with concrete base, at the bottom of a steep rocky hillside"
-        },
-        {
-            "filename": "3814.jpg",
-            "category": "health",
-            "description": "Photograph depicting one adult and five children filling jerrycans at a rural metal water pump with concrete base, at the bottom of a steep rocky hillside"
-        },
-        {
-            "filename": "3814.jpg",
-            "category": "news",
-            "description": "Photograph depicting one adult and five children filling jerrycans at a rural metal water pump with concrete base, at the bottom of a steep rocky hillside"
-        },
-        {
-            "filename": "26005.jpg",
-            "category": "news",
-            "description": "Car-Free Day Festival"
-        },
-        {
-            "filename": "26005.jpg",
-            "category": "social_media",
-            "description": "Car-Free Day Festival"
-        },
-        {
-            "filename": "26005.jpg",
-            "category": "travel",
-            "description": "Car-Free Day Festival"
-        },
-        {
-            "filename": "30168.jpg",
-            "category": "science_journals",
-            "description": "Aerial photography of fort remains"
-        },
-        {
-            "filename": "30168.jpg",
-            "category": "news",
-            "description": "Aerial photography of fort remains"
-        },
-        {
-            "filename": "30168.jpg",
-            "category": "travel",
-            "description": "Aerial photography of fort remains"
-        },
-        {
-            "filename": "30208.jpg",
-            "category": "news",
-            "description": "A drone image of Chapel Street Precinct at sunrise."
-        },
-        {
-            "filename": "30208.jpg",
-            "category": "social_media",
-            "description": "A drone image of Chapel Street Precinct at sunrise."
-        },
-        {
-            "filename": "30208.jpg",
-            "category": "travel",
-            "description": "A drone image of Chapel Street Precinct at sunrise."
-        },
-        {
-            "filename": "38977.jpg",
-            "category": "science_journals",
-            "description": "Bodo Creek An Evironmental Impact Assessmentand biomonitoring expert back from a sampling expedition in Bodo Creek an oil spill impacted site."
-        },
-        {
-            "filename": "38977.jpg",
-            "category": "health",
-            "description": "Bodo Creek An Evironmental Impact Assessmentand biomonitoring expert back from a sampling expedition in Bodo Creek an oil spill impacted site."
-        },
-        {
-            "filename": "38977.jpg",
-            "category": "news",
-            "description": "Bodo Creek An Evironmental Impact Assessmentand biomonitoring expert back from a sampling expedition in Bodo Creek an oil spill impacted site."
-        },
-        {
-            "filename": "40102.jpg",
-            "category": "science_journals",
-            "description": "(2011 Education for All Global Monitoring Report) -School children in Kakuma refugee camp, Kenya 1, where many of the Lost Boys had stayed"
-        },
-        {
-            "filename": "40102.jpg",
-            "category": "health",
-            "description": "(2011 Education for All Global Monitoring Report) -School children in Kakuma refugee camp, Kenya 1, where many of the Lost Boys had stayed"
-        },
-        {
-            "filename": "40102.jpg",
-            "category": "news",
-            "description": "(2011 Education for All Global Monitoring Report) -School children in Kakuma refugee camp, Kenya 1, where many of the Lost Boys had stayed"
-        },
-        {
-            "filename": "44321.jpg",
-            "category": "shopping",
-            "description": "Street scene with front of theatre, showing a banner for Thriller  Live"
-        },
-        {
-            "filename": "44321.jpg",
-            "category": "news",
-            "description": "Street scene with front of theatre, showing a banner for Thriller  Live"
-        },
-        {
-            "filename": "44321.jpg",
-            "category": "social_media",
-            "description": "Street scene with front of theatre, showing a banner for Thriller  Live"
-        },
-        {
-            "filename": "52803.jpg",
-            "category": "science_journals",
-            "description": "Tobacco product waste."
-        },
-        {
-            "filename": "52803.jpg",
-            "category": "health",
-            "description": "Tobacco product waste."
-        },
-        {
-            "filename": "52803.jpg",
-            "category": "news",
-            "description": "Tobacco product waste."
-        },
-        {
             "filename": "1101.jpg",
             "category": "shopping",
-            "description": "A wooded area rendered in the Super NES' graphics, two gray status bars (one at the top, one at the bottom of the screen), three \"Blue Imp\" enemies surrounding the character Crono in the middle of the area, Crono slashing at the topmost imp which has a surprised expression on its face"
+            "description": "a screenshot of a game screen showing a blue impp"
         },
         {
             "filename": "1101.jpg",
             "category": "social_media",
-            "description": "A wooded area rendered in the Super NES' graphics, two gray status bars (one at the top, one at the bottom of the screen), three \"Blue Imp\" enemies surrounding the character Crono in the middle of the area, Crono slashing at the topmost imp which has a surprised expression on its face"
+            "description": "a screenshot of a game screen showing a blue impp"
         },
         {
             "filename": "1338.jpg",
             "category": "shopping",
-            "description": "A vegetable vendor in a marketplace."
+            "description": "people are shopping at a farmers market with lots of vegetables"
         },
         {
             "filename": "1338.jpg",
             "category": "social_media",
-            "description": "A vegetable vendor in a marketplace."
+            "description": "people are shopping at a farmers market with lots of vegetables"
         },
         {
             "filename": "1428.jpg",
             "category": "science_journals",
-            "description": "Edward Jenner's name as it appears on the Frieze of the LSHTM Keppel Street building"
+            "description": "arafed view of a building with a clock and a window"
         },
         {
             "filename": "1428.jpg",
             "category": "health",
-            "description": "Edward Jenner's name as it appears on the Frieze of the LSHTM Keppel Street building"
+            "description": "arafed view of a building with a clock and a window"
         },
         {
             "filename": "2194.jpg",
             "category": "health",
-            "description": "A man running on a treadmill, smiling at the camera, with bungee cords stretching down from his waistband to the sides of the treadmill"
+            "description": "arafed man in a space station with a laptop and a monitor"
         },
         {
             "filename": "2194.jpg",
             "category": "social_media",
-            "description": "A man running on a treadmill, smiling at the camera, with bungee cords stretching down from his waistband to the sides of the treadmill"
+            "description": "arafed man in a space station with a laptop and a monitor"
+        },
+        {
+            "filename": "2456.jpg",
+            "category": "shopping",
+            "description": "there is a white plate with a salad on it on a table"
+        },
+        {
+            "filename": "2456.jpg",
+            "category": "health",
+            "description": "there is a white plate with a salad on it on a table"
+        },
+        {
+            "filename": "2456.jpg",
+            "category": "social_media",
+            "description": "there is a white plate with a salad on it on a table"
+        },
+        {
+            "filename": "3814.jpg",
+            "category": "science_journals",
+            "description": "several children are standing around a well with water in it"
+        },
+        {
+            "filename": "3814.jpg",
+            "category": "health",
+            "description": "several children are standing around a well with water in it"
+        },
+        {
+            "filename": "3814.jpg",
+            "category": "news",
+            "description": "several children are standing around a well with water in it"
+        },
+        {
+            "filename": "4068.jpg",
+            "category": "shopping",
+            "description": "someone is playing a guitar with their hands on it"
+        },
+        {
+            "filename": "4068.jpg",
+            "category": "social_media",
+            "description": "someone is playing a guitar with their hands on it"
+        },
+        {
+            "filename": "7055.jpg",
+            "category": "shopping",
+            "description": "a close up of a poster with a group of people"
+        },
+        {
+            "filename": "7055.jpg",
+            "category": "social_media",
+            "description": "a close up of a poster with a group of people"
+        },
+        {
+            "filename": "26005.jpg",
+            "category": "news",
+            "description": "people walking down a street in a crowded area with mountains in the background"
+        },
+        {
+            "filename": "26005.jpg",
+            "category": "social_media",
+            "description": "people walking down a street in a crowded area with mountains in the background"
+        },
+        {
+            "filename": "26005.jpg",
+            "category": "travel",
+            "description": "people walking down a street in a crowded area with mountains in the background"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "science_journals",
+            "description": "aerial view of a city and a body of water"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "news",
+            "description": "aerial view of a city and a body of water"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "social_media",
+            "description": "aerial view of a city and a body of water"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "travel",
+            "description": "aerial view of a city and a body of water"
+        },
+        {
+            "filename": "30168.jpg",
+            "category": "science_journals",
+            "description": "aerial view of a large building in a desert area with a river in the background"
+        },
+        {
+            "filename": "30168.jpg",
+            "category": "news",
+            "description": "aerial view of a large building in a desert area with a river in the background"
+        },
+        {
+            "filename": "30168.jpg",
+            "category": "travel",
+            "description": "aerial view of a large building in a desert area with a river in the background"
+        },
+        {
+            "filename": "30208.jpg",
+            "category": "news",
+            "description": "a view of a city with a clock tower and a street"
+        },
+        {
+            "filename": "30208.jpg",
+            "category": "social_media",
+            "description": "a view of a city with a clock tower and a street"
+        },
+        {
+            "filename": "30208.jpg",
+            "category": "travel",
+            "description": "a view of a city with a clock tower and a street"
+        },
+        {
+            "filename": "38977.jpg",
+            "category": "science_journals",
+            "description": "there is a man standing on a canoe in the water"
+        },
+        {
+            "filename": "38977.jpg",
+            "category": "health",
+            "description": "there is a man standing on a canoe in the water"
+        },
+        {
+            "filename": "38977.jpg",
+            "category": "news",
+            "description": "there is a man standing on a canoe in the water"
+        },
+        {
+            "filename": "40102.jpg",
+            "category": "science_journals",
+            "description": "several children sitting in a classroom with a teacher"
+        },
+        {
+            "filename": "40102.jpg",
+            "category": "health",
+            "description": "several children sitting in a classroom with a teacher"
+        },
+        {
+            "filename": "40102.jpg",
+            "category": "news",
+            "description": "several children sitting in a classroom with a teacher"
+        },
+        {
+            "filename": "44321.jpg",
+            "category": "shopping",
+            "description": "people walking on a busy street in a city with tall buildings"
+        },
+        {
+            "filename": "44321.jpg",
+            "category": "news",
+            "description": "people walking on a busy street in a city with tall buildings"
+        },
+        {
+            "filename": "44321.jpg",
+            "category": "social_media",
+            "description": "people walking on a busy street in a city with tall buildings"
+        },
+        {
+            "filename": "52803.jpg",
+            "category": "science_journals",
+            "description": "there is a green plastic object on the ground next to a knife"
+        },
+        {
+            "filename": "52803.jpg",
+            "category": "health",
+            "description": "there is a green plastic object on the ground next to a knife"
+        },
+        {
+            "filename": "52803.jpg",
+            "category": "news",
+            "description": "there is a green plastic object on the ground next to a knife"
         },
         {
             "filename": "2550.jpg",
             "category": "social_media",
-            "description": "Photo of beach, with several kayaks strewn around and people in background"
+            "description": "people are standing on the beach with their kayaks and other equipment"
         },
         {
             "filename": "2550.jpg",
             "category": "travel",
-            "description": "Photo of beach, with several kayaks strewn around and people in background"
+            "description": "people are standing on the beach with their kayaks and other equipment"
         },
         {
             "filename": "2845.jpg",
             "category": "science_journals",
-            "description": "Large volcano rising above a tropical forest."
+            "description": "there is a man riding a horse on a grassy hill"
         },
         {
             "filename": "2845.jpg",
             "category": "travel",
-            "description": "Large volcano rising above a tropical forest."
-        },
-        {
-            "filename": "4068.jpg",
-            "category": "shopping",
-            "description": "A resonator (acoustic) guitar played in lap steel fashion. The bar is held on a slant."
-        },
-        {
-            "filename": "4068.jpg",
-            "category": "social_media",
-            "description": "A resonator (acoustic) guitar played in lap steel fashion. The bar is held on a slant."
-        },
-        {
-            "filename": "7055.jpg",
-            "category": "shopping",
-            "description": "An album cover with seven smiling and laughing men standing in a row and dressed in various styles of denim clothing."
-        },
-        {
-            "filename": "7055.jpg",
-            "category": "social_media",
-            "description": "An album cover with seven smiling and laughing men standing in a row and dressed in various styles of denim clothing."
+            "description": "there is a man riding a horse on a grassy hill"
         },
         {
             "filename": "13957.jpg",
             "category": "social_media",
-            "description": "A narrow stair surrounded by decorative railings curves down from the pavement. The London Underground logo forms part of sign above. Large stone buildings line the street in the background"
+            "description": "there is a sign that says london underground on the side of the street"
         },
         {
             "filename": "13957.jpg",
             "category": "travel",
-            "description": "A narrow stair surrounded by decorative railings curves down from the pavement. The London Underground logo forms part of sign above. Large stone buildings line the street in the background"
+            "description": "there is a sign that says london underground on the side of the street"
         },
         {
             "filename": "37044.jpg",
             "category": "travel",
-            "description": "Island connected to the mainland by a bridge"
+            "description": "there is a view of a small island in the ocean"
         }
     ]
 }
