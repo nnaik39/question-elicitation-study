@@ -77,7 +77,7 @@ var intro = {
     title: "Stanford NLP Lab",
     // introduction text
     text:
-        "Thank you for participating in our study. In this study, you will see six AI-generated descriptions paired with a type of website where the image appears. For each image description, you will write questions to understand the image further. The whole study should take about six and a half minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
+        "Thank you for participating in our study. In this study, you will see six AI-generated descriptions paired with a type of website where the image appears. For each image description, you will write questions to understand the image further. The whole study should take around six and a half minutes. Please only participate once in this study. <br>Please do <strong>not</strong> participate on a mobile device since the page won't display properly.<br><small>If you have any questions or concerns, don't hesitate to contact me at nanditan@stanford.edu</small>",
     legal_info:
         "<strong>LEGAL INFORMATION</strong>:<br><br>We invite you to participate in a research study on language production and comprehension.<br>Your experimenter will ask you to do a linguistic task such as reading sentences or words, naming pictures or describing scenes, making up sentences of your own, or participating in a simple language game.<br><br>You will be paid for your participation at the posted rate.<br><br>There are no risks or benefits of any kind involved in this study.<br><br>If you have read this form and have decided to participate in this experiment, please understand your participation is voluntary and you have the right to withdraw your consent or discontinue participation at any time without penalty or loss of benefits to which you are otherwise entitled. You have the right to refuse to do particular tasks. Your individual privacy will be maintained in all published and written data resulting from the study.<br>You may print this form for your records.<br><br>CONTACT INFORMATION:<br>If you have any questions, concerns or complaints about this research study, its procedures, risks and benefits, you should contact the Protocol Director Christopher Potts at (650) 723-4284. <br>If you are not satisfied with how this study is being conducted, or if you have any concerns, complaints, or general questions about the research or your rights as a participant, please contact the Stanford Institutional Review Board (IRB) to speak to someone independent of the research team at (650)-723-2480 or toll free at 1-866-680-2906. You can also write to the Stanford IRB, Stanford University, 3000 El Camino Real, Five Palo Alto Square, 4th Floor, Palo Alto, CA 94306 USA.<br><br>If you agree to participate, please proceed to the study tasks.",
     // introduction's slide proceeding button text
@@ -183,39 +183,43 @@ var main = {
       //  console.log("Current category ", exp.trial_info.main_trials[CT]['category'])
 
         q1 = "How likely is it that you come across this image while browsing a "
-        q2 = "What are two questions you'd want to have answered if you encountered this image on a "
+        q2 = "What are two questions that you'd want to have answered by someone who can see the image if you encountered it on a "
 
+        q2 = "If you encountered this image on a "
         if (exp.trial_info.main_trials[CT]['category'] == 'health') {
             text = "Imagine that you are browsing a <strong>health website</strong>, with the goal of learning how to live a healthier lifestyle, when you encounter the following image."
-            q1 += "<strong>health website</strong>?"
-            q2 += "<strong>health website</strong>?"
+            q1 += "<strong>health website</strong>"
+            q2 += "<strong>health website</strong>"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'shopping') {
             text = "Imagine that you are browsing a <strong>shopping website</strong>, with the goal of purchasing an item or experience, when you encounter the following image."
-            q1 += "<strong>shopping website</strong>?"
-            q2 += "<strong>shopping website</strong>?"
+            q1 += "<strong>shopping website</strong>"
+            q2 += "<strong>shopping website</strong>"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'social_media') {
             text = "Imagine that you are browsing a <strong>social media website</strong>, with the goal of learning more about your connections, when you encounter the following image."
-            q1 += "<strong>social media website</strong>?"
-            q2 += "<strong>social media website</strong>?"
+            q1 += "<strong>social media website</strong>"
+            q2 += "<strong>social media website</strong>"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'news') {
             text = "Imagine that you are browsing a <strong>news website</strong> (such as the New York Times), with the goal of learning more about recent news developments, when you encounter the following image."
-            q1 += "<strong>news website</strong>?"
-            q2 += "<strong>news website</strong>?"
+            q1 += "<strong>news website</strong>"
+            q2 += "<strong>news website</strong>"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'travel') {
             text = "Imagine that you are browsing a <strong>travel website</strong>, with the goal of traveling to a new location, when you encounter the following image."
-            q1 += "<strong>travel website</strong>?"
-            q2 += "<strong>travel website</strong>?"
+            q1 += "<strong>travel website</strong>"
+            q2 += "<strong>travel website</strong>"
         }
         else if (exp.trial_info.main_trials[CT]['category'] == 'science_journals') {
             text = "Imagine that you are browsing a <strong>science magazine website</strong> (such as National Geographic), with the goal of learning more about recent science developments, when you encounter the following image."
-            q1 += "<strong>science magazine website</strong>?"
-            q2 += "<strong>science magazine website</strong>?"
+            q1 += "<strong>science magazine website</strong>"
+            q2 += "<strong>science magazine website</strong>"
         }
 
+        q1 += "?"
+
+        q2 += ", what are two questions that you'd want to have answered by someone who can see the image?"
         checkbox = 'There is a grammatical error in the description';
 
         slider_left = 'Not likely';
