@@ -1,254 +1,1884 @@
 var main_trials = {
     "images": [
         {
-            "filename": "1101.jpg",
-            "category": "shopping",
-            "description": "a screenshot of a game screen showing a blue impp"
-        },
-        {
-            "filename": "1101.jpg",
-            "category": "social_media",
-            "description": "a screenshot of a game screen showing a blue impp"
-        },
-        {
-            "filename": "1338.jpg",
-            "category": "shopping",
-            "description": "people are shopping at a farmers market with lots of vegetables"
-        },
-        {
-            "filename": "1338.jpg",
-            "category": "social_media",
-            "description": "people are shopping at a farmers market with lots of vegetables"
-        },
-        {
-            "filename": "1428.jpg",
+            "filename": "22930.jpg",
             "category": "science_journals",
-            "description": "arafed view of a building with a clock and a window"
+            "description": "a group of people walking in front of a building"
         },
         {
-            "filename": "1428.jpg",
+            "filename": "22930.jpg",
             "category": "health",
-            "description": "arafed view of a building with a clock and a window"
+            "description": "a group of people walking in front of a building"
+        },
+        {
+            "filename": "45130.jpg",
+            "category": "science_journals",
+            "description": "the interior of a museum with a large staircase"
+        },
+        {
+            "filename": "45130.jpg",
+            "category": "travel",
+            "description": "the interior of a museum with a large staircase"
+        },
+        {
+            "filename": "22927.jpg",
+            "category": "science_journals",
+            "description": "a group of nurses working on a dummy"
+        },
+        {
+            "filename": "22927.jpg",
+            "category": "health",
+            "description": "a group of nurses working on a dummy"
+        },
+        {
+            "filename": "38428.jpg",
+            "category": "science_journals",
+            "description": "a group of people in a hospital room"
+        },
+        {
+            "filename": "38428.jpg",
+            "category": "health",
+            "description": "a group of people in a hospital room"
+        },
+        {
+            "filename": "23124.jpg",
+            "category": "science_journals",
+            "description": "a person with an umbrella standing on a rock"
+        },
+        {
+            "filename": "23124.jpg",
+            "category": "travel",
+            "description": "a person with an umbrella standing on a rock"
+        },
+        {
+            "filename": "12867.jpg",
+            "category": "news",
+            "description": "a woman smiling and wearing a black dress"
+        },
+        {
+            "filename": "12867.jpg",
+            "category": "social_media",
+            "description": "a woman smiling and wearing a black dress"
+        },
+        {
+            "filename": "9229.jpg",
+            "category": "shopping",
+            "description": "an aerial view of a shopping center with parking lots"
+        },
+        {
+            "filename": "59867.jpg",
+            "category": "science_journals",
+            "description": "a narrow canyon with a view of mountains"
+        },
+        {
+            "filename": "59867.jpg",
+            "category": "news",
+            "description": "a narrow canyon with a view of mountains"
+        },
+        {
+            "filename": "30755.jpg",
+            "category": "science_journals",
+            "description": "a large crowd of people in a gym watching a basketball game"
+        },
+        {
+            "filename": "30755.jpg",
+            "category": "news",
+            "description": "a large crowd of people in a gym watching a basketball game"
+        },
+        {
+            "filename": "16191.jpg",
+            "category": "shopping",
+            "description": "a table with a plate of meat and vegetables"
+        },
+        {
+            "filename": "16191.jpg",
+            "category": "social_media",
+            "description": "a table with a plate of meat and vegetables"
+        },
+        {
+            "filename": "14305.jpg",
+            "category": "social_media",
+            "description": "a sign for a cycle path on the side of the road"
+        },
+        {
+            "filename": "14305.jpg",
+            "category": "travel",
+            "description": "a sign for a cycle path on the side of the road"
+        },
+        {
+            "filename": "6908.jpg",
+            "category": "shopping",
+            "description": "a small town with shops and people walking around"
+        },
+        {
+            "filename": "4141.jpg",
+            "category": "science_journals",
+            "description": "a space shuttle is on the runway with a parachute"
+        },
+        {
+            "filename": "4141.jpg",
+            "category": "news",
+            "description": "a space shuttle is on the runway with a parachute"
+        },
+        {
+            "filename": "1474.jpg",
+            "category": "news",
+            "description": "a large group of people sitting in chairs in a room"
+        },
+        {
+            "filename": "1474.jpg",
+            "category": "social_media",
+            "description": "a large group of people sitting in chairs in a room"
+        },
+        {
+            "filename": "39699.jpg",
+            "category": "science_journals",
+            "description": "a river in the jungle with rocks and trees"
+        },
+        {
+            "filename": "39699.jpg",
+            "category": "travel",
+            "description": "a river in the jungle with rocks and trees"
+        },
+        {
+            "filename": "30564.jpg",
+            "category": "news",
+            "description": "an old photo of a street with people and horses"
+        },
+        {
+            "filename": "30564.jpg",
+            "category": "travel",
+            "description": "an old photo of a street with people and horses"
+        },
+        {
+            "filename": "31989.jpg",
+            "category": "shopping",
+            "description": "a small brick building with a green awning"
+        },
+        {
+            "filename": "31989.jpg",
+            "category": "health",
+            "description": "a small brick building with a green awning"
+        },
+        {
+            "filename": "2044.jpg",
+            "category": "news",
+            "description": "a band performing on stage with guitars and drums"
+        },
+        {
+            "filename": "2044.jpg",
+            "category": "social_media",
+            "description": "a band performing on stage with guitars and drums"
+        },
+        {
+            "filename": "33059.jpg",
+            "category": "science_journals",
+            "description": "the pyramid of the sun god at the base of the sand dunes"
+        },
+        {
+            "filename": "33059.jpg",
+            "category": "travel",
+            "description": "the pyramid of the sun god at the base of the sand dunes"
+        },
+        {
+            "filename": "22612.jpg",
+            "category": "news",
+            "description": "a bald man in glasses and a suit standing next to a boat"
+        },
+        {
+            "filename": "22612.jpg",
+            "category": "social_media",
+            "description": "a bald man in glasses and a suit standing next to a boat"
+        },
+        {
+            "filename": "19576.jpg",
+            "category": "news",
+            "description": "a man in a suit holding a hockey stick and a man in a red jersey"
+        },
+        {
+            "filename": "19576.jpg",
+            "category": "social_media",
+            "description": "a man in a suit holding a hockey stick and a man in a red jersey"
+        },
+        {
+            "filename": "4774.jpg",
+            "category": "shopping",
+            "description": "a refrigerator with food in it and a man standing in front of it"
         },
         {
             "filename": "2194.jpg",
             "category": "health",
-            "description": "arafed man in a space station with a laptop and a monitor"
+            "description": "a man is running in a space station"
         },
         {
             "filename": "2194.jpg",
             "category": "social_media",
-            "description": "arafed man in a space station with a laptop and a monitor"
+            "description": "a man is running in a space station"
         },
         {
-            "filename": "2456.jpg",
-            "category": "shopping",
-            "description": "there is a white plate with a salad on it on a table"
+            "filename": "36508.jpg",
+            "category": "science_journals",
+            "description": "a long hallway with stairs and a tree in the background"
         },
         {
-            "filename": "2456.jpg",
+            "filename": "36508.jpg",
             "category": "health",
-            "description": "there is a white plate with a salad on it on a table"
+            "description": "a long hallway with stairs and a tree in the background"
         },
         {
-            "filename": "2456.jpg",
+            "filename": "3153.jpg",
+            "category": "news",
+            "description": "smoke billows from the statue of liberty on september 11, 2001"
+        },
+        {
+            "filename": "3153.jpg",
             "category": "social_media",
-            "description": "there is a white plate with a salad on it on a table"
+            "description": "smoke billows from the statue of liberty on september 11, 2001"
         },
         {
-            "filename": "3814.jpg",
+            "filename": "1338.jpg",
+            "category": "shopping",
+            "description": "people shopping at an outdoor farmers market with fresh produce"
+        },
+        {
+            "filename": "1338.jpg",
+            "category": "social_media",
+            "description": "people shopping at an outdoor farmers market with fresh produce"
+        },
+        {
+            "filename": "22837.jpg",
             "category": "science_journals",
-            "description": "several children are standing around a well with water in it"
+            "description": "the cover of the book, the book of the atomic bomb"
         },
         {
-            "filename": "3814.jpg",
+            "filename": "22837.jpg",
+            "category": "news",
+            "description": "the cover of the book, the book of the atomic bomb"
+        },
+        {
+            "filename": "17707.jpg",
+            "category": "news",
+            "description": "a group of people holding flags and banners in front of a building"
+        },
+        {
+            "filename": "17707.jpg",
+            "category": "social_media",
+            "description": "a group of people holding flags and banners in front of a building"
+        },
+        {
+            "filename": "52643.jpg",
+            "category": "shopping",
+            "description": "a man standing in front of a room full of clothes"
+        },
+        {
+            "filename": "52643.jpg",
+            "category": "social_media",
+            "description": "a man standing in front of a room full of clothes"
+        },
+        {
+            "filename": "38079.jpg",
             "category": "health",
-            "description": "several children are standing around a well with water in it"
+            "description": "a woman running in a marathon with a crowd behind her"
         },
         {
-            "filename": "3814.jpg",
-            "category": "news",
-            "description": "several children are standing around a well with water in it"
-        },
-        {
-            "filename": "4068.jpg",
-            "category": "shopping",
-            "description": "someone is playing a guitar with their hands on it"
-        },
-        {
-            "filename": "4068.jpg",
-            "category": "social_media",
-            "description": "someone is playing a guitar with their hands on it"
-        },
-        {
-            "filename": "7055.jpg",
-            "category": "shopping",
-            "description": "a close up of a poster with a group of people"
-        },
-        {
-            "filename": "7055.jpg",
-            "category": "social_media",
-            "description": "a close up of a poster with a group of people"
-        },
-        {
-            "filename": "26005.jpg",
-            "category": "news",
-            "description": "people walking down a street in a crowded area with mountains in the background"
-        },
-        {
-            "filename": "26005.jpg",
-            "category": "social_media",
-            "description": "people walking down a street in a crowded area with mountains in the background"
-        },
-        {
-            "filename": "26005.jpg",
-            "category": "travel",
-            "description": "people walking down a street in a crowded area with mountains in the background"
-        },
-        {
-            "filename": "30164.jpg",
+            "filename": "32456.jpg",
             "category": "science_journals",
-            "description": "aerial view of a city and a body of water"
+            "description": "three people walking on snow covered mountains"
         },
         {
-            "filename": "30164.jpg",
-            "category": "news",
-            "description": "aerial view of a city and a body of water"
-        },
-        {
-            "filename": "30164.jpg",
-            "category": "social_media",
-            "description": "aerial view of a city and a body of water"
-        },
-        {
-            "filename": "30164.jpg",
+            "filename": "32456.jpg",
             "category": "travel",
-            "description": "aerial view of a city and a body of water"
+            "description": "three people walking on snow covered mountains"
         },
         {
-            "filename": "30168.jpg",
+            "filename": "22815.jpg",
             "category": "science_journals",
-            "description": "aerial view of a large building in a desert area with a river in the background"
+            "description": "a view of a green field with a hill in the distance"
         },
         {
-            "filename": "30168.jpg",
-            "category": "news",
-            "description": "aerial view of a large building in a desert area with a river in the background"
-        },
-        {
-            "filename": "30168.jpg",
+            "filename": "22815.jpg",
             "category": "travel",
-            "description": "aerial view of a large building in a desert area with a river in the background"
+            "description": "a view of a green field with a hill in the distance"
         },
         {
-            "filename": "30208.jpg",
+            "filename": "2001.jpg",
             "category": "news",
-            "description": "a view of a city with a clock tower and a street"
+            "description": "a view of a city street with people walking and standing around"
         },
         {
-            "filename": "30208.jpg",
+            "filename": "2001.jpg",
             "category": "social_media",
-            "description": "a view of a city with a clock tower and a street"
+            "description": "a view of a city street with people walking and standing around"
         },
         {
-            "filename": "30208.jpg",
+            "filename": "38075.jpg",
+            "category": "health",
+            "description": "three men standing next to each other in a race"
+        },
+        {
+            "filename": "32922.jpg",
+            "category": "science_journals",
+            "description": "the ruins of the ancient city of tikal, in the guatemalan jungle"
+        },
+        {
+            "filename": "32922.jpg",
             "category": "travel",
-            "description": "a view of a city with a clock tower and a street"
+            "description": "the ruins of the ancient city of tikal, in the guatemalan jungle"
+        },
+        {
+            "filename": "23371.jpg",
+            "category": "science_journals",
+            "description": "the view from an airplane window of mountains and water"
+        },
+        {
+            "filename": "23371.jpg",
+            "category": "travel",
+            "description": "the view from an airplane window of mountains and water"
+        },
+        {
+            "filename": "7567.jpg",
+            "category": "social_media",
+            "description": "a man with a hat and plaid shirt standing on the beach"
+        },
+        {
+            "filename": "7567.jpg",
+            "category": "travel",
+            "description": "a man with a hat and plaid shirt standing on the beach"
+        },
+        {
+            "filename": "22146.jpg",
+            "category": "news",
+            "description": "a large group of people walking down a street"
+        },
+        {
+            "filename": "22146.jpg",
+            "category": "social_media",
+            "description": "a large group of people walking down a street"
+        },
+        {
+            "filename": "44376.jpg",
+            "category": "science_journals",
+            "description": "the view from the top of the building"
+        },
+        {
+            "filename": "44376.jpg",
+            "category": "travel",
+            "description": "the view from the top of the building"
+        },
+        {
+            "filename": "2433.jpg",
+            "category": "news",
+            "description": "a woman in a hijab is holding up a bunch of knitted clothes"
+        },
+        {
+            "filename": "2433.jpg",
+            "category": "social_media",
+            "description": "a woman in a hijab is holding up a bunch of knitted clothes"
+        },
+        {
+            "filename": "55200.jpg",
+            "category": "science_journals",
+            "description": "an aerial view of a lake surrounded by trees"
+        },
+        {
+            "filename": "55200.jpg",
+            "category": "travel",
+            "description": "an aerial view of a lake surrounded by trees"
+        },
+        {
+            "filename": "24610.jpg",
+            "category": "science_journals",
+            "description": "the view from inside the building looking up at the sky"
+        },
+        {
+            "filename": "24610.jpg",
+            "category": "health",
+            "description": "the view from inside the building looking up at the sky"
+        },
+        {
+            "filename": "53528.jpg",
+            "category": "health",
+            "description": "a group of people walking on a track"
+        },
+        {
+            "filename": "53528.jpg",
+            "category": "social_media",
+            "description": "a group of people walking on a track"
+        },
+        {
+            "filename": "40249.jpg",
+            "category": "science_journals",
+            "description": "the mountains are covered in snow and trees"
+        },
+        {
+            "filename": "40249.jpg",
+            "category": "travel",
+            "description": "the mountains are covered in snow and trees"
+        },
+        {
+            "filename": "38519.jpg",
+            "category": "shopping",
+            "description": "a green snowmobile parked on a snowy slope"
+        },
+        {
+            "filename": "38519.jpg",
+            "category": "travel",
+            "description": "a green snowmobile parked on a snowy slope"
         },
         {
             "filename": "38977.jpg",
             "category": "science_journals",
-            "description": "there is a man standing on a canoe in the water"
+            "description": "a man standing in the water with a small boat"
         },
         {
             "filename": "38977.jpg",
             "category": "health",
-            "description": "there is a man standing on a canoe in the water"
+            "description": "a man standing in the water with a small boat"
         },
         {
             "filename": "38977.jpg",
             "category": "news",
-            "description": "there is a man standing on a canoe in the water"
+            "description": "a man standing in the water with a small boat"
         },
         {
-            "filename": "40102.jpg",
+            "filename": "38746.jpg",
             "category": "science_journals",
-            "description": "several children sitting in a classroom with a teacher"
+            "description": "a view of a city street with palm trees and buildings"
         },
         {
-            "filename": "40102.jpg",
-            "category": "health",
-            "description": "several children sitting in a classroom with a teacher"
+            "filename": "38746.jpg",
+            "category": "travel",
+            "description": "a view of a city street with palm trees and buildings"
         },
         {
-            "filename": "40102.jpg",
-            "category": "news",
-            "description": "several children sitting in a classroom with a teacher"
-        },
-        {
-            "filename": "44321.jpg",
+            "filename": "6951.jpg",
             "category": "shopping",
-            "description": "people walking on a busy street in a city with tall buildings"
+            "description": "the white house is surrounded by trees and bushes"
         },
         {
-            "filename": "44321.jpg",
-            "category": "news",
-            "description": "people walking on a busy street in a city with tall buildings"
+            "filename": "49393.jpg",
+            "category": "health",
+            "description": "a man in a blue jersey and sunglasses"
         },
         {
-            "filename": "44321.jpg",
+            "filename": "49393.jpg",
             "category": "social_media",
-            "description": "people walking on a busy street in a city with tall buildings"
+            "description": "a man in a blue jersey and sunglasses"
         },
         {
             "filename": "52803.jpg",
             "category": "science_journals",
-            "description": "there is a green plastic object on the ground next to a knife"
+            "description": "a green plastic bag laying on the ground next to a knife"
         },
         {
             "filename": "52803.jpg",
             "category": "health",
-            "description": "there is a green plastic object on the ground next to a knife"
+            "description": "a green plastic bag laying on the ground next to a knife"
         },
         {
             "filename": "52803.jpg",
             "category": "news",
-            "description": "there is a green plastic object on the ground next to a knife"
+            "description": "a green plastic bag laying on the ground next to a knife"
+        },
+        {
+            "filename": "22455.jpg",
+            "category": "social_media",
+            "description": "the steps leading to the summit of the mountain"
+        },
+        {
+            "filename": "22455.jpg",
+            "category": "travel",
+            "description": "the steps leading to the summit of the mountain"
+        },
+        {
+            "filename": "2557.jpg",
+            "category": "news",
+            "description": "a woman with red hair and white shirt"
+        },
+        {
+            "filename": "2557.jpg",
+            "category": "social_media",
+            "description": "a woman with red hair and white shirt"
+        },
+        {
+            "filename": "30247.jpg",
+            "category": "shopping",
+            "description": "a man and woman walking down a runway"
+        },
+        {
+            "filename": "30247.jpg",
+            "category": "social_media",
+            "description": "a man and woman walking down a runway"
+        },
+        {
+            "filename": "1431.jpg",
+            "category": "shopping",
+            "description": "a sign that says family planning, feminine hygiene, and sanitation protection"
+        },
+        {
+            "filename": "1431.jpg",
+            "category": "health",
+            "description": "a sign that says family planning, feminine hygiene, and sanitation protection"
+        },
+        {
+            "filename": "40242.jpg",
+            "category": "science_journals",
+            "description": "a mountain is seen in the distance with a fence"
+        },
+        {
+            "filename": "40242.jpg",
+            "category": "travel",
+            "description": "a mountain is seen in the distance with a fence"
+        },
+        {
+            "filename": "30808.jpg",
+            "category": "news",
+            "description": "the bridge over the river tay"
+        },
+        {
+            "filename": "30808.jpg",
+            "category": "travel",
+            "description": "the bridge over the river tay"
+        },
+        {
+            "filename": "9034.jpg",
+            "category": "health",
+            "description": "a group of people running in a marathon"
+        },
+        {
+            "filename": "9034.jpg",
+            "category": "social_media",
+            "description": "a group of people running in a marathon"
+        },
+        {
+            "filename": "14092.jpg",
+            "category": "science_journals",
+            "description": "president obama presents the medal of freedom to person"
+        },
+        {
+            "filename": "14092.jpg",
+            "category": "news",
+            "description": "president obama presents the medal of freedom to person"
+        },
+        {
+            "filename": "16513.jpg",
+            "category": "shopping",
+            "description": "photograph - the grand central station by jimmy kirk"
+        },
+        {
+            "filename": "16513.jpg",
+            "category": "social_media",
+            "description": "photograph - the grand central station by jimmy kirk"
+        },
+        {
+            "filename": "48572.jpg",
+            "category": "health",
+            "description": "a man and woman standing behind a podium with a sign that says health care for all"
+        },
+        {
+            "filename": "48572.jpg",
+            "category": "news",
+            "description": "a man and woman standing behind a podium with a sign that says health care for all"
+        },
+        {
+            "filename": "8626.jpg",
+            "category": "health",
+            "description": "a man running on a beach with a woman"
+        },
+        {
+            "filename": "8626.jpg",
+            "category": "social_media",
+            "description": "a man running on a beach with a woman"
+        },
+        {
+            "filename": "56116.jpg",
+            "category": "shopping",
+            "description": "hotel gerina beach photo"
+        },
+        {
+            "filename": "56116.jpg",
+            "category": "travel",
+            "description": "hotel gerina beach photo"
+        },
+        {
+            "filename": "4033.jpg",
+            "category": "health",
+            "description": "a sign that reads stop female circumcision is dangerous"
+        },
+        {
+            "filename": "4033.jpg",
+            "category": "news",
+            "description": "a sign that reads stop female circumcision is dangerous"
+        },
+        {
+            "filename": "39115.jpg",
+            "category": "social_media",
+            "description": "a man with a bike standing on a path in the mountains"
+        },
+        {
+            "filename": "39115.jpg",
+            "category": "travel",
+            "description": "a man with a bike standing on a path in the mountains"
+        },
+        {
+            "filename": "7242.jpg",
+            "category": "science_journals",
+            "description": "a fire is burning on the side of a hill"
+        },
+        {
+            "filename": "7242.jpg",
+            "category": "news",
+            "description": "a fire is burning on the side of a hill"
+        },
+        {
+            "filename": "59251.jpg",
+            "category": "science_journals",
+            "description": "nicki minaj performs at the mtv music awards in los angeles, california"
+        },
+        {
+            "filename": "59251.jpg",
+            "category": "travel",
+            "description": "nicki minaj performs at the mtv music awards in los angeles, california"
+        },
+        {
+            "filename": "28141.jpg",
+            "category": "shopping",
+            "description": "a woman in a red dress on a runway"
+        },
+        {
+            "filename": "28141.jpg",
+            "category": "social_media",
+            "description": "a woman in a red dress on a runway"
+        },
+        {
+            "filename": "55124.jpg",
+            "category": "news",
+            "description": "aerial view of windsor castle"
+        },
+        {
+            "filename": "55124.jpg",
+            "category": "travel",
+            "description": "aerial view of windsor castle"
+        },
+        {
+            "filename": "41754.jpg",
+            "category": "science_journals",
+            "description": "a woman sitting at a desk with a computer"
+        },
+        {
+            "filename": "41754.jpg",
+            "category": "health",
+            "description": "a woman sitting at a desk with a computer"
+        },
+        {
+            "filename": "2891.jpg",
+            "category": "science_journals",
+            "description": "an aerial view of a flooded river and road"
+        },
+        {
+            "filename": "2891.jpg",
+            "category": "news",
+            "description": "an aerial view of a flooded river and road"
+        },
+        {
+            "filename": "44485.jpg",
+            "category": "shopping",
+            "description": "a sign that says 50 the longest road in america"
+        },
+        {
+            "filename": "44485.jpg",
+            "category": "travel",
+            "description": "a sign that says 50 the longest road in america"
+        },
+        {
+            "filename": "3263.jpg",
+            "category": "shopping",
+            "description": "a bike is parked in front of a shop on a cobblestone street"
+        },
+        {
+            "filename": "18461.jpg",
+            "category": "shopping",
+            "description": "a store with shelves full of cd's and dvds"
+        },
+        {
+            "filename": "2154.jpg",
+            "category": "news",
+            "description": "a group of people sitting on the sidewalk"
+        },
+        {
+            "filename": "2154.jpg",
+            "category": "social_media",
+            "description": "a group of people sitting on the sidewalk"
+        },
+        {
+            "filename": "40247.jpg",
+            "category": "science_journals",
+            "description": "a mountain trail with trees and rocks"
+        },
+        {
+            "filename": "40247.jpg",
+            "category": "travel",
+            "description": "a mountain trail with trees and rocks"
+        },
+        {
+            "filename": "2028.jpg",
+            "category": "news",
+            "description": "a group of people on stage with guitars"
+        },
+        {
+            "filename": "2028.jpg",
+            "category": "social_media",
+            "description": "a group of people on stage with guitars"
+        },
+        {
+            "filename": "22769.jpg",
+            "category": "health",
+            "description": "a group of people running in a marathon"
+        },
+        {
+            "filename": "22769.jpg",
+            "category": "social_media",
+            "description": "a group of people running in a marathon"
+        },
+        {
+            "filename": "12841.jpg",
+            "category": "news",
+            "description": "a woman with blonde hair and a polka dot dress is smiling"
+        },
+        {
+            "filename": "12841.jpg",
+            "category": "social_media",
+            "description": "a woman with blonde hair and a polka dot dress is smiling"
+        },
+        {
+            "filename": "21703.jpg",
+            "category": "social_media",
+            "description": "a beach with people and umbrellas on it"
+        },
+        {
+            "filename": "21703.jpg",
+            "category": "travel",
+            "description": "a beach with people and umbrellas on it"
+        },
+        {
+            "filename": "43668.jpg",
+            "category": "science_journals",
+            "description": "the front of the building at the university of oklahoma"
+        },
+        {
+            "filename": "43668.jpg",
+            "category": "health",
+            "description": "the front of the building at the university of oklahoma"
+        },
+        {
+            "filename": "22698.jpg",
+            "category": "shopping",
+            "description": "a plate with two sandwiches and a candle"
+        },
+        {
+            "filename": "22698.jpg",
+            "category": "health",
+            "description": "a plate with two sandwiches and a candle"
+        },
+        {
+            "filename": "40801.jpg",
+            "category": "news",
+            "description": "the church of the holy cross, stoke on trent"
+        },
+        {
+            "filename": "40801.jpg",
+            "category": "travel",
+            "description": "the church of the holy cross, stoke on trent"
+        },
+        {
+            "filename": "30731.jpg",
+            "category": "news",
+            "description": "photograph - castle of castello di castello by julie mccormick"
+        },
+        {
+            "filename": "30731.jpg",
+            "category": "travel",
+            "description": "photograph - castle of castello di castello by julie mccormick"
+        },
+        {
+            "filename": "8075.jpg",
+            "category": "shopping",
+            "description": "a large atrium with many statues and people walking around"
+        },
+        {
+            "filename": "1491.jpg",
+            "category": "news",
+            "description": "a street with graffiti on the wall and a building"
+        },
+        {
+            "filename": "1491.jpg",
+            "category": "social_media",
+            "description": "a street with graffiti on the wall and a building"
+        },
+        {
+            "filename": "28839.jpg",
+            "category": "social_media",
+            "description": "four men are fishing in the water with nets"
+        },
+        {
+            "filename": "28839.jpg",
+            "category": "travel",
+            "description": "four men are fishing in the water with nets"
+        },
+        {
+            "filename": "22778.jpg",
+            "category": "science_journals",
+            "description": "the view from the top of the mountain"
+        },
+        {
+            "filename": "22778.jpg",
+            "category": "travel",
+            "description": "the view from the top of the mountain"
+        },
+        {
+            "filename": "59347.jpg",
+            "category": "science_journals",
+            "description": "a man is standing in front of a grocery store with a large selection of produce"
+        },
+        {
+            "filename": "59347.jpg",
+            "category": "news",
+            "description": "a man is standing in front of a grocery store with a large selection of produce"
+        },
+        {
+            "filename": "38596.jpg",
+            "category": "news",
+            "description": "a woman in a white dress posing for the camera"
+        },
+        {
+            "filename": "38596.jpg",
+            "category": "social_media",
+            "description": "a woman in a white dress posing for the camera"
+        },
+        {
+            "filename": "38751.jpg",
+            "category": "science_journals",
+            "description": "a large mountain with a cloud covered sky"
+        },
+        {
+            "filename": "38751.jpg",
+            "category": "travel",
+            "description": "a large mountain with a cloud covered sky"
         },
         {
             "filename": "2550.jpg",
             "category": "social_media",
-            "description": "people are standing on the beach with their kayaks and other equipment"
+            "description": "photograph - kayak camp by jimmy kirk"
         },
         {
             "filename": "2550.jpg",
             "category": "travel",
-            "description": "people are standing on the beach with their kayaks and other equipment"
+            "description": "photograph - kayak camp by jimmy kirk"
         },
         {
-            "filename": "2845.jpg",
+            "filename": "37452.jpg",
             "category": "science_journals",
-            "description": "there is a man riding a horse on a grassy hill"
+            "description": "a black and yellow lizard on the ground"
         },
         {
-            "filename": "2845.jpg",
+            "filename": "37452.jpg",
+            "category": "health",
+            "description": "a black and yellow lizard on the ground"
+        },
+        {
+            "filename": "30644.jpg",
+            "category": "news",
+            "description": "a subway station with people walking on the platform"
+        },
+        {
+            "filename": "30644.jpg",
             "category": "travel",
-            "description": "there is a man riding a horse on a grassy hill"
+            "description": "a subway station with people walking on the platform"
         },
         {
-            "filename": "13957.jpg",
+            "filename": "4142.jpg",
+            "category": "science_journals",
+            "description": "a space shuttle is parked on the tarmac at sunset"
+        },
+        {
+            "filename": "4142.jpg",
+            "category": "news",
+            "description": "a space shuttle is parked on the tarmac at sunset"
+        },
+        {
+            "filename": "3446.jpg",
+            "category": "shopping",
+            "description": "a busy street with many motorcycles parked on the side"
+        },
+        {
+            "filename": "22890.jpg",
+            "category": "science_journals",
+            "description": "a person wearing an orange rubber glove on a muddy field"
+        },
+        {
+            "filename": "22890.jpg",
+            "category": "news",
+            "description": "a person wearing an orange rubber glove on a muddy field"
+        },
+        {
+            "filename": "7278.jpg",
+            "category": "health",
+            "description": "a man in a blue jersey running on a soccer field"
+        },
+        {
+            "filename": "31731.jpg",
+            "category": "health",
+            "description": "a group of people in a gym doing exercises"
+        },
+        {
+            "filename": "31731.jpg",
             "category": "social_media",
-            "description": "there is a sign that says london underground on the side of the street"
+            "description": "a group of people in a gym doing exercises"
         },
         {
-            "filename": "13957.jpg",
+            "filename": "41830.jpg",
+            "category": "science_journals",
+            "description": "a building with a red roof and a mountain in the background"
+        },
+        {
+            "filename": "41830.jpg",
+            "category": "news",
+            "description": "a building with a red roof and a mountain in the background"
+        },
+        {
+            "filename": "30710.jpg",
+            "category": "news",
+            "description": "a street with a sidewalk and a road with construction equipment"
+        },
+        {
+            "filename": "30710.jpg",
             "category": "travel",
-            "description": "there is a sign that says london underground on the side of the street"
+            "description": "a street with a sidewalk and a road with construction equipment"
+        },
+        {
+            "filename": "21137.jpg",
+            "category": "shopping",
+            "description": "a display of metal pans on a counter"
+        },
+        {
+            "filename": "44321.jpg",
+            "category": "shopping",
+            "description": "people walking on the street in front of a building"
+        },
+        {
+            "filename": "44321.jpg",
+            "category": "news",
+            "description": "people walking on the street in front of a building"
+        },
+        {
+            "filename": "44321.jpg",
+            "category": "social_media",
+            "description": "people walking on the street in front of a building"
         },
         {
             "filename": "37044.jpg",
             "category": "travel",
-            "description": "there is a view of a small island in the ocean"
+            "description": "a view of the ocean and a small island from a hill"
+        },
+        {
+            "filename": "30212.jpg",
+            "category": "shopping",
+            "description": "a narrow alley with graffiti and shoes hanging from the ceiling"
+        },
+        {
+            "filename": "30212.jpg",
+            "category": "social_media",
+            "description": "a narrow alley with graffiti and shoes hanging from the ceiling"
+        },
+        {
+            "filename": "16511.jpg",
+            "category": "shopping",
+            "description": "people are walking through a train station with many people"
+        },
+        {
+            "filename": "16511.jpg",
+            "category": "social_media",
+            "description": "people are walking through a train station with many people"
+        },
+        {
+            "filename": "59878.jpg",
+            "category": "science_journals",
+            "description": "a close up of a gravel road with rocks and dirt"
+        },
+        {
+            "filename": "59878.jpg",
+            "category": "travel",
+            "description": "a close up of a gravel road with rocks and dirt"
+        },
+        {
+            "filename": "19319.jpg",
+            "category": "shopping",
+            "description": "a market with fruit and vegetables on display"
+        },
+        {
+            "filename": "40599.jpg",
+            "category": "news",
+            "description": "the view from the top of the tower"
+        },
+        {
+            "filename": "40599.jpg",
+            "category": "travel",
+            "description": "the view from the top of the tower"
+        },
+        {
+            "filename": "13680.jpg",
+            "category": "science_journals",
+            "description": "a man is using a machine to cut metal"
+        },
+        {
+            "filename": "13680.jpg",
+            "category": "shopping",
+            "description": "a man is using a machine to cut metal"
+        },
+        {
+            "filename": "28892.jpg",
+            "category": "news",
+            "description": "a group of men playing soccer on a field"
+        },
+        {
+            "filename": "28892.jpg",
+            "category": "social_media",
+            "description": "a group of men playing soccer on a field"
+        },
+        {
+            "filename": "7401.jpg",
+            "category": "health",
+            "description": "american football player walks on the field during practice"
+        },
+        {
+            "filename": "30745.jpg",
+            "category": "news",
+            "description": "a train is on the tracks in a city"
+        },
+        {
+            "filename": "30745.jpg",
+            "category": "travel",
+            "description": "a train is on the tracks in a city"
+        },
+        {
+            "filename": "59427.jpg",
+            "category": "science_journals",
+            "description": "people in traditional japanese clothing standing on the street at night"
+        },
+        {
+            "filename": "59427.jpg",
+            "category": "travel",
+            "description": "people in traditional japanese clothing standing on the street at night"
+        },
+        {
+            "filename": "7002.jpg",
+            "category": "news",
+            "description": "leonardo dicaprio and person at the premiere of the movie 'the great gats"
+        },
+        {
+            "filename": "7002.jpg",
+            "category": "social_media",
+            "description": "leonardo dicaprio and person at the premiere of the movie 'the great gats"
+        },
+        {
+            "filename": "36213.jpg",
+            "category": "shopping",
+            "description": "a truck and an airstream parked in a parking lot"
+        },
+        {
+            "filename": "36213.jpg",
+            "category": "travel",
+            "description": "a truck and an airstream parked in a parking lot"
+        },
+        {
+            "filename": "32920.jpg",
+            "category": "science_journals",
+            "description": "a view of the ruins of an ancient city in the mountains"
+        },
+        {
+            "filename": "32920.jpg",
+            "category": "travel",
+            "description": "a view of the ruins of an ancient city in the mountains"
+        },
+        {
+            "filename": "7887.jpg",
+            "category": "shopping",
+            "description": "a long aisle with lots of food and snacks"
+        },
+        {
+            "filename": "7887.jpg",
+            "category": "health",
+            "description": "a long aisle with lots of food and snacks"
+        },
+        {
+            "filename": "4531.jpg",
+            "category": "social_media",
+            "description": "a view of the city from an apartment window"
+        },
+        {
+            "filename": "4531.jpg",
+            "category": "travel",
+            "description": "a view of the city from an apartment window"
+        },
+        {
+            "filename": "22604.jpg",
+            "category": "news",
+            "description": "a woman in a black dress smiling at the camera"
+        },
+        {
+            "filename": "22604.jpg",
+            "category": "social_media",
+            "description": "a woman in a black dress smiling at the camera"
+        },
+        {
+            "filename": "1203.jpg",
+            "category": "news",
+            "description": "two men sitting on chairs talking to each other"
+        },
+        {
+            "filename": "1203.jpg",
+            "category": "social_media",
+            "description": "two men sitting on chairs talking to each other"
+        },
+        {
+            "filename": "30234.jpg",
+            "category": "science_journals",
+            "description": "a green bird sitting on a tree trunk"
+        },
+        {
+            "filename": "30234.jpg",
+            "category": "travel",
+            "description": "a green bird sitting on a tree trunk"
+        },
+        {
+            "filename": "44487.jpg",
+            "category": "shopping",
+            "description": "the old town of las vegas, nevada"
+        },
+        {
+            "filename": "44487.jpg",
+            "category": "travel",
+            "description": "the old town of las vegas, nevada"
+        },
+        {
+            "filename": "30709.jpg",
+            "category": "news",
+            "description": "a bus is parked on the side of the road"
+        },
+        {
+            "filename": "30709.jpg",
+            "category": "travel",
+            "description": "a bus is parked on the side of the road"
+        },
+        {
+            "filename": "45508.jpg",
+            "category": "shopping",
+            "description": "the kitchen at the restaurant is filled with people"
+        },
+        {
+            "filename": "45508.jpg",
+            "category": "social_media",
+            "description": "the kitchen at the restaurant is filled with people"
+        },
+        {
+            "filename": "49201.jpg",
+            "category": "shopping",
+            "description": "a man in a tuxedo poses for a photo"
+        },
+        {
+            "filename": "49201.jpg",
+            "category": "social_media",
+            "description": "a man in a tuxedo poses for a photo"
+        },
+        {
+            "filename": "18157.jpg",
+            "category": "shopping",
+            "description": "a can of soda sitting on a counter"
+        },
+        {
+            "filename": "18157.jpg",
+            "category": "health",
+            "description": "a can of soda sitting on a counter"
+        },
+        {
+            "filename": "53403.jpg",
+            "category": "science_journals",
+            "description": "a bush in the desert with a tree in the foreground"
+        },
+        {
+            "filename": "53403.jpg",
+            "category": "travel",
+            "description": "a bush in the desert with a tree in the foreground"
+        },
+        {
+            "filename": "9458.jpg",
+            "category": "shopping",
+            "description": "people are standing around a food truck in a city"
+        },
+        {
+            "filename": "30811.jpg",
+            "category": "shopping",
+            "description": "people standing near a train with a red kayak on it"
+        },
+        {
+            "filename": "30811.jpg",
+            "category": "travel",
+            "description": "people standing near a train with a red kayak on it"
+        },
+        {
+            "filename": "24296.jpg",
+            "category": "shopping",
+            "description": "a bracelet with a red and white tag on it"
+        },
+        {
+            "filename": "24296.jpg",
+            "category": "health",
+            "description": "a bracelet with a red and white tag on it"
+        },
+        {
+            "filename": "22586.jpg",
+            "category": "news",
+            "description": "a basketball player dribbling a ball on a court"
+        },
+        {
+            "filename": "22586.jpg",
+            "category": "social_media",
+            "description": "a basketball player dribbling a ball on a court"
+        },
+        {
+            "filename": "33731.jpg",
+            "category": "health",
+            "description": "a doctor holding a baby in a hospital room"
+        },
+        {
+            "filename": "33731.jpg",
+            "category": "news",
+            "description": "a doctor holding a baby in a hospital room"
+        },
+        {
+            "filename": "7055.jpg",
+            "category": "shopping",
+            "description": "grandmaster flash - they said they couldn't be done"
+        },
+        {
+            "filename": "7055.jpg",
+            "category": "social_media",
+            "description": "grandmaster flash - they said they couldn't be done"
+        },
+        {
+            "filename": "4068.jpg",
+            "category": "shopping",
+            "description": "a man playing an electric guitar with his hands"
+        },
+        {
+            "filename": "4068.jpg",
+            "category": "social_media",
+            "description": "a man playing an electric guitar with his hands"
+        },
+        {
+            "filename": "30798.jpg",
+            "category": "science_journals",
+            "description": "the old building is yellow and has a lot of windows"
+        },
+        {
+            "filename": "30798.jpg",
+            "category": "news",
+            "description": "the old building is yellow and has a lot of windows"
+        },
+        {
+            "filename": "45297.jpg",
+            "category": "shopping",
+            "description": "a man selling items in a market"
+        },
+        {
+            "filename": "45297.jpg",
+            "category": "social_media",
+            "description": "a man selling items in a market"
+        },
+        {
+            "filename": "9795.jpg",
+            "category": "shopping",
+            "description": "a woman is looking at a display of food in a store"
+        },
+        {
+            "filename": "1428.jpg",
+            "category": "science_journals",
+            "description": "a building with a sign that says jenners on it"
+        },
+        {
+            "filename": "1428.jpg",
+            "category": "health",
+            "description": "a building with a sign that says jenners on it"
+        },
+        {
+            "filename": "22821.jpg",
+            "category": "science_journals",
+            "description": "a grassy field with trees and mountains in the background"
+        },
+        {
+            "filename": "22821.jpg",
+            "category": "travel",
+            "description": "a grassy field with trees and mountains in the background"
+        },
+        {
+            "filename": "17784.jpg",
+            "category": "shopping",
+            "description": "people walking through a market area with tents and stalls"
+        },
+        {
+            "filename": "43164.jpg",
+            "category": "news",
+            "description": "the one world trade center is seen in the sunset"
+        },
+        {
+            "filename": "43164.jpg",
+            "category": "travel",
+            "description": "the one world trade center is seen in the sunset"
+        },
+        {
+            "filename": "11307.jpg",
+            "category": "shopping",
+            "description": "the seats in the plane are all blue"
+        },
+        {
+            "filename": "33032.jpg",
+            "category": "science_journals",
+            "description": "the ruins of the ancient city of egypt"
+        },
+        {
+            "filename": "33032.jpg",
+            "category": "travel",
+            "description": "the ruins of the ancient city of egypt"
+        },
+        {
+            "filename": "56292.jpg",
+            "category": "shopping",
+            "description": "a mannequin wearing a shirt that says legalize gay"
+        },
+        {
+            "filename": "56292.jpg",
+            "category": "social_media",
+            "description": "a mannequin wearing a shirt that says legalize gay"
+        },
+        {
+            "filename": "30208.jpg",
+            "category": "news",
+            "description": "the view from the top of a building at dusk"
+        },
+        {
+            "filename": "30208.jpg",
+            "category": "social_media",
+            "description": "the view from the top of a building at dusk"
+        },
+        {
+            "filename": "30208.jpg",
+            "category": "travel",
+            "description": "the view from the top of a building at dusk"
+        },
+        {
+            "filename": "23432.jpg",
+            "category": "science_journals",
+            "description": "an aerial view of a dam and lake in the mountains"
+        },
+        {
+            "filename": "23432.jpg",
+            "category": "travel",
+            "description": "an aerial view of a dam and lake in the mountains"
+        },
+        {
+            "filename": "28876.jpg",
+            "category": "shopping",
+            "description": "a display of drinks on a shelf"
+        },
+        {
+            "filename": "28876.jpg",
+            "category": "health",
+            "description": "a display of drinks on a shelf"
+        },
+        {
+            "filename": "60030.jpg",
+            "category": "science_journals",
+            "description": "the metropolitan museum of art"
+        },
+        {
+            "filename": "60030.jpg",
+            "category": "health",
+            "description": "the metropolitan museum of art"
+        },
+        {
+            "filename": "33060.jpg",
+            "category": "science_journals",
+            "description": "a large pile of dirt and rocks in the desert"
+        },
+        {
+            "filename": "33060.jpg",
+            "category": "travel",
+            "description": "a large pile of dirt and rocks in the desert"
+        },
+        {
+            "filename": "22452.jpg",
+            "category": "social_media",
+            "description": "a winding road in the mountains with mountains in the background"
+        },
+        {
+            "filename": "22452.jpg",
+            "category": "travel",
+            "description": "a winding road in the mountains with mountains in the background"
+        },
+        {
+            "filename": "22145.jpg",
+            "category": "news",
+            "description": "a street with cars parked on both sides and a building in the background"
+        },
+        {
+            "filename": "22145.jpg",
+            "category": "social_media",
+            "description": "a street with cars parked on both sides and a building in the background"
+        },
+        {
+            "filename": "15330.jpg",
+            "category": "shopping",
+            "description": "a small trailer parked in front of a house"
+        },
+        {
+            "filename": "2845.jpg",
+            "category": "science_journals",
+            "description": "a grassy hill with a mountain in the background"
+        },
+        {
+            "filename": "2845.jpg",
+            "category": "travel",
+            "description": "a grassy hill with a mountain in the background"
+        },
+        {
+            "filename": "2039.jpg",
+            "category": "news",
+            "description": "a group of people on stage with guitars"
+        },
+        {
+            "filename": "2039.jpg",
+            "category": "social_media",
+            "description": "a group of people on stage with guitars"
+        },
+        {
+            "filename": "7005.jpg",
+            "category": "news",
+            "description": "leonardo dicaprio at the premiere of 'the great gatsby'"
+        },
+        {
+            "filename": "7005.jpg",
+            "category": "social_media",
+            "description": "leonardo dicaprio at the premiere of 'the great gatsby'"
+        },
+        {
+            "filename": "3770.jpg",
+            "category": "news",
+            "description": "people sitting on the ground near a group of people"
+        },
+        {
+            "filename": "3770.jpg",
+            "category": "social_media",
+            "description": "people sitting on the ground near a group of people"
+        },
+        {
+            "filename": "31727.jpg",
+            "category": "health",
+            "description": "a group of people on exercise mats in front of a stage"
+        },
+        {
+            "filename": "31727.jpg",
+            "category": "social_media",
+            "description": "a group of people on exercise mats in front of a stage"
+        },
+        {
+            "filename": "17813.jpg",
+            "category": "news",
+            "description": "shah rukh khan and anushka sharma at the launch of'sh"
+        },
+        {
+            "filename": "17813.jpg",
+            "category": "social_media",
+            "description": "shah rukh khan and anushka sharma at the launch of'sh"
+        },
+        {
+            "filename": "22446.jpg",
+            "category": "social_media",
+            "description": "a cyclist rides down a mountain road in the mountains"
+        },
+        {
+            "filename": "22446.jpg",
+            "category": "travel",
+            "description": "a cyclist rides down a mountain road in the mountains"
+        },
+        {
+            "filename": "20528.jpg",
+            "category": "shopping",
+            "description": "a plate with a quesadilla, rice, and salad on a table"
+        },
+        {
+            "filename": "20528.jpg",
+            "category": "social_media",
+            "description": "a plate with a quesadilla, rice, and salad on a table"
+        },
+        {
+            "filename": "1997.jpg",
+            "category": "science_journals",
+            "description": "the koch building in downtown london, ontario"
+        },
+        {
+            "filename": "1997.jpg",
+            "category": "health",
+            "description": "the koch building in downtown london, ontario"
+        },
+        {
+            "filename": "5711.jpg",
+            "category": "shopping",
+            "description": "an aerial view of a city with a large building"
+        },
+        {
+            "filename": "51118.jpg",
+            "category": "news",
+            "description": "a highway with a large building on the side"
+        },
+        {
+            "filename": "51118.jpg",
+            "category": "travel",
+            "description": "a highway with a large building on the side"
+        },
+        {
+            "filename": "23435.jpg",
+            "category": "science_journals",
+            "description": "a view of a small town in the mountains"
+        },
+        {
+            "filename": "23435.jpg",
+            "category": "travel",
+            "description": "a view of a small town in the mountains"
+        },
+        {
+            "filename": "30168.jpg",
+            "category": "science_journals",
+            "description": "an aerial view of an ancient city in the desert"
+        },
+        {
+            "filename": "30168.jpg",
+            "category": "news",
+            "description": "an aerial view of an ancient city in the desert"
+        },
+        {
+            "filename": "30168.jpg",
+            "category": "travel",
+            "description": "an aerial view of an ancient city in the desert"
+        },
+        {
+            "filename": "39678.jpg",
+            "category": "shopping",
+            "description": "a woman in a gold dress smoking a cigarette"
+        },
+        {
+            "filename": "39678.jpg",
+            "category": "social_media",
+            "description": "a woman in a gold dress smoking a cigarette"
+        },
+        {
+            "filename": "47092.jpg",
+            "category": "shopping",
+            "description": "a yellow and white vw bus parked on the side of the road"
+        },
+        {
+            "filename": "47092.jpg",
+            "category": "social_media",
+            "description": "a yellow and white vw bus parked on the side of the road"
+        },
+        {
+            "filename": "49162.jpg",
+            "category": "shopping",
+            "description": "a woman in a pink dress posing on the red carpet"
+        },
+        {
+            "filename": "49162.jpg",
+            "category": "social_media",
+            "description": "a woman in a pink dress posing on the red carpet"
+        },
+        {
+            "filename": "30218.jpg",
+            "category": "science_journals",
+            "description": "the earth from space shows the river delta"
+        },
+        {
+            "filename": "30218.jpg",
+            "category": "news",
+            "description": "the earth from space shows the river delta"
+        },
+        {
+            "filename": "38425.jpg",
+            "category": "shopping",
+            "description": "a beer glass on a table with a checkered tablecloth"
+        },
+        {
+            "filename": "38425.jpg",
+            "category": "social_media",
+            "description": "a beer glass on a table with a checkered tablecloth"
+        },
+        {
+            "filename": "6832.jpg",
+            "category": "news",
+            "description": "a group of people laying on the street in a city"
+        },
+        {
+            "filename": "6832.jpg",
+            "category": "social_media",
+            "description": "a group of people laying on the street in a city"
+        },
+        {
+            "filename": "26005.jpg",
+            "category": "news",
+            "description": "a crowd of people walking down the street with mountains in the background"
+        },
+        {
+            "filename": "26005.jpg",
+            "category": "social_media",
+            "description": "a crowd of people walking down the street with mountains in the background"
+        },
+        {
+            "filename": "26005.jpg",
+            "category": "travel",
+            "description": "a crowd of people walking down the street with mountains in the background"
+        },
+        {
+            "filename": "40244.jpg",
+            "category": "science_journals",
+            "description": "a mountain with a red and white mountain in the background"
+        },
+        {
+            "filename": "40244.jpg",
+            "category": "travel",
+            "description": "a mountain with a red and white mountain in the background"
+        },
+        {
+            "filename": "32923.jpg",
+            "category": "science_journals",
+            "description": "the sky is cloudy"
+        },
+        {
+            "filename": "32923.jpg",
+            "category": "travel",
+            "description": "the sky is cloudy"
+        },
+        {
+            "filename": "33034.jpg",
+            "category": "science_journals",
+            "description": "the step pyramid of saqqara"
+        },
+        {
+            "filename": "33034.jpg",
+            "category": "travel",
+            "description": "the step pyramid of saqqara"
+        },
+        {
+            "filename": "31728.jpg",
+            "category": "health",
+            "description": "a group of people in a gym doing exercises"
+        },
+        {
+            "filename": "31728.jpg",
+            "category": "social_media",
+            "description": "a group of people in a gym doing exercises"
+        },
+        {
+            "filename": "493.jpg",
+            "category": "shopping",
+            "description": "a narrow alley with a glass ceiling and a few people walking"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "science_journals",
+            "description": "an aerial view of the city of chicago"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "news",
+            "description": "an aerial view of the city of chicago"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "social_media",
+            "description": "an aerial view of the city of chicago"
+        },
+        {
+            "filename": "30164.jpg",
+            "category": "travel",
+            "description": "an aerial view of the city of chicago"
+        },
+        {
+            "filename": "3598.jpg",
+            "category": "shopping",
+            "description": "a walkway with people walking on it and shops"
+        },
+        {
+            "filename": "2456.jpg",
+            "category": "shopping",
+            "description": "a plate of food with vegetables and a glass of wine"
+        },
+        {
+            "filename": "2456.jpg",
+            "category": "health",
+            "description": "a plate of food with vegetables and a glass of wine"
+        },
+        {
+            "filename": "2456.jpg",
+            "category": "social_media",
+            "description": "a plate of food with vegetables and a glass of wine"
+        },
+        {
+            "filename": "14464.jpg",
+            "category": "social_media",
+            "description": "a street with a few cars and people walking on it"
+        },
+        {
+            "filename": "14464.jpg",
+            "category": "travel",
+            "description": "a street with a few cars and people walking on it"
+        },
+        {
+            "filename": "22937.jpg",
+            "category": "science_journals",
+            "description": "a group of women sitting in chairs in a room"
+        },
+        {
+            "filename": "22937.jpg",
+            "category": "health",
+            "description": "a group of women sitting in chairs in a room"
+        },
+        {
+            "filename": "30724.jpg",
+            "category": "news",
+            "description": "a street with many colorful umbrellas hanging from the sky"
+        },
+        {
+            "filename": "30724.jpg",
+            "category": "travel",
+            "description": "a street with many colorful umbrellas hanging from the sky"
+        },
+        {
+            "filename": "2554.jpg",
+            "category": "news",
+            "description": "a woman signing autographs at a party"
+        },
+        {
+            "filename": "2554.jpg",
+            "category": "social_media",
+            "description": "a woman signing autographs at a party"
+        },
+        {
+            "filename": "4309.jpg",
+            "category": "science_journals",
+            "description": "a building with a red roof and a mountain in the background"
+        },
+        {
+            "filename": "4309.jpg",
+            "category": "news",
+            "description": "a building with a red roof and a mountain in the background"
+        },
+        {
+            "filename": "17819.jpg",
+            "category": "news",
+            "description": "a view of the ocean from a hillside"
+        },
+        {
+            "filename": "17819.jpg",
+            "category": "travel",
+            "description": "a view of the ocean from a hillside"
+        },
+        {
+            "filename": "49394.jpg",
+            "category": "health",
+            "description": "a cyclist riding down a cobblestone road"
+        },
+        {
+            "filename": "49394.jpg",
+            "category": "social_media",
+            "description": "a cyclist riding down a cobblestone road"
+        },
+        {
+            "filename": "16508.jpg",
+            "category": "shopping",
+            "description": "the inside of a large grocery store with people shopping"
+        },
+        {
+            "filename": "16508.jpg",
+            "category": "social_media",
+            "description": "the inside of a large grocery store with people shopping"
+        },
+        {
+            "filename": "43472.jpg",
+            "category": "science_journals",
+            "description": "the quality laser machine is shown on a white background"
+        },
+        {
+            "filename": "43472.jpg",
+            "category": "health",
+            "description": "the quality laser machine is shown on a white background"
+        },
+        {
+            "filename": "24359.jpg",
+            "category": "science_journals",
+            "description": "a man is being treated by two men in military uniforms"
+        },
+        {
+            "filename": "24359.jpg",
+            "category": "health",
+            "description": "a man is being treated by two men in military uniforms"
+        },
+        {
+            "filename": "18939.jpg",
+            "category": "shopping",
+            "description": "brussels sprouts in a pan on a stove top"
+        },
+        {
+            "filename": "3301.jpg",
+            "category": "shopping",
+            "description": "a machine with a green cord and a green light"
+        },
+        {
+            "filename": "13957.jpg",
+            "category": "social_media",
+            "description": "a tube station sign at night in london"
+        },
+        {
+            "filename": "13957.jpg",
+            "category": "travel",
+            "description": "a tube station sign at night in london"
+        },
+        {
+            "filename": "746.jpg",
+            "category": "shopping",
+            "description": "a close up of a pile of brown rice"
+        },
+        {
+            "filename": "746.jpg",
+            "category": "health",
+            "description": "a close up of a pile of brown rice"
+        },
+        {
+            "filename": "25587.jpg",
+            "category": "shopping",
+            "description": "a man in a suit and tie sitting on a couch"
+        },
+        {
+            "filename": "25587.jpg",
+            "category": "social_media",
+            "description": "a man in a suit and tie sitting on a couch"
+        },
+        {
+            "filename": "32924.jpg",
+            "category": "science_journals",
+            "description": "a mountain range with a lake and trees on the side"
+        },
+        {
+            "filename": "32924.jpg",
+            "category": "travel",
+            "description": "a mountain range with a lake and trees on the side"
         }
     ]
 }
