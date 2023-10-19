@@ -71,11 +71,6 @@ var main_trials = {
             "description": "a narrow canyon with a view of mountains"
         },
         {
-            "filename": "59867.jpg",
-            "category": "news",
-            "description": "a narrow canyon with a view of mountains"
-        },
-        {
             "filename": "30755.jpg",
             "category": "science_journals",
             "description": "a large crowd of people in a gym watching a basketball game"
@@ -87,18 +82,8 @@ var main_trials = {
         },
         {
             "filename": "16191.jpg",
-            "category": "shopping",
-            "description": "a table with a plate of meat and vegetables"
-        },
-        {
-            "filename": "16191.jpg",
             "category": "social_media",
             "description": "a table with a plate of meat and vegetables"
-        },
-        {
-            "filename": "14305.jpg",
-            "category": "social_media",
-            "description": "a sign for a cycle path on the side of the road"
         },
         {
             "filename": "14305.jpg",
@@ -391,11 +376,6 @@ var main_trials = {
             "description": "the view from inside the building looking up at the sky"
         },
         {
-            "filename": "24610.jpg",
-            "category": "health",
-            "description": "the view from inside the building looking up at the sky"
-        },
-        {
             "filename": "53528.jpg",
             "category": "health",
             "description": "a group of people walking on a track"
@@ -457,11 +437,6 @@ var main_trials = {
         },
         {
             "filename": "49393.jpg",
-            "category": "health",
-            "description": "a man in a blue jersey and sunglasses"
-        },
-        {
-            "filename": "49393.jpg",
             "category": "social_media",
             "description": "a man in a blue jersey and sunglasses"
         },
@@ -553,11 +528,6 @@ var main_trials = {
         {
             "filename": "14092.jpg",
             "category": "science_journals",
-            "description": "president obama presents the medal of freedom to person"
-        },
-        {
-            "filename": "14092.jpg",
-            "category": "news",
             "description": "president obama presents the medal of freedom to person"
         },
         {
@@ -1046,18 +1016,8 @@ var main_trials = {
             "description": "a group of men playing soccer on a field"
         },
         {
-            "filename": "7401.jpg",
-            "category": "health",
-            "description": "american football player walks on the field during practice"
-        },
-        {
             "filename": "30745.jpg",
             "category": "news",
-            "description": "a train is on the tracks in a city"
-        },
-        {
-            "filename": "30745.jpg",
-            "category": "travel",
             "description": "a train is on the tracks in a city"
         },
         {
@@ -1149,11 +1109,6 @@ var main_trials = {
             "filename": "30234.jpg",
             "category": "travel",
             "description": "a green bird sitting on a tree trunk"
-        },
-        {
-            "filename": "44487.jpg",
-            "category": "shopping",
-            "description": "the old town of las vegas, nevada"
         },
         {
             "filename": "44487.jpg",
@@ -1427,11 +1382,6 @@ var main_trials = {
         },
         {
             "filename": "22145.jpg",
-            "category": "news",
-            "description": "a street with cars parked on both sides and a building in the background"
-        },
-        {
-            "filename": "22145.jpg",
             "category": "social_media",
             "description": "a street with cars parked on both sides and a building in the background"
         },
@@ -1446,11 +1396,6 @@ var main_trials = {
             "description": "a grassy hill with a mountain in the background"
         },
         {
-            "filename": "2845.jpg",
-            "category": "travel",
-            "description": "a grassy hill with a mountain in the background"
-        },
-        {
             "filename": "2039.jpg",
             "category": "news",
             "description": "a group of people on stage with guitars"
@@ -1459,11 +1404,6 @@ var main_trials = {
             "filename": "2039.jpg",
             "category": "social_media",
             "description": "a group of people on stage with guitars"
-        },
-        {
-            "filename": "7005.jpg",
-            "category": "news",
-            "description": "leonardo dicaprio at the premiere of 'the great gatsby'"
         },
         {
             "filename": "7005.jpg",
@@ -1647,18 +1587,8 @@ var main_trials = {
         },
         {
             "filename": "40244.jpg",
-            "category": "science_journals",
-            "description": "a mountain with a red and white mountain in the background"
-        },
-        {
-            "filename": "40244.jpg",
             "category": "travel",
             "description": "a mountain with a red and white mountain in the background"
-        },
-        {
-            "filename": "32923.jpg",
-            "category": "science_journals",
-            "description": "the sky is cloudy"
         },
         {
             "filename": "32923.jpg",
@@ -1733,11 +1663,6 @@ var main_trials = {
         {
             "filename": "14464.jpg",
             "category": "social_media",
-            "description": "a street with a few cars and people walking on it"
-        },
-        {
-            "filename": "14464.jpg",
-            "category": "travel",
             "description": "a street with a few cars and people walking on it"
         },
         {
