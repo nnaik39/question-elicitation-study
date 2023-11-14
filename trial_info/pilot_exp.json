@@ -3,17 +3,7 @@ var main_trials = {
         {
             "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
             "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
-            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
             "category": "travel"
-        },
-        {
-            "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
-            "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
-            "category": "shopping"
         },
         {
             "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
@@ -46,11 +36,6 @@ var main_trials = {
             "category": "shopping"
         },
         {
-            "filename": "images/shopping/4068.jpg",
-            "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
-            "category": "health"
-        },
-        {
             "filename": "images/shopping/Virti_vaghani.jpeg",
             "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
             "category": "shopping"
@@ -83,11 +68,6 @@ var main_trials = {
         {
             "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
             "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
-            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
             "category": "shopping"
         },
         {
@@ -109,11 +89,6 @@ var main_trials = {
             "filename": "images/health/2456.jpg",
             "description": "A bowl of Asian noodle salad with vegetables and herbs.",
             "category": "social_media"
-        },
-        {
-            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
-            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
-            "category": "shopping"
         },
         {
             "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
@@ -153,11 +128,6 @@ var main_trials = {
         {
             "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
             "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
-            "category": "health"
-        },
-        {
-            "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-            "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
             "category": "travel"
         },
         {
@@ -169,11 +139,6 @@ var main_trials = {
             "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
             "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
             "category": "science_journals"
-        },
-        {
-            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
-            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
-            "category": "health"
         },
         {
             "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
@@ -201,19 +166,9 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/travel/26005.jpg",
-            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
-            "category": "travel"
-        },
-        {
             "filename": "images/travel/30208.jpg",
             "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
             "category": "social_media"
-        },
-        {
-            "filename": "images/travel/30208.jpg",
-            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
-            "category": "travel"
         },
         {
             "filename": "images/travel/37044.jpg",
@@ -239,11 +194,6 @@ var main_trials = {
             "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
             "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
             "category": "shopping"
-        },
-        {
-            "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
-            "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
-            "category": "social_media"
         },
         {
             "filename": "images/travel/Wdomenada2003b.jpeg",
@@ -279,11 +229,6 @@ var main_trials = {
             "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
             "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
             "category": "travel"
-        },
-        {
-            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
-            "category": "science_journals"
         },
         {
             "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
@@ -338,11 +283,6 @@ var main_trials = {
         {
             "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
             "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
-            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
             "category": "news"
         },
         {
@@ -356,28 +296,8 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
-            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
-            "category": "travel"
-        },
-        {
             "filename": "images/news/Avalanche_on_Everest.jpeg",
             "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/news/Avalanche_on_Everest.jpeg",
-            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-            "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
-            "category": "health"
-        },
-        {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
             "category": "travel"
         },
         {
@@ -403,11 +323,6 @@ var main_trials = {
         {
             "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
             "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
             "category": "news"
         },
         {
@@ -419,11 +334,6 @@ var main_trials = {
             "filename": "images/news/Astronauts_in_weightlessness.jpeg",
             "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
             "category": "science_journals"
-        },
-        {
-            "filename": "images/social_media/54183.jpg",
-            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
-            "category": "shopping"
         },
         {
             "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
@@ -439,11 +349,6 @@ var main_trials = {
             "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
             "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
             "category": "shopping"
-        },
-        {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
-            "category": "news"
         },
         {
             "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
@@ -471,11 +376,6 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/social_media/220px-Paljuilua_1.jpeg",
-            "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
-            "category": "shopping"
-        },
-        {
             "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
             "description": "A group of people sitting a hot tub located",
             "category": "social_media"
@@ -526,33 +426,8 @@ var main_trials = {
             "category": "science_journals"
         },
         {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge.",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
             "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-            "category": "news"
-        },
-        {
-            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
-            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
-            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
-            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
             "category": "news"
         },
         {
