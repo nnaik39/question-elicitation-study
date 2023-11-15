@@ -26,8 +26,8 @@ var main_trials = {
             "category": "health"
         },
         {
-            "filename": "images/travel/37044.jpg",
-            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
+            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
             "category": "travel"
         }
     ]
