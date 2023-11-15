@@ -26,8 +26,8 @@ var main_trials = {
             "category": "health"
         },
         {
-            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+            "filename": "images/news/Avalanche_on_Everest.jpeg",
+            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
             "category": "travel"
         }
     ]
