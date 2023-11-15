@@ -1,24 +1,9 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-            "category": "social_media"
-        },
-        {
             "filename": "images/health/2456.jpg",
             "description": "A bowl of Asian noodle salad with vegetables and herbs.",
             "category": "social_media"
-        },
-        {
-            "filename": "images/health/Foods_(cropped).jpeg",
-            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "category": "science_journals"
         },
         {
             "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
@@ -26,14 +11,14 @@ var main_trials = {
             "category": "shopping"
         },
         {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+            "category": "science_journals"
+        },
+        {
             "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
             "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
             "category": "news"
-        },
-        {
-            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
-            "category": "shopping"
         },
         {
             "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
@@ -43,21 +28,6 @@ var main_trials = {
         {
             "filename": "images/travel/37044.jpg",
             "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/news/Avalanche_on_Everest.jpeg",
-            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
             "category": "travel"
         }
     ]
