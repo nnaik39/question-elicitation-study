@@ -101,6 +101,11 @@ var main_trials = {
             "category": "shopping"
         },
         {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+            "category": "health"
+        },
+        {
             "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
             "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
             "category": "shopping"
@@ -114,6 +119,11 @@ var main_trials = {
             "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
             "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
             "category": "news"
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+            "category": "science_journals"
         },
         {
             "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
