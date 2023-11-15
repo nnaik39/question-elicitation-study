@@ -6,16 +6,6 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-            "category": "shopping"
-        },
-        {
             "filename": "images/health/2456.jpg",
             "description": "A bowl of Asian noodle salad with vegetables and herbs.",
             "category": "social_media"
@@ -26,49 +16,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/health/Foods_(cropped).jpeg",
-            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
-            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/travel/37044.jpg",
-            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/travel/Wdomenada2003b.jpeg",
-            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-            "category": "news"
-        },
-        {
-            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
-            "category": "travel"
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+            "category": "science_journals"
         },
         {
             "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
@@ -76,24 +26,9 @@ var main_trials = {
             "category": "shopping"
         },
         {
-            "filename": "images/news/Avalanche_on_Everest.jpeg",
-            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-            "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
             "category": "news"
-        },
-        {
-            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-            "category": "travel"
         },
         {
             "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
@@ -106,29 +41,24 @@ var main_trials = {
             "category": "health"
         },
         {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
-            "description": "A group of people sitting a hot tub located",
+            "filename": "images/travel/37044.jpg",
+            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
             "category": "travel"
         },
         {
-            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-            "category": "news"
+            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
+            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+            "category": "travel"
         },
         {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "category": "science_journals"
+            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
+            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+            "category": "travel"
         },
         {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "category": "news"
+            "filename": "images/news/Avalanche_on_Everest.jpeg",
+            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
+            "category": "travel"
         }
     ]
 }
