@@ -11,34 +11,9 @@
             "category": "shopping"
         },
         {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
-            "category": "news"
-        },
-        {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-            "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
-            "category": "shopping"
-        },
-        {
             "filename": "images/shopping/Electric_kettle.jpeg",
             "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
             "category": "shopping"
-        },
-        {
-            "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
-            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
-            "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
-            "category": "social_media"
         },
         {
             "filename": "images/health/2456.jpg",
@@ -66,11 +41,6 @@
             "category": "travel"
         },
         {
-            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
-            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
-            "category": "travel"
-        },
-        {
             "filename": "images/travel/37044.jpg",
             "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
             "category": "travel"
@@ -79,11 +49,6 @@
             "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
             "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
             "category": "travel"
-        },
-        {
-            "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
-            "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
-            "category": "shopping"
         },
         {
             "filename": "images/travel/Wdomenada2003b.jpeg",
@@ -144,16 +109,6 @@
             "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
             "description": "A group of people sitting a hot tub located",
             "category": "travel"
-        },
-        {
-            "filename": "images/social_media/170px-Baked_goods.jpeg",
-            "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
-            "category": "news"
         },
         {
             "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
