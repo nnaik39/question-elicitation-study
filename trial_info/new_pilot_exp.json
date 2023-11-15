@@ -1,21 +1,6 @@
 {
     "images": [
         {
-            "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
-            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
-            "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
-            "category": "health"
-        },
-        {
-            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
-            "category": "news"
-        },
-        {
             "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
             "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
             "category": "social_media"
@@ -31,16 +16,6 @@
             "category": "news"
         },
         {
-            "filename": "images/shopping/4068.jpg",
-            "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
-            "category": "shopping"
-        },
-        {
             "filename": "images/shopping/Virti_vaghani.jpeg",
             "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
             "category": "travel"
@@ -54,11 +29,6 @@
             "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
             "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
             "category": "shopping"
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-            "category": "health"
         },
         {
             "filename": "images/shopping/Electric_kettle.jpeg",
@@ -76,23 +46,8 @@
             "category": "social_media"
         },
         {
-            "filename": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
-            "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
-            "category": "health"
-        },
-        {
             "filename": "images/health/2456.jpg",
             "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-            "category": "health"
-        },
-        {
-            "filename": "images/health/2456.jpg",
-            "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "description": "A group of people are working out on indoor rowing machines at a gym.",
             "category": "social_media"
         },
         {
@@ -103,16 +58,6 @@
         {
             "filename": "images/health/Foods_(cropped).jpeg",
             "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
-            "category": "health"
-        },
-        {
-            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
             "category": "shopping"
         },
         {
@@ -126,19 +71,9 @@
             "category": "health"
         },
         {
-            "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-            "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
-            "category": "travel"
-        },
-        {
             "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
             "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
             "category": "travel"
-        },
-        {
-            "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
-            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
-            "category": "science_journals"
         },
         {
             "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
@@ -146,39 +81,9 @@
             "category": "travel"
         },
         {
-            "filename": "images/travel/2550.jpg",
-            "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/travel/2550.jpg",
-            "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/travel/13957.jpg",
-            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/travel/26005.jpg",
-            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
-            "category": "news"
-        },
-        {
-            "filename": "images/travel/30208.jpg",
-            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
-            "category": "social_media"
-        },
-        {
             "filename": "images/travel/37044.jpg",
             "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
             "category": "travel"
-        },
-        {
-            "filename": "images/travel/37044.jpg",
-            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-            "category": "science_journals"
         },
         {
             "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
@@ -206,11 +111,6 @@
             "category": "travel"
         },
         {
-            "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-            "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
-            "category": "travel"
-        },
-        {
             "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
             "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
             "category": "travel"
@@ -219,16 +119,6 @@
             "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
             "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
             "category": "news"
-        },
-        {
-            "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
-            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-            "category": "health"
-        },
-        {
-            "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
-            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-            "category": "travel"
         },
         {
             "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
@@ -238,62 +128,12 @@
         {
             "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
             "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
             "category": "travel"
-        },
-        {
-            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
-            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
-            "category": "science_journals"
         },
         {
             "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
             "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
             "category": "shopping"
-        },
-        {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-            "category": "travel"
-        },
-        {
-            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
-            "category": "travel"
-        },
-        {
-            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-            "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/science_journals/Wildland_Firefighter.jpeg",
-            "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/science_journals/Wildland_Firefighter.jpeg",
-            "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
-            "category": "news"
-        },
-        {
-            "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
-            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-            "category": "news"
-        },
-        {
-            "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
-            "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
-            "category": "news"
-        },
-        {
-            "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
-            "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
-            "category": "travel"
         },
         {
             "filename": "images/news/Avalanche_on_Everest.jpeg",
@@ -316,34 +156,9 @@
             "category": "news"
         },
         {
-            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
-            "category": "news"
-        },
-        {
-            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
-            "category": "news"
-        },
-        {
-            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
-            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
-            "category": "news"
-        },
-        {
-            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
-            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
             "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
             "category": "travel"
-        },
-        {
-            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-            "category": "health"
         },
         {
             "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
@@ -363,11 +178,6 @@
         {
             "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
             "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
-            "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
             "category": "news"
         },
         {
@@ -378,32 +188,12 @@
         {
             "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
             "description": "A group of people sitting a hot tub located",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
-            "description": "A group of people sitting a hot tub located",
             "category": "travel"
         },
         {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-            "category": "news"
-        },
-        {
             "filename": "images/social_media/170px-Baked_goods.jpeg",
             "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
             "category": "social_media"
-        },
-        {
-            "filename": "images/social_media/170px-Baked_goods.jpeg",
-            "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
-            "category": "health"
         },
         {
             "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
@@ -414,11 +204,6 @@
             "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
             "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
             "category": "social_media"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "category": "shopping"
         },
         {
             "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
@@ -439,11 +224,6 @@
             "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
             "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
             "category": "news"
-        },
-        {
-            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-            "category": "social_media"
         }
     ]
 }

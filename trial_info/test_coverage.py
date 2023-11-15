@@ -22,6 +22,11 @@ for participant in study_info:
             questions_per_image_context_pair[(trial['picture'], trial['category'])] = 0
         questions_per_image_context_pair[(trial['picture'], trial['category'])] += 2
 
+        if (trial['comments'] != ''):
+            print(trial['comments'])
+        if (trial['glb_comments'] != ''):
+            print(trial['glb_comments'])
+
 images_left = []
 
 for i in pilot_exp['images']:
