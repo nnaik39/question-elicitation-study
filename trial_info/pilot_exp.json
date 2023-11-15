@@ -26,8 +26,8 @@ var main_trials = {
             "category": "health"
         },
         {
-            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
+            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
             "category": "travel"
         }
     ]
