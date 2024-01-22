@@ -13,17 +13,7 @@ var main_trials = {
         {
             "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
             "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Rafting_em_Brotas.jpeg",
-            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-            "category": "shopping"
         },
         {
             "filename": "images/Rafting_em_Brotas.jpeg",
@@ -56,11 +46,6 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
-            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
-            "category": "health"
-        },
-        {
             "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
             "description": "Two martial arts athletes in mid-fight; one is executing a high kick to the head of the opponent.  The person doing the kicking is wearing blue and the person being kicked is in red.\n",
             "category": "news"
@@ -86,21 +71,6 @@ var main_trials = {
             "category": "science_journals"
         },
         {
-            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-            "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
-            "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
-            "category": "health"
-        },
-        {
-            "filename": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
-            "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
             "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
             "category": "social_media"
@@ -108,11 +78,6 @@ var main_trials = {
         {
             "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
             "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
-            "description": "View from a shaded archway showing a detailed historic building framed by archways against a blue sky.\n",
             "category": "travel"
         },
         {
@@ -213,11 +178,6 @@ var main_trials = {
         {
             "filename": "images/Fruit_Stall_in_Barcelona_Market.jpeg",
             "description": "A colorful street fruit market with bananas, mangoes, oranges, and other fruits on display. A woman carefully selecting fruit. \n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/Fruit_Stall_in_Barcelona_Market.jpeg",
-            "description": "A colorful street fruit market with bananas, mangoes, oranges, and other fruits on display. A woman carefully selecting fruit. \n",
             "category": "health"
         },
         {
@@ -253,11 +213,6 @@ var main_trials = {
         {
             "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
             "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
-            "category": "health"
-        },
-        {
-            "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
-            "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
             "category": "social_media"
         },
         {
@@ -274,11 +229,6 @@ var main_trials = {
             "filename": "images/Dan_+_Shay_in_2017.jpeg",
             "description": "Two musicians are performing on stage, one singing into a microphone and the other playing guitar, with colorful stage lighting, including red and yellow.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/Dan_+_Shay_in_2017.jpeg",
-            "description": "Two musicians are performing on stage, one singing into a microphone and the other playing guitar, with colorful stage lighting, including red and yellow.\n",
-            "category": "news"
         },
         {
             "filename": "images/Natural_foodstuff_004.jpeg",
@@ -294,11 +244,6 @@ var main_trials = {
             "filename": "images/15722.jpg",
             "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
             "category": "travel"
-        },
-        {
-            "filename": "images/15722.jpg",
-            "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-            "category": "science_journals"
         },
         {
             "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
@@ -319,11 +264,6 @@ var main_trials = {
             "filename": "images/500px-Soldier_running_in_water_original.jpeg",
             "description": "A white, shirtless, in-shape man in swim trunks is running through water, creating splashes around him, with a focused expression.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/Nilgiri_Mountain_Train.jpeg",
-            "description": "A steam train snakes through lush greenery on a copper-colored bridge, with passengers enjoying the view from open windows.\n",
-            "category": "travel"
         },
         {
             "filename": "images/Nilgiri_Mountain_Train.jpeg",
@@ -373,11 +313,6 @@ var main_trials = {
         {
             "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
             "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
             "category": "health"
         },
         {
@@ -413,11 +348,6 @@ var main_trials = {
         {
             "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
             "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
-            "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
             "category": "travel"
         },
         {
@@ -428,11 +358,6 @@ var main_trials = {
         {
             "filename": "images/Backpack_mounted_knife_D.D._Teoli_Jr.jpg",
             "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/New_york_times_square-terabass_(cropped).jpg",
-            "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
             "category": "travel"
         },
         {
@@ -486,11 +411,6 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
-            "description": "A French Bulldog dressed in a pink yoga outfit with a mat rolled up on its back. The dog is looking at the camera.\n",
-            "category": "shopping"
-        },
-        {
             "filename": "images/Texas_Zip_liner_5430.jpeg",
             "description": "A man in a red shirt and plaid shorts along with a helmet and is joyfully zip-lining against a backdrop of trees and sky. \n",
             "category": "travel"
@@ -541,16 +461,6 @@ var main_trials = {
             "category": "science_journals"
         },
         {
-            "filename": "images/002-soymilk.jpeg",
-            "description": "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk, with the soybeans as an ingredient. The green pods appear to be green beans.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/002-soymilk.jpeg",
-            "description": "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk, with the soybeans as an ingredient. The green pods appear to be green beans.\n",
-            "category": "health"
-        },
-        {
             "filename": "images/Ipomoea_stir_fry.jpeg",
             "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
             "category": "health"
@@ -593,37 +503,17 @@ var main_trials = {
         {
             "filename": "images/Nyle2.jpeg",
             "description": "A shirtless man with a beard, wearing white pants, stands by a window holding a coffee cup while thinking, in a bright room that is lit by the sunlight through the floor-to-ceiling glass windows.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Nyle2.jpeg",
-            "description": "A shirtless man with a beard, wearing white pants, stands by a window holding a coffee cup while thinking, in a bright room that is lit by the sunlight through the floor-to-ceiling glass windows.\n",
             "category": "shopping"
         },
         {
             "filename": "images/Leila_Goldkuhl_Chloe.jpeg",
             "description": "A woman in a casual outfit with a black cap, graphic tee, and light blue jeans walks on a city street.\n",
             "category": "shopping"
-        },
-        {
-            "filename": "images/Leila_Goldkuhl_Chloe.jpeg",
-            "description": "A woman in a casual outfit with a black cap, graphic tee, and light blue jeans walks on a city street.\n",
-            "category": "news"
         },
         {
             "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
             "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
             "category": "travel"
-        },
-        {
-            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Foodora_messenger.jpeg",
-            "description": "A Foodora delivery person in a pink/red jacket and helmet rides a blue bike with a large pink food delivery backpack as he crosses a bridge with water below.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/Foodora_messenger.jpeg",
@@ -686,11 +576,6 @@ var main_trials = {
             "category": "shopping"
         },
         {
-            "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-            "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/Gigi_Hadid_2016.png",
             "description": "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
             "category": "shopping"
@@ -713,11 +598,6 @@ var main_trials = {
         {
             "filename": "images/MICHAEL_KORS_221.jpeg",
             "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/MICHAEL_KORS_221.jpeg",
-            "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
             "category": "news"
         },
         {
@@ -729,11 +609,6 @@ var main_trials = {
             "filename": "images/Cable_Car_No._1_and_Alcatraz_Island.jpg",
             "description": "A cable car in San Francisco with Alcatraz Island in the background on a clear day.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
-            "description": "A row of models in various dresses are lined up on a modeling runway.\n",
-            "category": "shopping"
         },
         {
             "filename": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
@@ -754,11 +629,6 @@ var main_trials = {
             "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
             "description": "A mallard duck with it descent green head and white neck ring is floating on water.\n",
             "category": "travel"
-        },
-        {
-            "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
-            "description": "A mallard duck with it descent green head and white neck ring is floating on water.\n",
-            "category": "science_journals"
         },
         {
             "filename": "images/MarsCuriosityRover-Drilling-Sol170++-2.jpg",
@@ -804,11 +674,6 @@ var main_trials = {
             "filename": "images/15719.jpg",
             "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
             "category": "travel"
-        },
-        {
-            "filename": "images/15719.jpg",
-            "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
-            "category": "science_journals"
         }
     ]
 }

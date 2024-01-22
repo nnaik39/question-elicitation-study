@@ -7,9 +7,7 @@ f = open('pilot_exp.json')
 # a dictionary
 pilot_exp = json.load(f)
 
-# Load pilot exp here and if it's been covered, take it out!! :) 
-
-f = open('question-elicitation-study-gpt4-export.json')
+f = open('ig-vqa-default-rtdb-question-elicitation-study-gpt4-export.json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -22,16 +20,17 @@ for participant in study_info:
             questions_per_image_context_pair[(trial['picture'], trial['category'])] = 0
         questions_per_image_context_pair[(trial['picture'], trial['category'])] += 2
 
-        if (trial['comments'] != ''):
-            print(trial['comments'])
-        if (trial['glb_comments'] != ''):
-            print(trial['glb_comments'])
+#        if (trial['comments'] != ''):
+ #           print(trial['comments'])
+  #      if (trial['glb_comments'] != ''):
+   #         print(trial['glb_comments'])
 
 images_left = []
 
 for i in pilot_exp['images']:
     if ((i['filename'], i['category']) in questions_per_image_context_pair and questions_per_image_context_pair[(i['filename'], i['category'])] >= 4):
         print("Image ", i['filename'])
+        print("Questions: ", questions_per_image_context_pair[(i['filename'], i['category'])])
     else:
         images_left.append((i['filename'], i['category']))
         new_pilot_exp['images'].append(i)
