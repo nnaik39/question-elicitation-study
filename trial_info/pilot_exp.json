@@ -3,17 +3,12 @@ var main_trials = {
         {
             "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
             "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-            "category": "social_media"
+            "category": "news"
         },
         {
             "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
             "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
             "category": "travel"
-        },
-        {
-            "filename": "images/Solar_eclipse_1999_4.jpeg",
-            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-            "category": "news"
         },
         {
             "filename": "images/440px-Protein_shake.jpg",
@@ -24,6 +19,11 @@ var main_trials = {
             "filename": "images/220px-Ado-muka-shvanasana.jpeg",
             "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
             "category": "health"
+        },
+        {
+            "filename": "images/Ipomoea_stir_fry.jpeg",
+            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
+            "category": "social_media"
         },
         {
             "filename": "images/Bellagio_garden_crystal_ball.jpeg",
