@@ -1,7 +1,7 @@
 import json 
 import random 
 
-f = open('pilot_exp.json')
+f = open('full_question_elicitation_study.json')
  
 # returns JSON object as
 # a dictionary
@@ -31,10 +31,13 @@ images_left = []
 answer_elicitation_study = {}
 answer_elicitation_study['images'] = []
 
+total_images = []
+
 for i in pilot_exp['images']:
     if ((i['filename'], i['category']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'])]) >= 4):
         print("Image ", i['filename'])
 
+        total_images.append(i['filename'])
         for question in questions_per_image_context_pair[(i['filename'], i['category'])]:
             answer_elicitation_study['images'].append({
                 'filename': i['filename'],
@@ -45,6 +48,8 @@ for i in pilot_exp['images']:
     else:
         images_left.append((i['filename'], i['category']))
         new_pilot_exp['images'].append(i)
+
+print("Total images in answer elicitation study: ", len(list(set(total_images))))
 
 images_left = list(set(images_left))
 print("Number of images left ", len(images_left))

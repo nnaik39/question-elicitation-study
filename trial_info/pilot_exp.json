@@ -1,49 +1,34 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/440px-Kale_&_Poached_Eggs_Salad_(8733071700).jpg",
-            "description": "A poached egg atop a bed of kale salad in a white bowl.\n",
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
             "category": "social_media"
         },
         {
-            "filename": "images/Gordon_Ramsay_cooking_(262930612).jpeg",
-            "description": "Celebrity chef Gordon Ramsey cooking in an outdoor kitchen surrounded by an audience, with a woman assisting him.\n",
-            "category": "social_media"
+            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+            "category": "travel"
         },
         {
-            "filename": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
-            "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
-            "category": "social_media"
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "category": "news"
         },
         {
-            "filename": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
-            "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a blue plume of mineral-rich water.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/440px-Vegas_by_night_(360655015).jpeg",
-            "description": "Aerial view of a brightly lit city at night with dense buildings and long streets.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Texas_Zip_liner_5430.jpeg",
-            "description": "A man in a red shirt and plaid shorts along with a helmet and is joyfully zip-lining against a backdrop of trees and sky. \n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/500px-Backzutaten_041.jpeg",
-            "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
+            "filename": "images/440px-Protein_shake.jpg",
+            "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
             "category": "shopping"
         },
         {
-            "filename": "images/Cable_Car_No._1_and_Alcatraz_Island.jpg",
-            "description": "A cable car in San Francisco with Alcatraz Island in the background on a clear day.\n",
-            "category": "social_media"
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "category": "health"
         },
         {
-            "filename": "images/470px-Uggs2.jpeg",
-            "description": "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
-            "category": "social_media"
+            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
+            "description": "A large crystal ball stands in a lush garden with red and yellow flowers and a wooden fence in the background.\n",
+            "category": "science_journals"
         }
     ]
 }

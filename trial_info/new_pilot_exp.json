@@ -2,12 +2,12 @@
     "images": [
         {
             "filename": "images/440px-Kale_&_Poached_Eggs_Salad_(8733071700).jpg",
-            "description": "A poached egg atop a bed of kale salad in a white bowl.\n",
+            "description": "A sharp contrast of a pillowy white poached egg atop a bed of kale salad in a white bowl.\n\n",
             "category": "social_media"
         },
         {
             "filename": "images/Gordon_Ramsay_cooking_(262930612).jpeg",
-            "description": "Celebrity chef Gordon Ramsey cooking in an outdoor kitchen surrounded by an audience, with a woman assisting him.\n",
+            "description": "Celebrity chef in an outdoor kitchen at a cooking competition. The chef is evaluating the cooking of a contestant. There are other people milling around in the background\n",
             "category": "social_media"
         },
         {
@@ -17,17 +17,17 @@
         },
         {
             "filename": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
-            "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a blue plume of mineral-rich water.\n",
+            "description": "Underwater photo of black smoke, a type of hydrothermal vent, emitting a plume of mineral-rich water.\n",
             "category": "science_journals"
         },
         {
             "filename": "images/440px-Vegas_by_night_(360655015).jpeg",
-            "description": "Aerial view of a brightly lit city at night with dense buildings and long streets.\n",
+            "description": "Aerial view of a brightly lit city at night with dense buildings and long streets.  The shot just before dawn or after dusk as the sky is above is partly cloudy in gray/blue hues with pink off towards the horizon.\n",
             "category": "social_media"
         },
         {
             "filename": "images/Texas_Zip_liner_5430.jpeg",
-            "description": "A man in a red shirt and plaid shorts along with a helmet and is joyfully zip-lining against a backdrop of trees and sky. \n",
+            "description": "A man in a red shirt and helmet is joyfully zip-lining against a backdrop of trees and sky.\n",
             "category": "social_media"
         },
         {
@@ -36,14 +36,34 @@
             "category": "shopping"
         },
         {
+            "filename": "images/15736.jpg",
+            "description": "A black and white duck with a distinctive yellow eye standing on grass.\n",
+            "category": "science_journals"
+        },
+        {
+            "filename": "images/15736.jpg",
+            "description": "A black and white duck with a distinctive yellow eye standing on grass.\n",
+            "category": "travel"
+        },
+        {
             "filename": "images/Cable_Car_No._1_and_Alcatraz_Island.jpg",
-            "description": "A cable car in San Francisco with Alcatraz Island in the background on a clear day.\n",
+            "description": "A cable car moves uphill toward the photographer in San Francisco with Alcatraz Island in the background on a clear day.  There's a small marina at the bottom of the hill with several boats sailing near the island.\n",
             "category": "social_media"
         },
         {
             "filename": "images/470px-Uggs2.jpeg",
             "description": "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
             "category": "social_media"
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "category": "social_media"
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "category": "news"
         }
     ]
 }
