@@ -28,6 +28,8 @@ exp.customize = function() {
 
     health = _.sampleSize(health, 1);
 
+    console.log("health ", health)
+
     imageSeenBefore.push(health[0]['filename']);
 
 //    console.log("image seen before ", imageSeenBefore)
