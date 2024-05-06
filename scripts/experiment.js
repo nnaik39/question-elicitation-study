@@ -32,10 +32,6 @@ exp.customize = function() {
 
     imageSeenBefore.push(health[0]['filename']);
 
-//    console.log("image seen before ", imageSeenBefore)
-
-//    console.log("Health ", health)
-
     news_journals = [];
 
     for (let i = 0; i < main_trials.length; i++) {

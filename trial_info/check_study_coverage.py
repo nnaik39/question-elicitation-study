@@ -1,13 +1,13 @@
 import json 
 import random 
 
-f = open('full_question_elicitation_study.json')
+f = open('pilot_exp.json')
  
 # returns JSON object as
 # a dictionary
 pilot_exp = json.load(f)
 
-f = open('ig-vqa-default-rtdb-question-elicitation-study-gpt4-export.json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export.json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -21,10 +21,10 @@ for participant in study_info:
         questions_per_image_context_pair[(trial['picture'], trial['category'])].append(trial['q1'])
         questions_per_image_context_pair[(trial['picture'], trial['category'])].append(trial['q2'])
 
-#        if (trial['comments'] != ''):
- #           print(trial['comments'])
-  #      if (trial['glb_comments'] != ''):
-   #         print(trial['glb_comments'])
+        if (trial['comments'] != ''):
+            print(trial['comments'])
+        if (trial['glb_comments'] != ''):
+            print(trial['glb_comments'])
 
 images_left = []
 
@@ -34,7 +34,7 @@ answer_elicitation_study['images'] = []
 total_images = []
 
 for i in pilot_exp['images']:
-    if ((i['filename'], i['category']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'])]) >= 4):
+    if ((i['filename'], i['category']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'])]) >= 2):
         print("Image ", i['filename'])
 
         total_images.append(i['filename'])
@@ -52,7 +52,7 @@ for i in pilot_exp['images']:
 print("Total images in answer elicitation study: ", len(list(set(total_images))))
 
 images_left = list(set(images_left))
-print("Number of images left ", len(images_left))
+print("Number of image-context pairs left ", len(images_left))
 
 json_object = json.dumps(new_pilot_exp, indent=4)
  
