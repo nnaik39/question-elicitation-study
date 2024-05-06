@@ -7,7 +7,7 @@ f = open('pilot_exp.json')
 # a dictionary
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (6).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (8).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -17,9 +17,9 @@ questions_per_image_context_pair = {}
 for participant in study_info:
     for trial in study_info[participant]:
         if ((trial['picture'], trial['category']) not in questions_per_image_context_pair):
-            questions_per_image_context_pair[(trial['picture'], trial['category'])] = []
-        questions_per_image_context_pair[(trial['picture'], trial['category'])].append(trial['q1'])
-        questions_per_image_context_pair[(trial['picture'], trial['category'])].append(trial['q2'])
+            questions_per_image_context_pair[(trial['picture'], trial['category'], trial['description'])] = []
+        questions_per_image_context_pair[(trial['picture'], trial['category'], trial['description'])].append(trial['q1'])
+        questions_per_image_context_pair[(trial['picture'], trial['category'], trial['description'])].append(trial['q2'])
 
         if (trial['comments'] != ''):
             print(trial['comments'])
@@ -34,11 +34,10 @@ answer_elicitation_study['images'] = []
 total_images = []
 
 for i in pilot_exp['images']:
-    if ((i['filename'], i['category']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'])]) >= 2):
-        print("Image ", i['filename'])
-
+    if ((i['filename'], i['category'], i['description']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]) >= 2):
         total_images.append(i['filename'])
-        for question in questions_per_image_context_pair[(i['filename'], i['category'])]:
+
+        for question in questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]:
             answer_elicitation_study['images'].append({
                 'filename': i['filename'],
                 'category': i['category'],
