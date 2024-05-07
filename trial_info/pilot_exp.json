@@ -6,6 +6,31 @@ var main_trials = {
             "category": "news"
         },
         {
+            "filename": "images/Woman_in_Heavily_Patterned_One-Piece_Swimsuit_(49171383276).jpeg",
+            "description": "A woman in a patterned one-piece swimsuit emerging from the ocean.",
+            "category": "health"
+        },
+        {
+            "filename": "images/Soy-whey-protein-diet.jpeg",
+            "description": "Assorted fruits, vegetables, grains, a glass of milk, and a bowl of yogurt.\n",
+            "category": "health"
+        },
+        {
+            "filename": "images/Pineapple_and_cross_section.jpeg",
+            "description": "A picture of two pineapples or one pineapple cut in half. Pineapple on the right is clearly cut in half but you can only see the back of the pineapple on the left.\n",
+            "category": "health"
+        },
+        {
+            "filename": "images/440px-Mixed_onions.jpeg",
+            "description": "A variety of whole and sliced onions on a reflective black surface.\n",
+            "category": "health"
+        },
+        {
+            "filename": "images/Bee_pollinating_Blackberry.jpeg",
+            "description": "A bee pollinating the white flowers of a blackberry bush in front of a wooden fence.\n",
+            "category": "health"
+        },
+        {
             "filename": "images/Beluga_premier.gov.ru-1.jpeg",
             "description": "A smiling beluga whale above water.\n",
             "category": "science_journals"
