@@ -5,7 +5,7 @@ f = open('full_question_elicitation_study.json')
  
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (18).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (40).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -39,6 +39,8 @@ for i in pilot_exp['images']:
 
         questions = random.sample(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])], 2)
 
+        print("Two randomly sampled questions: ", questions)
+        
         for question in questions:
             answer_elicitation_study['images'].append({
                 'filename': i['filename'],

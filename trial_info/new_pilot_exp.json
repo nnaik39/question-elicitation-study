@@ -14,6 +14,26 @@
             "filename": "images/440px-Bikes_in_Portland.jpeg",
             "description": "A lively street scene with a diverse crowd of people on bicycles, some wearing colorful outfits.\n",
             "category": "social_media"
+        },
+        {
+            "filename": "images/400px-Poinsettia_thumbnail.jpeg",
+            "description": "A variety of poinsettias with red and pink leaves with some green leaves under.\n",
+            "category": "health"
+        },
+        {
+            "filename": "images/400px-Poinsettia_thumbnail.jpeg",
+            "description": "A variety of poinsettias with red and pink leaves with some green leaves under.\n",
+            "category": "social_media"
+        },
+        {
+            "filename": "images/440px-Indios_isolados_no_Acre_12.jpeg",
+            "description": "An aerial view of a remote tribal village amidst a dense forest. A half dozen or so natives seem to be looking up at the few trees in front of them. The picture makes them all look orange.\n",
+            "category": "science_journals"
+        },
+        {
+            "filename": "images/440px-Indios_isolados_no_Acre_12.jpeg",
+            "description": "An aerial view of a remote tribal village amidst a dense forest. A half dozen or so natives seem to be looking up at the few trees in front of them. The picture makes them all look orange.\n",
+            "category": "news"
         }
     ]
 }
