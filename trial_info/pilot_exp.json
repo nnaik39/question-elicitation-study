@@ -61,6 +61,11 @@ var main_trials = {
             "category": "social_media"
         },
         {
+            "filename": "images/Peter_Nestler_-_Jump-roping_around_the_world.jpeg",
+            "description": "Man doing a jump rope trick in mid-air.",
+            "category": "health"
+        },
+        {
             "filename": "images/Charli_D'Amelio_at_KCA_2022.jpeg",
             "description": "Charlie D'amilo (tik-toker, turned reality star) holding an Nickelodeon award on stage, with a microphone and touching her heart.\n",
             "category": "shopping"
