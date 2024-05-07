@@ -1,38 +1,28 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/440px-Cara_Delevingne_During_LFW_SS15.jpeg",
-            "description": "A tall and thin model with long straight blond hair strutting on a runway in a white minidress with red and black wide stripe accents, carrying a large blue bag.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Beluga_premier.gov.ru-1.jpeg",
-            "description": "A smiling beluga whale above water.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
-            "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
+            "filename": "images/Young_ladies_at_Harajuku.jpeg",
+            "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
             "category": "travel"
         },
         {
-            "filename": "images/Woman_in_Heavily_Patterned_One-Piece_Swimsuit_(49171383276).jpeg",
-            "description": "A woman in a patterned one-piece swimsuit emerging from the ocean.",
+            "filename": "images/Lion_waiting_in_Namibia.jpeg",
+            "description": "A resting lion in golden grass looking out into the grasslands.\n",
+            "category": "science_journals"
+        },
+        {
+            "filename": "images/Acro-tcd.jpeg",
+            "description": "Two acrobatic gymnasts performing a balancing act in leotards. The gymnast on top is doing the splits. The gymnast of the bottom is holding the other up in the air.\n",
             "category": "health"
         },
         {
-            "filename": "images/Batik_Fashion_01.jpeg",
-            "description": "A model in a traditional batik skirt and white blouse posing on a catwalk.\n",
+            "filename": "images/Young_woman_in_mariniere,_denim_jacket_en_wrap_skirt.jpeg",
+            "description": "A woman in a casual outfit leaning against a wall.\n",
             "category": "shopping"
         },
         {
-            "filename": "images/IDHM_Wasserspringen_2018-02-18_3m_mixed_Vorkampf_Sprung_3_18.jpeg",
-            "description": "The divers mid-air after their jump during a synchronized diving event.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Mumbadevi_temple.jpeg",
-            "description": "A temple with colorful flags atop a worn facade.\n",
+            "filename": "images/440px-Cara_Delevingne_During_LFW_SS15.jpeg",
+            "description": "A tall and thin model with long straight blond hair strutting on a runway in a white minidress with red and black wide stripe accents, carrying a large blue bag.\n",
             "category": "news"
         },
         {
@@ -46,26 +36,6 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/440px-Redsweeper.jpeg",
-            "description": "A person operating a large industrial lawn sweeper in an orchard.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
-            "description": "Close-up of an electric eel showing its skin and sensory pits.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Lily_Allen_-_Tufnell_Park_Dome_-_Wednesday_21st_March_2018_LilyTufnell210318-11_(40111059665)_(cropped).jpeg",
-            "description": "A performer singing into a microphone, bathed in red light, wearing a leopard print top. and really immersed in the song\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Royals.18d884.1850611.jpg",
-            "description": "A woman in a red patterned dress bending down to talk to children.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/Fast_Fashion_killt_das_Klima.jpeg",
             "description": "A crowd holding a banner protesting fast fashion and its impact on climate.\n",
             "category": "news"
@@ -73,11 +43,6 @@ var main_trials = {
         {
             "filename": "images/Kate_Moss_-_Decorte_advertisement_(cropped2).jpeg",
             "description": "A model with flowing blond hair in a lace garment posing for an ad.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/President_Joe_Biden_and_Olivia_Rodrigo.jpeg",
-            "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
             "category": "news"
         },
         {
@@ -91,28 +56,8 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/Indian_mannequin2.jpeg",
-            "description": "A mannequin in traditional Indian dress with a green shawl stands in front of a shop.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/240px-Kalttanks.Weissbier.Brauerei.Aying.jpg",
             "description": "A brewery\u2019s sterile interior with stainless steel tanks and pipes for beer production.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Knitted-clothing-factory.jpeg",
-            "description": "A person in blue coveralls working on large textile machinery.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
-            "description": "Village with vineyards, a church, and many trees.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/440px-Ban_Huahat07.jpeg",
-            "description": "A group of Asian people eating around a long mat.\n",
             "category": "social_media"
         },
         {
@@ -133,16 +78,6 @@ var main_trials = {
         {
             "filename": "images/440px-Bikes_in_Portland.jpeg",
             "description": "A lively street scene with a diverse crowd of people on bicycles, some wearing colorful outfits.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/440px-Exp18home_nasa_big.jpeg",
-            "description": "An astronaut sitting as if he were in an airplane, gazing at Earth through a spacecraft window wearing headphones.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Woman_in_rah-rah_skirt.jpeg",
-            "description": "A blonde haired woman wearing layered skirt, black blouse, and multi-colored scarf, carrying a purple tote bag and shopping bag, walks on the grass while looking at something to her side.\n",
             "category": "social_media"
         }
     ]
