@@ -1,13 +1,11 @@
 import json 
 import random 
 
-f = open('pilot_exp.json')
+f = open('full_question_elicitation_study.json')
  
-# returns JSON object as
-# a dictionary
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (21).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (18).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -37,6 +35,7 @@ for i in pilot_exp['images']:
     if ((i['filename'], i['category'], i['description']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]) >= 2):
         total_images.append(i['filename'])
 
+        # Let me only add two questions per image-context pair!! That's already 3,400 questions!
         for question in questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]:
             answer_elicitation_study['images'].append({
                 'filename': i['filename'],

@@ -6,34 +6,9 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/Woman_in_Heavily_Patterned_One-Piece_Swimsuit_(49171383276).jpeg",
-            "description": "A woman in a patterned one-piece swimsuit emerging from the ocean.",
-            "category": "health"
-        },
-        {
             "filename": "images/Soy-whey-protein-diet.jpeg",
             "description": "Assorted fruits, vegetables, grains, a glass of milk, and a bowl of yogurt.\n",
             "category": "health"
-        },
-        {
-            "filename": "images/Pineapple_and_cross_section.jpeg",
-            "description": "A picture of two pineapples or one pineapple cut in half. Pineapple on the right is clearly cut in half but you can only see the back of the pineapple on the left.\n",
-            "category": "health"
-        },
-        {
-            "filename": "images/440px-Mixed_onions.jpeg",
-            "description": "A variety of whole and sliced onions on a reflective black surface.\n",
-            "category": "health"
-        },
-        {
-            "filename": "images/Bee_pollinating_Blackberry.jpeg",
-            "description": "A bee pollinating the white flowers of a blackberry bush in front of a wooden fence.\n",
-            "category": "health"
-        },
-        {
-            "filename": "images/Beluga_premier.gov.ru-1.jpeg",
-            "description": "A smiling beluga whale above water.\n",
-            "category": "science_journals"
         },
         {
             "filename": "images/Forest_dominated_by_Gilbertiodendron_dewevrei_02.jpeg",
@@ -41,34 +16,9 @@ var main_trials = {
             "category": "science_journals"
         },
         {
-            "filename": "images/Gemma_Ward.jpeg",
-            "description": "A young model with long blonde hair in a wide-brimmed hat on a fashion runway.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
-            "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/213px-Kim_2010_Olympic_FS.jpeg",
-            "description": "A young, female figure skater in a spin with one leg extended back and one arm straight up in the air, wearing a dark blue leotard and tan tights.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/440px-Concia_di_zucchine.jpeg",
-            "description": "A dish of seasoned and saut\u00e9ed zucchini slices, garnished with herbs and red chili peppers.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/440px-Cara_Delevingne_During_LFW_SS15.jpeg",
             "description": "A tall and thin model with long straight blond hair strutting on a runway in a white minidress with red and black wide stripe accents, carrying a large blue bag.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/440px-Formation_recorte.jpeg",
-            "description": "A performer with long brown hair in sparkling pink attire singing to an audience in the rain with a smile on her face with on hand holding a golden mic and the other hand over her heart.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/Male_and_female_chicken_sitting_together.jpeg",
@@ -76,38 +26,8 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/440px-Folk_Dancing_at_Jack_in_the_Green.jpeg",
-            "description": "A woman dancing in traditional garb with a leafy wreath on her head at a festive event.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Folk_Dancing_at_Jack_in_the_Green.jpeg",
-            "description": "A woman dancing in traditional garb with a leafy wreath on her head at a festive event.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Peter_Nestler_-_Jump-roping_around_the_world.jpeg",
-            "description": "Man doing a jump rope trick in mid-air.",
-            "category": "health"
-        },
-        {
             "filename": "images/Charli_D'Amelio_at_KCA_2022.jpeg",
             "description": "Charlie D'amilo (tik-toker, turned reality star) holding an Nickelodeon award on stage, with a microphone and touching her heart.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/Charli_D'Amelio_at_KCA_2022.jpeg",
-            "description": "Charlie D'amilo (tik-toker, turned reality star) holding an Nickelodeon award on stage, with a microphone and touching her heart.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/BackBay_skyline.jpeg",
-            "description": "A panoramic view of a dense city skyline along a coastline.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/BackBay_skyline.jpeg",
-            "description": "A panoramic view of a dense city skyline along a coastline.\n",
             "category": "social_media"
         },
         {
@@ -121,16 +41,6 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/Jiuqudong_2003-01.jpeg",
-            "description": "A rocky gorge with a river flowing through it, flanked by rugged cliffs and lush vegetation.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Verrine.jpeg",
-            "description": "A layered fruit dessert topped with sprouts in a glass.\n",
-            "category": "shopping"
-        },
-        {
             "filename": "images/320px-Atlantic_Attack_Ringette_Team.jpeg",
             "description": "Players in a ringette game in motion on the ice.\n",
             "category": "news"
@@ -141,74 +51,14 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/Okonjima_Lioness.jpeg",
-            "description": "Lioness sitting on the ground in a savanna.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/CompetitivePumpkins.jpeg",
-            "description": "Two giant pumpkins on display, one orange and one beige, with tags.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/CompetitivePumpkins.jpeg",
-            "description": "Two giant pumpkins on display, one orange and one beige, with tags.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Kerala_Government_Secretariat,_Thiruvananthapuram,_Kerala,_India.jpeg",
-            "description": "Statue in front of a colonial-style building with arches and a central dome, surrounded by palm trees and a garden.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Phrik_khi_nu.jpeg",
-            "description": "A bunch of green and red chili peppers arranged on a clear glass plate.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/Business_Centre_of_Moscow_2.jpeg",
-            "description": "Moscow's skyline at dusk with illuminated modern skyscrapers.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/268px-Burgerstrabe_26+24_(BT0A2830).jpeg",
             "description": "Colorful buildings line a city street with cars under a clear blue sky.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/400px-Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472506936).jpeg",
-            "description": "People in a small boat on a wide river with lush banks with some clouds in the sky.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Marine_Drive_Skyline.jpeg",
-            "description": "A bustling cityscape along a waterfront at sunset. The area is full of people and vehicles. The background of the sky is a mixture of autumn colors\n",
             "category": "social_media"
         },
         {
             "filename": "images/440px-Kendall_hat_2017.jpeg",
             "description": "A moody portrait of a young person in a cap and dark sweater, looking introspective.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Pacific_Walrus_-_Bull_(8247646168).jpeg",
-            "description": "Walrus with large tusks on ice.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/330px-Zohre_Esmaeli_1.jpeg",
-            "description": "A model in a vibrant, patterned ethnic outfit on a runway.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Sher_Khan_(cropped).jpeg",
-            "description": "A large, muscular male tiger walking through a very green field.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/ISS-36_HTV-4_berthing_2.jpeg",
-            "description": "A robotic arm of the ISS attaching to a spacecraft in orbit.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
@@ -223,27 +73,7 @@ var main_trials = {
         {
             "filename": "images/440px-Redsweeper.jpeg",
             "description": "A person operating a large industrial lawn sweeper in an orchard.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/440px-Redsweeper.jpeg",
-            "description": "A person operating a large industrial lawn sweeper in an orchard.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/Sundarban_Tiger.jpeg",
-            "description": "Large orange tiger standing by water near a tree in the wild.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Simone_Biles_Rio_2016e.jpeg",
-            "description": "Simone Biles, a young female gymnast wears an american themed body suit and poses with raised arms\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "category": "shopping"
         },
         {
             "filename": "images/440px-Green_tea_3_appearances.jpeg",
@@ -251,19 +81,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Catedral_Arequipa,_Peru.jpeg",
-            "description": "A majestic cathedral with two towering spires against a clear sky with people outside\n",
-            "category": "travel"
-        },
-        {
             "filename": "images/600px-Sunspot_TRACE.jpeg",
             "description": "A fiery solar eruption with plasma loops emanating from a sunspot.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Jungfraujoch_090425.jpeg",
-            "description": "A panoramic snowy mountain vista with visitors, overlooking a vast glacial field under a blue sky. Skiers are near the vista.\n",
-            "category": "travel"
         },
         {
             "filename": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
@@ -271,19 +91,9 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/Fiji_palace_guard.jpeg",
-            "description": "A black Fijian palace guard in traditional red and white uniform with a rifle stands at attention. The red part of the uniform is the top and the white part is the bottom.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/Nikolai_Budarin_in_a_sleep_station_in_Zvezda.jpeg",
             "description": "An astronaut working on a laptop in a space station module.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
-            "description": "A historic yellow building with arched windows beside some trees and fountain.\n",
-            "category": "travel"
         },
         {
             "filename": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
@@ -296,39 +106,9 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/Batik_Fashion_01.jpeg",
-            "description": "A model in a traditional batik skirt and white blouse posing on a catwalk.\n",
-            "category": "shopping"
-        },
-        {
             "filename": "images/440px-Royals.18d884.1850611.jpg",
             "description": "A woman in a red patterned dress bending down to talk to children.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Langar.jpeg",
-            "description": "A large gathering of people sitting orderly on a red-carpeted floor, all eating their meals.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-FruitArrangement.jpeg",
-            "description": "A collection of colorful vegetables and fruits, including tomatoes and squash gathered together in and around a metal bowl.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/440px-Winnie_Harlow_Cannes_2018.jpeg",
-            "description": "An African-American woman with vitiligo in a green off-shoulder gown waving.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Ashley_Graham_2018.png",
-            "description": "A woman with brown hair in a white top.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpeg",
-            "description": "Aerial view of a city on an island.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/Fast_Fashion_killt_das_Klima.jpeg",
@@ -356,31 +136,6 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/Priyanka_Chopra_2003.jpeg",
-            "description": "Actress Priyanka Chopra in traditional attire, wearing a blue dress with brightly colored beads.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/El_bosque_inundado_amazonico-cosmocaixa-2009_(2).jpeg",
-            "description": "Lush indoor tropical forest exhibit with large tree trunks and green foliage.\n\nEverything looks very green, lush and bursting with life.  There is an enormous tree with a wide trunk with various plants surrounding the tree.  Feels very rainforest-like.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/El_bosque_inundado_amazonico-cosmocaixa-2009_(2).jpeg",
-            "description": "Lush indoor tropical forest exhibit with large tree trunks and green foliage.\n\nEverything looks very green, lush and bursting with life.  There is an enormous tree with a wide trunk with various plants surrounding the tree.  Feels very rainforest-like.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Bekal_Fort_Kasargod.jpeg",
-            "description": "An ancient fort on green grass overlooking the sea on a cloudy day.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/440px-FRIM_canopy.jpeg",
-            "description": "View from beneath a dense canopy of tall trees with a patterned sky.\n",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/440px-GemmaWard.jpeg",
             "description": "A blonde model struts down a fashion runway in a ruffled brown gown.\n",
             "category": "news"
@@ -389,11 +144,6 @@ var main_trials = {
             "filename": "images/Mole_in_Puebla.jpeg",
             "description": "A plate of black mole sauce over chicken with rice. The chicken is not visible, so the black mole sauce ends up looking like a giant black hole ingulfing the white rice with a tiny sprig of green on top of the hill of the rice. It sort of looks like a ying-yang sign.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/440px-2009_Jungfraujoch.jpeg",
-            "description": "Two people stand near a large, blue-tinged crevasse in a snowy landscape.\n",
-            "category": "science_journals"
         },
         {
             "filename": "images/Korean_shaved_ice-Green_tea_bingsu-07.jpeg",
@@ -411,29 +161,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/440px-Jumper_altered_PsCSJPG10.jpeg",
-            "description": "A plain white knitted sweater on a plain background.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Surya_Namaskar_sculpture_at_IGIA_T3_(cropped).jpeg",
-            "description": "Artistic sculpture of human figures in a boat.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/240px-Kalttanks.Weissbier.Brauerei.Aying.jpg",
-            "description": "A brewery\u2019s sterile interior with stainless steel tanks and pipes for beer production.\n",
-            "category": "travel"
-        },
-        {
             "filename": "images/240px-Kalttanks.Weissbier.Brauerei.Aying.jpg",
             "description": "A brewery\u2019s sterile interior with stainless steel tanks and pipes for beer production.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/440px-Tinikling.jpeg",
-            "description": "A group of young ladies wearing yellow dresses and plaid dresses performing a traditional Filipino bamboo dance.\n",
-            "category": "travel"
         },
         {
             "filename": "images/Parque_eolico_La_Muela.jpeg",
@@ -461,38 +191,13 @@ var main_trials = {
             "category": "news"
         },
         {
-            "filename": "images/Feliz_Dia_de_la_Revolucion_Mexico.jpeg",
-            "description": "Children in traditional Mexican attire in a parade, holding a banner for 'D\u00eda de la Revoluci\u00f3n'.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/340px-Gabriel_Garko_and_Laura_Torrisi_-_nicogenin_-_66me_Festival_de_Venise_(Mostra)_-_The_Road_(3).jpeg",
-            "description": "A man in a white tuxedo and a woman in a black slit gown pose together on the red carpet.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
             "description": "A colorful aquarium with bright fish and multicolored pebbles.\n",
             "category": "social_media"
         },
         {
-            "filename": "images/340px-Grizzly_Bear_Fishing_Brooks_Falls.jpeg",
-            "description": "A grizzly bear focused on catching a salmon in a turbulent waterfall.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/440px-Almond_blossom02_aug_2007.jpeg",
-            "description": "Delicate white with faint hues of pink almond blossoms on a branch along next to flower buds. \n",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/NFL_2020_-_Playoffs_-_Washington_vs._Buccaneers_223_(50833097576).jpg",
             "description": "A football player in a red jersey looking to the side. The helmet is black and there's a 12 on the jersey.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/340px-Priyanka_on_the_ramp_for_Mijwan_fashion_show.jpeg",
-            "description": "A beautiful brown long haired Indian woman in traditional decorative Indian attire and pierced belly button posing on a runway with one arm bent with hand resting on her hip and other arm hanging down by her side.\n",
             "category": "news"
         },
         {
@@ -506,49 +211,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Alappuzha_loves_Wikimedia_IMG_7698.jpeg",
-            "description": "A houseboat on calm waters with palm trees in the background. There is a building next to the palm trees.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/340px-Ousmane_Dembele_World_Cup_Trophy.jpeg",
-            "description": "A emotional soccer player kneeling while kissing the World Cup trophy.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Desfile_del_Bicentenario_en_Tlahuac_MX-DF.jpeg",
-            "description": "People in traditional Mexican outfits marching in a parade.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Chiapas_Rainforest.jpeg",
-            "description": "A dense rainforest with vibrant green foliage and tangled vegetation.\n",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/500px-John_Varvatos_Fall_2010_04.jpeg",
             "description": "A male model walking down a runway in a dark, layered outfit, with candles lit behind him as scenery.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
-            "description": "A white Christmas cake with \u201cMerry Christmas\u201d written on top, adorned with a small present decoration.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/Jairo_Martinez_in_2023.jpeg",
-            "description": "A smiling individual with a trendy haircut wearing a black top adorned with colorful necklace.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/340px-1965_Chanel_suit_and_silk_blouse.jpeg",
-            "description": "A vintage Chanel suit and silk blouse on a mannequin, displayed with pearls and heels.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Noaa-walrus12.jpeg",
-            "description": "Group of rough skinned walruses with long white tusks leisurely rest on a set of black rocks near a body of water.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/440px-Ban_Huahat07.jpeg",
@@ -556,19 +221,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Opened_scallop_shell.jpeg",
-            "description": "it is an open oyster shell with what appears to be a hidden pearl inside.\n",
-            "category": "shopping"
-        },
-        {
             "filename": "images/Test_Five_AU_vs_GBR_0489.jpeg",
             "description": "Water polo match between women teams is in progress.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Test_Five_AU_vs_GBR_0489.jpeg",
-            "description": "Water polo match between women teams is in progress.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/440px-thumbnail.jpeg",
@@ -576,23 +231,8 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Plongee-RecycleurInspiration_20040221-153656.jpeg",
-            "description": "Diving equipment with tanks and hoses sitting atop of a wooden surface in a room with a metallic wall.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/Demi_Lovato_(Red_carpet)_-_Global_Citizen_Festival_Hamburg_07.jpeg",
             "description": "A woman with long, wavy brown hair stands with a slight smile on the red carpet.  She is wearing a sleeveless, blue dress with a center front zipper that is unzipped about 4 to 5 inches.  \n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Sidemount_032_Photo_by_Pete_Nawrocky.jpeg",
-            "description": "Diver with a large flashlight underwater. \n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Depart4x100.jpeg",
-            "description": "Swimmers poised on starting blocks at an Olympic pool, about to dive in. There are 7 swimmers with their teammates behind them looking on.\n",
             "category": "news"
         },
         {
@@ -616,24 +256,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/520px-Laika_ac_Sputnik_2_Replica_(6995685051).jpeg",
-            "description": "A metallic cone-shaped object, possibly space-related equipment in what appears to a museum setting \n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Smart_Casual_Dress_Example.jpeg",
-            "description": "A person in a grey blazer and jeans seated on a stool, depicting smart casual attire.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/Valentino_Liz_Hurley_Cannes.jpeg",
             "description": "Couple in formal wear on a red carpet.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Focaccia_al_rosmarino.jpeg",
-            "description": "Rosemary focaccia bread in a basket, ready to be served.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/440px-Aardappel_blad_Solanum_tuberosum.jpeg",
@@ -641,54 +266,14 @@ var main_trials = {
             "category": "travel"
         },
         {
-            "filename": "images/gourd.jpeg",
-            "description": "An assortment of squashes, gourds, and pumpkins displayed on shelves at an outdoor market.  They have a variety of colors: yellow, orange, green, and white.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/440px-Mixed_duet_free_final_(33).jpeg",
-            "description": "Two athletes in colorful swimsuits waving to an audience on a blue floor\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/240px-Setra_S515HDH_Schneider_Langendorf.jpeg",
-            "description": "A modern coach bus on the street, labeled 'SCHNEIDER,' with a scenic mountain background.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/Pomegranate_fruit_-_whole_and_piece_with_arils.jpeg",
             "description": "Whole and opened pomegranate with seeds.\n",
             "category": "social_media"
         },
         {
-            "filename": "images/Fruit_smoothie_(8475314736).png",
-            "description": "A wild berry smoothie, in a glass goblet, with a blueberry and pineapple skewer for garnish. \n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/240px-2015-03-20_Wuhua_District,_Yunnan,_Kunming_DSCF3570.jpeg",
-            "description": "Hanging red decorations and gourds with Chinese characters in the middle of a market place with people walking by\n",
-            "category": "shopping"
-        },
-        {
             "filename": "images/440px-Bikes_in_Portland.jpeg",
             "description": "A lively street scene with a diverse crowd of people on bicycles, some wearing colorful outfits.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/440px-BeverlyHilton01.jpeg",
-            "description": "The entrance of the Beverly Hilton hotel with a Hilton sign next to the driveway, landscaped trees on both sides of the driveway, and a clear blue sky.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Almonds.png",
-            "description": "Heap of almonds, some split to reveal the white inside.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/440px-Exp18home_nasa_big.jpeg",
-            "description": "An astronaut sitting as if he were in an airplane, gazing at Earth through a spacecraft window wearing headphones.\n",
-            "category": "science_journals"
         },
         {
             "filename": "images/440px-Exp18home_nasa_big.jpeg",
@@ -701,38 +286,8 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Badulla_hills_tropical_rain_forest.jpeg",
-            "description": "Overlooking a tropical rainforest with a cloudy sky.\n",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/Kaeng_som_kung.jpeg",
             "description": "A bowl of spicy Thai shrimp soup with vegetables set on a blue and gold tablecloth with other appetizers surrounding it.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Prince_Harry_and_Kate_Middleton_at_the_Garter_Procession_2008.jpeg",
-            "description": "Two members of the British royal family at an event.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Peruvian_Marines_2019.jpeg",
-            "description": "6 Soldiers moving tactically through grass.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Sarkanniemi_dolphinarium.jpeg",
-            "description": "4 Dolphins jumping in an indoor pool.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/Cambodian_farmers_planting_rice.jpeg",
-            "description": "8 Farmers bending over to plant rice in a flooded field. They are standing in a line and their faces aren't visible. They're all wearing hats and gloves. The water is light brown and in the background is blurry greenery.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/480px-Priyanka_Chopra_and_Nick_Jonas_in_2020.jpeg",
-            "description": "A couple dressed in traditional Indian attire posing for a photograph.\n",
             "category": "travel"
         },
         {
@@ -741,43 +296,8 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/440px-Tunnelaquarium_14-05-2009_15-54-09.jpeg",
-            "description": "Visitors walking through a curved aquarium tunnel, surrounded by marine life.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/440px-Frank_De_Winne_on_treadmill_cropped.jpeg",
-            "description": "A male astronaut on a treadmill with safety straps in a space station.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Irukandji-jellyfish-queensland-australia.jpeg",
-            "description": "A hand holding a vial containing a tiny jellyfish.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/View_of_the_ISS_taken_during_Crew-2_flyaround_(ISS066-E-081311).jpeg",
-            "description": "International Space Station orbiting Earth.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Gorilla_gorilla04.jpeg",
-            "description": "A large silverback gorilla, with a copper toned head, stands amidst green foliage.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/300px-KIMONO_GORLS_IN_TOKYO_A.jpeg",
-            "description": "Two women standing next to each other in traditional Japanese kimonos. The one on the left is wearing a blue kimono with multicolor floral prints and the one on the right is black with purple floral prints.\n",
-            "category": "travel"
-        },
-        {
             "filename": "images/Blackberry_(Rubus_fruticosus).jpeg",
             "description": "A close-up of a juicy blackberry.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Raspberry_-_halved_(Rubus_idaeus).jpeg",
-            "description": "A close-up of a halved red raspberry.\n",
             "category": "social_media"
         },
         {
@@ -801,19 +321,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Curling_on_Lake_of_Menteith_-_geograph.org.uk_-_1756810.jpg",
-            "description": "Outdoor curling on a frozen lake with spectators around.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/Pelz-Verkaufsstand_in_Tallinn,_Estland.jpeg",
             "description": "Inside a shopping center, there is a stall selling a wide variety of fur hats and fur scarves in many colors. There is a man behind the counter. \n",
             "category": "shopping"
-        },
-        {
-            "filename": "images/Amazon_River_Taxi.jpeg",
-            "description": "Old wooden boat on a murky river in a rainforest on a cloudy day.\n",
-            "category": "travel"
         },
         {
             "filename": "images/Last_look_arounjd_Lima_(8444763943).jpeg",
@@ -821,59 +331,9 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Peloton_on_GGB.jpeg",
-            "description": "A group of hundreds of cyclists in a race, crossing a wet Golden Gate Bridge.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Recycling_Shoes_and_Clothing.jpeg",
-            "description": "Two clothing donation bins for recycling, one pink, one green.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/240px-Guy_Fieri_at_Guantanamo_2.jpeg",
-            "description": "A man with spiky bleached hair tasting food, wearing a black T-shirt, seated at a table.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/240px-Guy_Fieri_at_Guantanamo_2.jpeg",
-            "description": "A man with spiky bleached hair tasting food, wearing a black T-shirt, seated at a table.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/440px-Swains_Island_2.jpeg",
-            "description": "People walking on a path in a lush tropical rainforest.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/440px-Jasper_Dwayne_Reilander-4.jpeg",
-            "description": "A brown bear standing in a lush green forest, looking towards the camera.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
-            "description": "Two docked spacecraft with the Earth in the background.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Iquitos-2012.jpeg",
-            "description": "A historic church in a street scene at dusk. The church is stunning. the clouds are thick . the church is dark and rich colors with a beautifully high steeple\n",
-            "category": "travel"
-        },
-        {
             "filename": "images/Iquitos-2012.jpeg",
             "description": "A historic church in a street scene at dusk. The church is stunning. the clouds are thick . the church is dark and rich colors with a beautifully high steeple\n",
             "category": "news"
-        },
-        {
-            "filename": "images/ALSEP_AS17-134-20500.jpeg",
-            "description": "Scientific equipment scattered on the moon's surface with tracks in the sand. \n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/1024px-Hilton_Edinburgh_Carlton.jpeg",
-            "description": "Historic multi level  building with flags, and a modern bus on a city street.\n",
-            "category": "travel"
         },
         {
             "filename": "images/Saree_on_display_at_Dilli_Haat.jpeg",
@@ -886,43 +346,8 @@ var main_trials = {
             "category": "social_media"
         },
         {
-            "filename": "images/Stylish_person_at_Fukuoka_City_Hall.jpeg",
-            "description": "Woman poses outside of building in traditional kimono smiling.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Microskirt_(Karmen_Pedaru_at_Anna_Sui_crop).png",
-            "description": "A model in a fashion show wearing a microskirt and a denim jacket with red accents.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/JaguarsBucs2011.jpeg",
-            "description": "A live football game in progress on the field. The players from the two teams are running all around the field. Their jerseys are white and blue and the field is very green.\n",
-            "category": "travel"
-        },
-        {
             "filename": "images/Kumarkom.jpeg",
             "description": "A river scene with palm trees, boats, and huts under a clear sky.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
-            "description": "Two translucent jellyfish floating in blue water.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/440px-STS-115_ISS_after_undocking.jpeg",
-            "description": "International Space Station in orbit, showing solar panels and modules.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/340px-1940_Trachtenstrickjacke_anagoria.jpeg",
-            "description": "A traditional knitted cardigan with decorative patterns.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Milind_Soman_at_the_NDTV_Marks_for_Sports_event_12.jpeg",
-            "description": "A seated man looking thoughtfully to the side, against a backdrop of an event banner. He has some sort of bracelet on his right arm. He is wearing a button-down blueish/gray shirt and has his hands on his thighs. He is not smiling.\n",
             "category": "news"
         }
     ]
