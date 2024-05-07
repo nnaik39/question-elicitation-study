@@ -36,7 +36,10 @@ for i in pilot_exp['images']:
         total_images.append(i['filename'])
 
         # Let me only add two questions per image-context pair!! That's already 3,400 questions!
-        for question in questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]:
+
+        questions = random.sample(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])], 2)
+
+        for question in questions:
             answer_elicitation_study['images'].append({
                 'filename': i['filename'],
                 'category': i['category'],
@@ -58,4 +61,4 @@ with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json_object)
 
 with open("answer_elicitation_study.json", "w") as outfile:
-    outfile.write(json.dumps(answer_elicitation_study))
+    outfile.write(json.dumps(answer_elicitation_study, indent = 4))

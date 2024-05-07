@@ -1,29 +1,9 @@
 {
     "images": [
         {
-            "filename": "images/520px-thumbnail.jpeg",
-            "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Forest_dominated_by_Gilbertiodendron_dewevrei_02.jpeg",
-            "description": "A dense, green forest floor with scattered leaves and towering trees.\n",
-            "category": "science_journals"
-        },
-        {
             "filename": "images/440px-Cara_Delevingne_During_LFW_SS15.jpeg",
             "description": "A tall and thin model with long straight blond hair strutting on a runway in a white minidress with red and black wide stripe accents, carrying a large blue bag.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Male_and_female_chicken_sitting_together.jpeg",
-            "description": "A rooster and hen perched side by side.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Charli_D'Amelio_at_KCA_2022.jpeg",
-            "description": "Charlie D'amilo (tik-toker, turned reality star) holding an Nickelodeon award on stage, with a microphone and touching her heart.\n",
-            "category": "social_media"
         },
         {
             "filename": "images/IDHM_Wasserspringen_2018-02-18_3m_mixed_Vorkampf_Sprung_3_18.jpeg",
@@ -41,26 +21,6 @@
             "category": "news"
         },
         {
-            "filename": "images/440px-Piranha1.jpeg",
-            "description": "Several large, shimmering piranhas in an aquarium with a dark backdrop.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/268px-Burgerstrabe_26+24_(BT0A2830).jpeg",
-            "description": "Colorful buildings line a city street with cars under a clear blue sky.",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/440px-Kendall_hat_2017.jpeg",
-            "description": "A moody portrait of a young person in a cap and dark sweater, looking introspective.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
-            "description": "George W. Bush speaking to a football team.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/Artemis_2_Crew_Portrait.jpeg",
             "description": "Four astronauts in orange space suits posing for a portrait.\n",
             "category": "social_media"
@@ -71,28 +31,8 @@
             "category": "social_media"
         },
         {
-            "filename": "images/440px-Green_tea_3_appearances.jpeg",
-            "description": "Three stages of green tea preparation in bowls: dry leaves, steeped leaves, and brewed tea.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/600px-Sunspot_TRACE.jpeg",
-            "description": "A fiery solar eruption with plasma loops emanating from a sunspot.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
             "description": "Close-up of an electric eel showing its skin and sensory pits.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Nikolai_Budarin_in_a_sleep_station_in_Zvezda.jpeg",
-            "description": "An astronaut working on a laptop in a space station module.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
-            "description": "A historic yellow building with arched windows beside some trees and fountain.\n",
             "category": "news"
         },
         {
@@ -126,26 +66,6 @@
             "category": "news"
         },
         {
-            "filename": "images/440px-Ortler_Ascent_-_South_Tyrol.jpeg",
-            "description": "Climbers ascend a snowy mountain slope under a misty blue sky.  There is a beautiful mountain in the background heavily laden with snow and one edge is an exposed cliff face.  The climbers are walking in a row in the snow heading up towards a climbing area.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/440px-GemmaWard.jpeg",
-            "description": "A blonde model struts down a fashion runway in a ruffled brown gown.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Mole_in_Puebla.jpeg",
-            "description": "A plate of black mole sauce over chicken with rice. The chicken is not visible, so the black mole sauce ends up looking like a giant black hole ingulfing the white rice with a tiny sprig of green on top of the hill of the rice. It sort of looks like a ying-yang sign.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Korean_shaved_ice-Green_tea_bingsu-07.jpeg",
-            "description": "A large bowl of green tea shaved ice topped with cookies.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/440px-Electric-eel.jpeg",
             "description": "An electric eel among aquatic plants in an underwater habitat.\n",
             "category": "news"
@@ -161,44 +81,9 @@
             "category": "social_media"
         },
         {
-            "filename": "images/Parque_eolico_La_Muela.jpeg",
-            "description": "A wide angle shot of a wind turbine field filled with turbines.\n",
-            "category": "science_journals"
-        },
-        {
-            "filename": "images/Stonehenge_(sun).jpeg",
-            "description": "Stonehenge with the sun rising between the middle stones.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-Bicycles_and_winter.jpeg",
-            "description": "Bicycles covered in snow by the side of a street with a green tram in the background.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Taylor_Swift_RED_Tour_(8642419792)_(cropped).jpeg",
-            "description": "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/Knitted-clothing-factory.jpeg",
             "description": "A person in blue coveralls working on large textile machinery.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
-            "description": "A colorful aquarium with bright fish and multicolored pebbles.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/NFL_2020_-_Playoffs_-_Washington_vs._Buccaneers_223_(50833097576).jpg",
-            "description": "A football player in a red jersey looking to the side. The helmet is black and there's a 12 on the jersey.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-03WAVRE006b.jpeg",
-            "description": "I am watching, I believe, two bungee jumpers free falling from a large platform. It almost looks like a radio or tv tower of some sort. It is white metal and it looks like the only way up it is to climb but there may be stairs we can't see. There is a platform halfway up and then the tower gets smaller at the top. \n",
-            "category": "social_media"
         },
         {
             "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
@@ -206,23 +91,8 @@
             "category": "social_media"
         },
         {
-            "filename": "images/500px-John_Varvatos_Fall_2010_04.jpeg",
-            "description": "A male model walking down a runway in a dark, layered outfit, with candles lit behind him as scenery.\n",
-            "category": "news"
-        },
-        {
             "filename": "images/440px-Ban_Huahat07.jpeg",
             "description": "A group of Asian people eating around a long mat.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Test_Five_AU_vs_GBR_0489.jpeg",
-            "description": "Water polo match between women teams is in progress.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/440px-thumbnail.jpeg",
-            "description": "Navy divers are in a training pool, displaying military exercises or maneuvers. They are wearing scuba gear with masks and fins.\n",
             "category": "social_media"
         },
         {
@@ -231,34 +101,9 @@
             "category": "news"
         },
         {
-            "filename": "images/440px-Aleksi61wb.jpeg",
-            "description": "A bustling, festive-lit city street at night.\n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
-            "description": "A taekwondo athlete in a competition delivers a high kick against a competitor in a competition.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Bridge_over_Merced_River.jpeg",
-            "description": "A road bridge over the Merced River with a no swimming/fishing sign.\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Marinera_Nortena.jpeg",
-            "description": "Couple performing a traditional Latin dance.\n",
-            "category": "social_media"
-        },
-        {
             "filename": "images/Valentino_Liz_Hurley_Cannes.jpeg",
             "description": "Couple in formal wear on a red carpet.\n",
             "category": "news"
-        },
-        {
-            "filename": "images/440px-Aardappel_blad_Solanum_tuberosum.jpeg",
-            "description": "A single green, veined leafy branch of a potato plant against a wooden background.\n",
-            "category": "travel"
         },
         {
             "filename": "images/Pomegranate_fruit_-_whole_and_piece_with_arils.jpeg",
@@ -276,74 +121,9 @@
             "category": "news"
         },
         {
-            "filename": "images/440px-Looking_south_from_near_Glacier_Point_at_Yosemite.jpeg",
-            "description": "A panoramic view of a mountainous forest landscape under a clear blue sky. There is grassy areas mixed with snow along with the trees on the mountain range.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Kaeng_som_kung.jpeg",
-            "description": "A bowl of spicy Thai shrimp soup with vegetables set on a blue and gold tablecloth with other appetizers surrounding it.\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/400px-Poinsettia_thumbnail.jpeg",
-            "description": "A variety of poinsettias with red and pink leaves with some green leaves under. They are so beautiful\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Blackberry_(Rubus_fruticosus).jpeg",
-            "description": "A close-up of a juicy blackberry.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/440px-Masson_Mills_WTM_10_Jacquard_Card_Cutter_5890.jpeg",
-            "description": "An antique jacquard loom card cutter, complex machinery with rows of punch cards.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Full_face_diving_mask_-_ocean_reef.jpeg",
-            "description": "A person in a full-face diving mask, ready for scuba diving and is on a boat looking in the picture like he asked to be taken a photo\n",
-            "category": "travel"
-        },
-        {
-            "filename": "images/Full_face_diving_mask_-_ocean_reef.jpeg",
-            "description": "A person in a full-face diving mask, ready for scuba diving and is on a boat looking in the picture like he asked to be taken a photo\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/340px-AquaMap_Diver_LBL_Acoustic_Positioning_Equipment.jpeg",
-            "description": "Two divers with underwater positioning equipment.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Pelz-Verkaufsstand_in_Tallinn,_Estland.jpeg",
-            "description": "Inside a shopping center, there is a stall selling a wide variety of fur hats and fur scarves in many colors. There is a man behind the counter. \n",
-            "category": "shopping"
-        },
-        {
-            "filename": "images/Last_look_arounjd_Lima_(8444763943).jpeg",
-            "description": "A gorgeous Blue colonial-style building with balconies. The building is a beautiful vivid sky blue with elegant white trim. There are many beautiful balconies with windows adorning the side of the building.\n",
-            "category": "social_media"
-        },
-        {
-            "filename": "images/Iquitos-2012.jpeg",
-            "description": "A historic church in a street scene at dusk. The church is stunning. the clouds are thick . the church is dark and rich colors with a beautifully high steeple\n",
-            "category": "news"
-        },
-        {
-            "filename": "images/Saree_on_display_at_Dilli_Haat.jpeg",
-            "description": "Gold and green patterned cloth displayed in a market.\n",
-            "category": "travel"
-        },
-        {
             "filename": "images/Woman_in_rah-rah_skirt.jpeg",
             "description": "A blonde haired woman wearing layered skirt, black blouse, and multi-colored scarf, carrying a purple tote bag and shopping bag, walks on the grass while looking at something to her side.\n",
             "category": "social_media"
-        },
-        {
-            "filename": "images/Kumarkom.jpeg",
-            "description": "A river scene with palm trees, boats, and huts under a clear sky.\n",
-            "category": "news"
         }
     ]
 }

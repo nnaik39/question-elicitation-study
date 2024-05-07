@@ -7,7 +7,7 @@ f = open('pilot_exp.json')
 # a dictionary
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (21).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (31).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
