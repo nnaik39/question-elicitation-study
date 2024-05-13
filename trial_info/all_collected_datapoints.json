@@ -10611,15 +10611,6 @@
         ]
     },
     {
-        "filename": "images/Fish_tank_on_table.jpeg",
-        "category": "shopping",
-        "description": "A small aquarium on a table with one fish, some water plants and a rock.\n",
-        "questions": [
-            "i would take a look at it",
-            "i would be okay"
-        ]
-    },
-    {
         "filename": "images/Hunt_Library_CMU_-_IMG_7844.jpeg",
         "category": "social_media",
         "description": "A modern building lit up with blue lights.\n",
@@ -11227,7 +11218,6 @@
         "category": "news",
         "description": "A couple dressed in traditional Indian attire posing for a photograph.\n",
         "questions": [
-            "What setting and location are they in?",
             "How are they posing?"
         ]
     },
@@ -11236,8 +11226,7 @@
         "category": "travel",
         "description": "Cluster of small white flowers on a blue surface.\n",
         "questions": [
-            "Where is this image from?",
-            "What do they want website visitors to get from this image?"
+            "Where is this image from?"        
         ]
     },
     {
@@ -11245,8 +11234,7 @@
         "category": "social_media",
         "description": "Cluster of small white flowers on a blue surface.\n",
         "questions": [
-            "What does this have to do with social media?",
-            "Why are there flowers?"
+            "What does this have to do with social media?"
         ]
     },
     {
@@ -11344,7 +11332,6 @@
         "category": "science_journals",
         "description": "Visitors walking through a curved aquarium tunnel, surrounded by marine life.\n",
         "questions": [
-            "How many visitors?",
             "What kind of marine life?"
         ]
     },

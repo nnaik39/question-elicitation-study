@@ -1,683 +1,5 @@
 [
     {
-        "filename": "images/440px-Jon_Gruden2.jpeg",
-        "category": "news",
-        "description": "A football coach in conversation with a referee on the field.\n",
-        "questions": [
-            "What kind of emotions are being shown by the people talking?"
-        ]
-    },
-    {
-        "filename": "images/Khao_soi_nam_na.jpeg",
-        "category": "travel",
-        "description": "A bowl of Asian noodle soup topped with minced meat and fresh herbs.\n",
-        "questions": [
-            "what specific asian country is the noodles from?",
-            "Is it spicy?"
-        ]
-    },
-    {
-        "filename": "images/Khao_soi_nam_na.jpeg",
-        "category": "health",
-        "description": "A bowl of Asian noodle soup topped with minced meat and fresh herbs.\n",
-        "questions": [
-            "How healthy is this soup?"
-        ]
-    },
-    {
-        "filename": "images/Marieta_-_Zapatilla_-BT-_01.jpeg",
-        "category": "social_media",
-        "description": "A worn-out sneaker on a forest floor.\n",
-        "questions": [
-            "What else is on the forest floor?"
-        ]
-    },
-    {
-        "filename": "images/Marieta_-_Zapatilla_-BT-_01.jpeg",
-        "category": "science_journals",
-        "description": "A worn-out sneaker on a forest floor.\n",
-        "questions": [
-            "What color is the sneaker?"
-        ]
-    },
-    {
-        "filename": "images/520px-thumbnail.jpeg",
-        "category": "health",
-        "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
-        "questions": [
-            "what color is the water in the pool"
-        ]
-    },
-    {
-        "filename": "images/520px-thumbnail.jpeg",
-        "category": "news",
-        "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
-        "questions": [
-            "Who are the people in the image and what are they doing besides the swimming pool?",
-            "Is there any significance to why they are gathered by the pool for a news worthy event?"
-        ]
-    },
-    {
-        "filename": "images/Young_ladies_at_Harajuku.jpeg",
-        "category": "news",
-        "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
-        "questions": [
-            "Why are these women gathered?",
-            "What are the women using the purses and scarves for?"
-        ]
-    },
-    {
-        "filename": "images/Meditating_in_Madison_Square_Park.jpeg",
-        "category": "health",
-        "description": "Four people meditating in a city park with trees and chairs around them\n",
-        "questions": [
-            "How many people are there?",
-            "What are they wearing ?"
-        ]
-    },
-    {
-        "filename": "images/Meditating_in_Madison_Square_Park.jpeg",
-        "category": "travel",
-        "description": "Four people meditating in a city park with trees and chairs around them\n",
-        "questions": [
-            "Is it a park where people gather?",
-            "Is it related to religion in anyway?"
-        ]
-    },
-    {
-        "filename": "images/Beluga_premier.gov.ru-1.jpeg",
-        "category": "science_journals",
-        "description": "A smiling beluga whale above water.\n",
-        "questions": [
-            "What behavior or activity is the beluga whale engaged in?",
-            "Are there any specific scientific discoveries or research findings related to beluga whales that this image is associated with?"
-        ]
-    },
-    {
-        "filename": "images/Beluga_premier.gov.ru-1.jpeg",
-        "category": "news",
-        "description": "A smiling beluga whale above water.\n",
-        "questions": [
-            "What happened to this whale",
-            "Is the whale happy"
-        ]
-    },
-    {
-        "filename": "images/Alexis_Texas_at_Sexpo_in_Sydney,_Australia_04.jpeg",
-        "category": "shopping",
-        "description": "A smiling woman in a white dress posing for the camera.\n",
-        "questions": [
-            "Is it a wedding dress?\n",
-            "Is it a summer dress?"
-        ]
-    },
-    {
-        "filename": "images/Alexis_Texas_at_Sexpo_in_Sydney,_Australia_04.jpeg",
-        "category": "news",
-        "description": "A smiling woman in a white dress posing for the camera.\n",
-        "questions": [
-            "who is this woman, and why is her image featured in a news article",
-            "what is the main news story or topic associated with this image"
-        ]
-    },
-    {
-        "filename": "images/Acro-tcd.jpeg",
-        "category": "news",
-        "description": "Two acrobatic gymnasts performing a balancing act in leotards. The gymnast on top is doing the splits. The gymnast of the bottom is holding the other up in the air.\n",
-        "questions": [
-            "Who are these people",
-            "Did they win something"
-        ]
-    },
-    {
-        "filename": "images/Acro-tcd.jpeg",
-        "category": "health",
-        "description": "Two acrobatic gymnasts performing a balancing act in leotards. The gymnast on top is doing the splits. The gymnast of the bottom is holding the other up in the air.\n",
-        "questions": [
-            "Is this website for physical therapy? ",
-            "How do the gymnasts relate to the health website and is healthcare a balancing act? "
-        ]
-    },
-    {
-        "filename": "images/BGSU_Aquarium.jpeg",
-        "category": "science_journals",
-        "description": "A room with multiple aquarium tanks, some sitting on tables and others mounted on the far wall. There is a taxidermic shark on the back wall.\n",
-        "questions": [
-            "Is this for a store who sells fish as pets?",
-            "Is this an enthusiast's website to discuss aqua life?"
-        ]
-    },
-    {
-        "filename": "images/BGSU_Aquarium.jpeg",
-        "category": "travel",
-        "description": "A room with multiple aquarium tanks, some sitting on tables and others mounted on the far wall. There is a taxidermic shark on the back wall.\n",
-        "questions": [
-            "How large is the room?",
-            "What other furnishings are in the room?"
-        ]
-    },
-    {
-        "filename": "images/440px-Living_on_the_rainforest.jpeg",
-        "category": "science_journals",
-        "description": "A woman cooking over a fire in a tropical forest setting, with a traditional shelter behind her.\n",
-        "questions": [
-            "What is the name of shelter behind her?",
-            "What is she cooking?"
-        ]
-    },
-    {
-        "filename": "images/440px-Living_on_the_rainforest.jpeg",
-        "category": "travel",
-        "description": "A woman cooking over a fire in a tropical forest setting, with a traditional shelter behind her.\n",
-        "questions": [
-            "is the woman at a cabin ",
-            "does it appear to be romantic of for family "
-        ]
-    },
-    {
-        "filename": "images/E-burg_asv2019-05_img46_view_from_VysotSky.jpeg",
-        "category": "travel",
-        "description": "A city at sunset, with a river reflecting the warm sky and urban silhouette. There is a body of water in the middle.\n",
-        "questions": [
-            "what are the colors in the image?",
-            "what skyline is in the image?"
-        ]
-    },
-    {
-        "filename": "images/E-burg_asv2019-05_img46_view_from_VysotSky.jpeg",
-        "category": "news",
-        "description": "A city at sunset, with a river reflecting the warm sky and urban silhouette. There is a body of water in the middle.\n",
-        "questions": [
-            "Is this the background of where the news site is located?",
-            "Is it the backdrop of the home webpage?"
-        ]
-    },
-    {
-        "filename": "images/Seaman_jumper.jpeg",
-        "category": "shopping",
-        "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
-        "questions": [
-            "Does the sweater have any knitted patterns on it?",
-            "Are the sleeves cuffed?"
-        ]
-    },
-    {
-        "filename": "images/Seaman_jumper.jpeg",
-        "category": "news",
-        "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
-        "questions": [
-            "Is the material thick?",
-            "What is inside of the pouch?"
-        ]
-    },
-    {
-        "filename": "images/Cocola_Bakery_Hazelnut_Cake_(17733558344).jpeg",
-        "category": "shopping",
-        "description": "Seven layers of chocolate and hazelnut cake with a chocolate bar on top. The chocolate bar on top have writing on it. The cake is sitting on a gold, flat plate.\n",
-        "questions": [
-            "Shopping in bulk is always best ",
-            "I love to buy things on my own "
-        ]
-    },
-    {
-        "filename": "images/Cocola_Bakery_Hazelnut_Cake_(17733558344).jpeg",
-        "category": "social_media",
-        "description": "Seven layers of chocolate and hazelnut cake with a chocolate bar on top. The chocolate bar on top have writing on it. The cake is sitting on a gold, flat plate.\n",
-        "questions": [
-            "What does the chocolate bar say?",
-            "Is it a whole cake, or just a piece?"
-        ]
-    },
-    {
-        "filename": "images/Forest_dominated_by_Gilbertiodendron_dewevrei_02.jpeg",
-        "category": "science_journals",
-        "description": "A dense, green forest floor with scattered leaves and towering trees.\n",
-        "questions": [
-            "Why is this in a science magazine?",
-            "Where is this located?"
-        ]
-    },
-    {
-        "filename": "images/Forest_dominated_by_Gilbertiodendron_dewevrei_02.jpeg",
-        "category": "news",
-        "description": "A dense, green forest floor with scattered leaves and towering trees.\n",
-        "questions": [
-            "Is the news about the Amazonian jungle?",
-            "Where is the forest located?"
-        ]
-    },
-    {
-        "filename": "images/340px-Jersei-coll-alt.jpeg",
-        "category": "shopping",
-        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
-        "questions": [
-            "What material",
-            "Is it fitted or loose sweater"
-        ]
-    },
-    {
-        "filename": "images/340px-Jersei-coll-alt.jpeg",
-        "category": "social_media",
-        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
-        "questions": [
-            "what does grainy-colored mean?",
-            "what is the context?"
-        ]
-    },
-    {
-        "filename": "images/Tyra_Banks(Cannes).jpeg",
-        "category": "social_media",
-        "description": "This is a photograph of Tyra Banks.  Her hair is pulled back into a low bun or pony tail.  She appears to be happy and laughing.  She is outside.  It appears she is wearing a white tank top with spaghetti straps.  There are black spaghetti straps for whatever she is wearing underneath the tank top.  \n",
-        "questions": [
-            "where is the location at?",
-            "is it real?,....is it for rental?"
-        ]
-    },
-    {
-        "filename": "images/Tyra_Banks(Cannes).jpeg",
-        "category": "news",
-        "description": "This is a photograph of Tyra Banks.  Her hair is pulled back into a low bun or pony tail.  She appears to be happy and laughing.  She is outside.  It appears she is wearing a white tank top with spaghetti straps.  There are black spaghetti straps for whatever she is wearing underneath the tank top.  \n",
-        "questions": [
-            "Who is Tyra Banks?",
-            "What specific thing is she engaging in?"
-        ]
-    },
-    {
-        "filename": "images/Aquarium_fg01.jpeg",
-        "category": "social_media",
-        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
-        "questions": [
-            "Why is the viewing woman in a very dark room?",
-            "What is the woman looking at in the room?"
-        ]
-    },
-    {
-        "filename": "images/Aquarium_fg01.jpeg",
-        "category": "travel",
-        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
-        "questions": [
-            "What kind of fishes are in the aquarium?"
-        ]
-    },
-    {
-        "filename": "images/600px-GDC_onlywayaround.jpeg",
-        "category": "news",
-        "description": "A group of nine contemporary dancers on a dark stage mid-performance. They are illuminated by a circle of light.\n",
-        "questions": [
-            "What is the name of the performance?",
-            "Where was the performance held?"
-        ]
-    },
-    {
-        "filename": "images/600px-GDC_onlywayaround.jpeg",
-        "category": "travel",
-        "description": "A group of nine contemporary dancers on a dark stage mid-performance. They are illuminated by a circle of light.\n",
-        "questions": [
-            "What act are the dancers performing?",
-            "Is it related to Disney in any way?"
-        ]
-    },
-    {
-        "filename": "images/Kate_middleton.jpeg",
-        "category": "news",
-        "description": "A smiling woman with long, wavy brown hair, wearing a white lace garment. A person out of frame has their hand on her shoulder. \n",
-        "questions": [
-            "what is the significance of the image",
-            "are there any details within the image that are particularly noteworthy to the news story"
-        ]
-    },
-    {
-        "filename": "images/Kate_middleton.jpeg",
-        "category": "social_media",
-        "description": "A smiling woman with long, wavy brown hair, wearing a white lace garment. A person out of frame has their hand on her shoulder. \n",
-        "questions": [
-            "Who is the person?",
-            "What type of connections did she make?"
-        ]
-    },
-    {
-        "filename": "images/Nymphaea_nouchali00.jpeg",
-        "category": "science_journals",
-        "description": "Close-up of a lavender-colored water lily with bees on it.\n",
-        "questions": [
-            "Does this image belong to an article?",
-            "Is there important news about bees?"
-        ]
-    },
-    {
-        "filename": "images/Nymphaea_nouchali00.jpeg",
-        "category": "travel",
-        "description": "Close-up of a lavender-colored water lily with bees on it.\n",
-        "questions": [
-            "what time of year is it",
-            "what is the weather like"
-        ]
-    },
-    {
-        "filename": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
-        "category": "science_journals",
-        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
-        "questions": [
-            "What are the astronauts wearing?",
-            "Is the Jules Verne manuscript open or closed?"
-        ]
-    },
-    {
-        "filename": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
-        "category": "news",
-        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
-        "questions": [
-            "How are they holding rare pieces of paper while in zero gravity without damage to the paper?",
-            "What color is the manuscript and how easy it to read the letters?"
-        ]
-    },
-    {
-        "filename": "images/Olivia_Rodrigo_Theatre_at_Ace_Hotel_10_09_2023_(53423846745).jpeg",
-        "category": "social_media",
-        "description": "Singer Olivia Rodrigo performing on stage with a microphone. She has long, wavy, dark hair and is wearing red lipstick and a white vest. \n",
-        "questions": [
-            "What type of expression is on her face?",
-            "What is the singer doing with her body?"
-        ]
-    },
-    {
-        "filename": "images/Olivia_Rodrigo_Theatre_at_Ace_Hotel_10_09_2023_(53423846745).jpeg",
-        "category": "news",
-        "description": "Singer Olivia Rodrigo performing on stage with a microphone. She has long, wavy, dark hair and is wearing red lipstick and a white vest. \n",
-        "questions": [
-            "Brilliant people all around and great people to happen",
-            "i love greatness all around"
-        ]
-    },
-    {
-        "filename": "images/Hanieh_Ahmaedian_Persian_model_Tehran_9_September_2018_(4).jpeg",
-        "category": "shopping",
-        "description": "A woman posing in a chic outfit composed of heels, leggings, a coat and purse in a boutique.\n",
-        "questions": [
-            "What is the person wearing",
-            "What is the person doing"
-        ]
-    },
-    {
-        "filename": "images/Hanieh_Ahmaedian_Persian_model_Tehran_9_September_2018_(4).jpeg",
-        "category": "social_media",
-        "description": "A woman posing in a chic outfit composed of heels, leggings, a coat and purse in a boutique.\n",
-        "questions": [
-            "What is the name of the boutique?",
-            "What is the location of the boutique?"
-        ]
-    },
-    {
-        "filename": "images/DR0071DSC_9245.jpeg",
-        "category": "travel",
-        "description": "A green landscape with numerous small islands.\n",
-        "questions": [
-            "How many islands are near?",
-            "Is it off of a coast?"
-        ]
-    },
-    {
-        "filename": "images/DR0071DSC_9245.jpeg",
-        "category": "science_journals",
-        "description": "A green landscape with numerous small islands.\n",
-        "questions": [
-            "Where can these typically be found?",
-            "Are there any wildlife on these landscapes?"
-        ]
-    },
-    {
-        "filename": "images/Mountain_Goat_Mount_Massive.jpeg",
-        "category": "travel",
-        "description": "A white mountain goat on a rocky mountain edge.\n",
-        "questions": [
-            "why is the goat on the mountain edge ",
-            "how did the goat get to the mountain edge "
-        ]
-    },
-    {
-        "filename": "images/Mountain_Goat_Mount_Massive.jpeg",
-        "category": "science_journals",
-        "description": "A white mountain goat on a rocky mountain edge.\n",
-        "questions": [
-            "Is the goat climbing on the mountain edge or simply standing still?",
-            "Is it a tall mountain that is somewhat barren or does it have trees on or around it?"
-        ]
-    },
-    {
-        "filename": "images/Gemma_Ward.jpeg",
-        "category": "shopping",
-        "description": "A young model with long blonde hair in a wide-brimmed hat on a fashion runway.\n",
-        "questions": [
-            "What kind of fashion items are present ",
-            "what is the average pricing on items"
-        ]
-    },
-    {
-        "filename": "images/Gemma_Ward.jpeg",
-        "category": "news",
-        "description": "A young model with long blonde hair in a wide-brimmed hat on a fashion runway.\n",
-        "questions": [
-            "What colors and describe the rest of her outfit",
-            "Is she doing or carrying anything?"
-        ]
-    },
-    {
-        "filename": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
-        "category": "news",
-        "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
-        "questions": [
-            "Does he appear to be in distress?",
-            "What company does he work for?"
-        ]
-    },
-    {
-        "filename": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
-        "category": "shopping",
-        "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
-        "questions": [
-            "are all the clothes this formal?",
-            "Do people of all ages like this site?"
-        ]
-    },
-    {
-        "filename": "images/Wingsuit_men_getting_ready.jpeg",
-        "category": "travel",
-        "description": "Three people in colorful wingsuits overlooking mountains.\n",
-        "questions": [
-            "What are wingsuits?",
-            "Are they men or women?"
-        ]
-    },
-    {
-        "filename": "images/Wingsuit_men_getting_ready.jpeg",
-        "category": "news",
-        "description": "Three people in colorful wingsuits overlooking mountains.\n",
-        "questions": [
-            "What happened to them",
-            "What were they doing there?"
-        ]
-    },
-    {
-        "filename": "images/Underwater_Walk_of_Sea_Life_London_Aquarium.jpeg",
-        "category": "travel",
-        "description": "Aquarium tunnel with visitors observing marine life.\n",
-        "questions": [
-            "what is the location ",
-            "how much does it cost"
-        ]
-    },
-    {
-        "filename": "images/Underwater_Walk_of_Sea_Life_London_Aquarium.jpeg",
-        "category": "science_journals",
-        "description": "Aquarium tunnel with visitors observing marine life.\n",
-        "questions": [
-            "Are the observers tourists or are they observing for a purpose?",
-            "Are the observers walking in the tunnel or are they observing a tunnel inside of a water tank?"
-        ]
-    },
-    {
-        "filename": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
-        "category": "health",
-        "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
-        "questions": [
-            "Is it in a restaurant?",
-            "what is the recipe?"
-        ]
-    },
-    {
-        "filename": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
-        "category": "travel",
-        "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
-        "questions": [
-            "What region or city in Thailand does this meal represent?",
-            "Can you provide details about the ingredients and flavors of the fish curry and vegetables?"
-        ]
-    },
-    {
-        "filename": "images/Panasonic-oxyride.jpeg",
-        "category": "shopping",
-        "description": "Two AA Panasonic batteries side by side.\n",
-        "questions": [
-            "Is this an advertisement for batteries?",
-            "Is there any text in the picture you can read to me?"
-        ]
-    },
-    {
-        "filename": "images/Panasonic-oxyride.jpeg",
-        "category": "science_journals",
-        "description": "Two AA Panasonic batteries side by side.\n",
-        "questions": [
-            "What is the article associated with this picture?",
-            "Is there any other device in the picture?"
-        ]
-    },
-    {
-        "filename": "images/KITLV_40091_-_Kassian_Cephas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpeg",
-        "category": "travel",
-        "description": "A stone relief carving showing scenes from centuries ago. There are four scenes depicted ranging from people to animals and nature.\t\n",
-        "questions": [
-            "What is the specific style of relief carving?",
-            "Where are the carvings and what country are they in?"
-        ]
-    },
-    {
-        "filename": "images/KITLV_40091_-_Kassian_Cephas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpeg",
-        "category": "science_journals",
-        "description": "A stone relief carving showing scenes from centuries ago. There are four scenes depicted ranging from people to animals and nature.\t\n",
-        "questions": [
-            "what kind of animals are in the picture?",
-            "what condition is the carving in?"
-        ]
-    },
-    {
-        "filename": "images/440px-Kluft-photo-2019-07-19-SJBP-regroup2a.jpeg",
-        "category": "news",
-        "description": "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot.\n",
-        "questions": [
-            "Why is this picture relevant?",
-            "What are all those cyclists doing in the parking lot?"
-        ]
-    },
-    {
-        "filename": "images/440px-Kluft-photo-2019-07-19-SJBP-regroup2a.jpeg",
-        "category": "travel",
-        "description": "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot.\n",
-        "questions": [
-            "Are they part of a guided experience advertisement or is it a documented experience of some past event with actual competitors?",
-            "What performance level are they indicative of? (e.g., extreme cyclist, elderly enthusiasts or young thrill seekers)"
-        ]
-    },
-    {
-        "filename": "images/Fashion_Runway.jpeg",
-        "category": "shopping",
-        "description": "Models walking on a fashion runway with an audience watching.\n",
-        "questions": [
-            "What are the models wearing?",
-            "What does the runway look like?"
-        ]
-    },
-    {
-        "filename": "images/Fashion_Runway.jpeg",
-        "category": "news",
-        "description": "Models walking on a fashion runway with an audience watching.\n",
-        "questions": [
-            "What is it that makes the fashion models newsworthy?",
-            "Who was in the audience that might have made the photo newsworthy?"
-        ]
-    },
-    {
-        "filename": "images/213px-Kim_2010_Olympic_FS.jpeg",
-        "category": "social_media",
-        "description": "A young, female figure skater in a spin with one leg extended back and one arm straight up in the air, wearing a dark blue leotard and tan tights.\n",
-        "questions": [
-            "What is in the background of the image (where does it take place)?",
-            "What does the girl look like (hair color, skin color)?"
-        ]
-    },
-    {
-        "filename": "images/213px-Kim_2010_Olympic_FS.jpeg",
-        "category": "news",
-        "description": "A young, female figure skater in a spin with one leg extended back and one arm straight up in the air, wearing a dark blue leotard and tan tights.\n",
-        "questions": [
-            "What is the name of the figure skater",
-            "What competition is occurring"
-        ]
-    },
-    {
-        "filename": "images/Arc_de_Triomphe_HDR_2007.jpeg",
-        "category": "travel",
-        "description": "The Arc de Triomphe against a blue sky with three cars in front of it and two buildings in the background.\n",
-        "questions": [
-            "What kind of landmark is it?",
-            "Where could I visit this location?"
-        ]
-    },
-    {
-        "filename": "images/Arc_de_Triomphe_HDR_2007.jpeg",
-        "category": "news",
-        "description": "The Arc de Triomphe against a blue sky with three cars in front of it and two buildings in the background.\n",
-        "questions": [
-            "What country",
-            "What are the buildings in the back"
-        ]
-    },
-    {
-        "filename": "images/Handmade_Chicken_Shawarma_Wrap_-_Lavash.jpeg",
-        "category": "travel",
-        "description": "A chicken shawarma wrap with some lettuce on a plate.\n",
-        "questions": [
-            "Where did they get the shawarma from?",
-            "Does it look good?"
-        ]
-    },
-    {
-        "filename": "images/Handmade_Chicken_Shawarma_Wrap_-_Lavash.jpeg",
-        "category": "health",
-        "description": "A chicken shawarma wrap with some lettuce on a plate.\n",
-        "questions": [
-            "What are the ingredients for this shawarma wrap?",
-            "Is this from a restaurant or home kitchen?"
-        ]
-    },
-    {
-        "filename": "images/Pilates_(9956534863).jpeg",
-        "category": "health",
-        "description": "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
-        "questions": [
-            "Is the person young or old?",
-            "How difficult is the exercise?"
-        ]
-    },
-    {
-        "filename": "images/Pilates_(9956534863).jpeg",
-        "category": "social_media",
-        "description": "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
-        "questions": [
-            "Is this person reputable?",
-            "Are they an instructor?"
-        ]
-    },
-    {
         "filename": "images/Iman_(model).jpeg",
         "category": "shopping",
         "description": "A smiling woman in a strapless checkered gown at an event with people in the background.\n",
@@ -12984,8 +12306,7 @@
         "category": "news",
         "description": "Rome\u2019s Altare della Patria lit up at twilight, with statues and columns.\n",
         "questions": [
-            "What color is the Altare della Patria?",
-            "What shape is the Altare della Patria?"
+            "What color is the Altare della Patria?"
         ]
     },
     {
@@ -14758,20 +14079,10 @@
         ]
     },
     {
-        "filename": "images/Shiva_Bangalore.jpeg",
-        "category": "travel",
-        "description": "Giant statue of Shiva seated, holding a trident.\n",
-        "questions": [
-            "Is this website for a tour company in India?",
-            "Is this a website for a travel agency that books travel to India?"
-        ]
-    },
-    {
         "filename": "images/440px-Alaskan_ceviche.jpeg",
         "category": "health",
         "description": "A brown bowl filled with a salad made of bits of mozzarella cheese bits, red cherry tomatoes that have been cut in half length-wise, cilantro leaves and slices of chive. \n",
         "questions": [
-            "Is there a base to the salad, like lettuce?",
             "Is there any dressing on the salad?"
         ]
     },
@@ -14780,7 +14091,6 @@
         "category": "shopping",
         "description": "A brown bowl filled with a salad made of bits of mozzarella cheese bits, red cherry tomatoes that have been cut in half length-wise, cilantro leaves and slices of chive. \n",
         "questions": [
-            "How large is the portion",
             "Does the salad look fresh"
         ]
     },
@@ -14789,8 +14099,7 @@
         "category": "health",
         "description": "Chunks of roasted pumpkin in a baking tray.\n",
         "questions": [
-            "Does it appear that there are any other ingredients used?",
-            "Are there any other food items nearby?"
+            "Does it appear that there are any other ingredients used?"
         ]
     },
     {
@@ -14798,8 +14107,7 @@
         "category": "shopping",
         "description": "Chunks of roasted pumpkin in a baking tray.\n",
         "questions": [
-            "How big are the chunks?",
-            "How dark are the chunks of pumpkin?"
+            "How big are the chunks?"
         ]
     },
     {
@@ -14807,8 +14115,7 @@
         "category": "news",
         "description": "A live football game in progress on the field. The players from the two teams are running all around the field. Their jerseys are white and blue and the field is very green.\n",
         "questions": [
-            "What are the logos on the jerseys?",
-            "What time of day is it?"
+            "What are the logos on the jerseys?"
         ]
     },
     {
@@ -14816,17 +14123,7 @@
         "category": "travel",
         "description": "A live football game in progress on the field. The players from the two teams are running all around the field. Their jerseys are white and blue and the field is very green.\n",
         "questions": [
-            "Is it football or soccer?",
-            "Who is winning?"
-        ]
-    },
-    {
-        "filename": "images/ISS-38_EVA-1_Laptops.jpeg",
-        "category": "science_journals",
-        "description": "Laptops and equipment floating roughly in the microgravity of a space station.\n",
-        "questions": [
-            "Is this an article about the effects of gravity?",
-            "What are other examples of gravity?"
+            "Is it football or soccer?"
         ]
     },
     {
@@ -14834,17 +14131,7 @@
         "category": "news",
         "description": "Laptops and equipment floating roughly in the microgravity of a space station.\n",
         "questions": [
-            "Are astronauts in the photo? ",
-            "When did the photos take place?"
-        ]
-    },
-    {
-        "filename": "images/Munnar_hillstation_kerala.jpeg",
-        "category": "travel",
-        "description": "An empty curvy road through a lush green hillside with a mountain view.\n",
-        "questions": [
-            "no comments",
-            "no comments"
+            "Are astronauts in the photo? "
         ]
     },
     {
@@ -14852,8 +14139,7 @@
         "category": "shopping",
         "description": "An empty curvy road through a lush green hillside with a mountain view.\n",
         "questions": [
-            "Does this seem like a picture of a place where I can pay for an experience, like maybe a race course?",
-            "What does it look like this image is trying to sell me?"
+            "Does this seem like a picture of a place where I can pay for an experience, like maybe a race course?"
         ]
     },
     {
@@ -14861,17 +14147,7 @@
         "category": "travel",
         "description": "A serene lake surrounded by snow and pointy green trees with mountains in the distance, under a cloudy sky.\n",
         "questions": [
-            "Is the lake frozen over or still flowing?",
-            "What color are the mountains in the distance?"
-        ]
-    },
-    {
-        "filename": "images/440px-May_Lake_Yosemite.jpeg",
-        "category": "science_journals",
-        "description": "A serene lake surrounded by snow and pointy green trees with mountains in the distance, under a cloudy sky.\n",
-        "questions": [
-            "Is this about environmental health?",
-            "Is this about climate change?"
+            "Is the lake frozen over or still flowing?"
         ]
     },
     {
@@ -14879,8 +14155,7 @@
         "category": "health",
         "description": "A halved, unripe pumpkin showing its green skin, seeds, and fibrous yellow interior, sitting on another melon with other sections of the pumpkin in the background.\n",
         "questions": [
-            "What do the pumpkins look like?",
-            "What is it trying to represent?"
+            "What do the pumpkins look like?"
         ]
     },
     {
@@ -14888,8 +14163,7 @@
         "category": "shopping",
         "description": "A halved, unripe pumpkin showing its green skin, seeds, and fibrous yellow interior, sitting on another melon with other sections of the pumpkin in the background.\n",
         "questions": [
-            "Is this in a grocery store?",
-            "Why is the unripe pumpkin open?"
+            "Is this in a grocery store?"
         ]
     },
     {
@@ -14899,246 +14173,6 @@
         "questions": [
             "Should more larger irrigation systems be implemented into farms and other rural areas?",
             "Do large irrigation systems help to conserve water in the end, as opposed to other alternatives?"
-        ]
-    },
-    {
-        "filename": "images/Irrigation_in_Cotton_Field_-_51488231980.jpeg",
-        "category": "travel",
-        "description": "A large irrigation system spraying water over a cotton field on a sunny day.\n",
-        "questions": [
-            "Are there people in the cotton field?",
-            "Where is the field located?"
-        ]
-    },
-    {
-        "filename": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
-        "category": "shopping",
-        "description": "A bunch of fresh carrots with greens attached.\n",
-        "questions": [
-            "what does this have to do with shopping",
-            "how fresh do the vegetables look"
-        ]
-    },
-    {
-        "filename": "images/440px-Vegetable-Carrot-Bundle-wStalks.jpeg",
-        "category": "health",
-        "description": "A bunch of fresh carrots with greens attached.\n",
-        "questions": [
-            "What are the attached greens?",
-            "Are the carrots on a table?"
-        ]
-    },
-    {
-        "filename": "images/Kumarkom.jpeg",
-        "category": "travel",
-        "description": "A river scene with palm trees, boats, and huts under a clear sky.\n",
-        "questions": [
-            "Where exactly is this location?",
-            "How much would it cost to travel here?"
-        ]
-    },
-    {
-        "filename": "images/Kumarkom.jpeg",
-        "category": "news",
-        "description": "A river scene with palm trees, boats, and huts under a clear sky.\n",
-        "questions": [
-            "Where is this?",
-            "What's the connection between the news and this description? "
-        ]
-    },
-    {
-        "filename": "images/374px-Gisele_Bundchen_-_Rio_2016_cropped_(square).jpeg",
-        "category": "shopping",
-        "description": "A model wearing a shiny dress walking a glittery runway.\n",
-        "questions": [
-            "What color is the dress?",
-            "What is the length of the dress?"
-        ]
-    },
-    {
-        "filename": "images/374px-Gisele_Bundchen_-_Rio_2016_cropped_(square).jpeg",
-        "category": "news",
-        "description": "A model wearing a shiny dress walking a glittery runway.\n",
-        "questions": [
-            "What does the model look like?",
-            "What type of dress is the model wearing?"
-        ]
-    },
-    {
-        "filename": "images/Reformer_apparatus_pilates_london.jpeg",
-        "category": "health",
-        "description": "An indoor gym with pilates equipment and mirrors.\n",
-        "questions": [
-            "What is the name of the gym?",
-            "What else does this gym have to offer?"
-        ]
-    },
-    {
-        "filename": "images/Reformer_apparatus_pilates_london.jpeg",
-        "category": "shopping",
-        "description": "An indoor gym with pilates equipment and mirrors.\n",
-        "questions": [
-            "does the equipment look like it folds? ",
-            "Are there people in the images who are using the equipment ? "
-        ]
-    },
-    {
-        "filename": "images/Alexa_Chung_2015_(cropped).jpeg",
-        "category": "news",
-        "description": "A woman in a floral off-shoulder dress and heels, holding an award, smiling on stage.\n",
-        "questions": [
-            "Who is the woman",
-            "what is the award"
-        ]
-    },
-    {
-        "filename": "images/440px-Derrick_Brooks_with_2006_Pro_Bowl_MVP_trophy_060210-N-4856G-129.jpeg",
-        "category": "news",
-        "description": "A football player holding a trophy with a microphone, wearing a game uniform. He is inside a stadium\n",
-        "questions": [
-            "what is the exact price for the rent",
-            "is it affordable"
-        ]
-    },
-    {
-        "filename": "images/440px-Derrick_Brooks_with_2006_Pro_Bowl_MVP_trophy_060210-N-4856G-129.jpeg",
-        "category": "shopping",
-        "description": "A football player holding a trophy with a microphone, wearing a game uniform. He is inside a stadium\n",
-        "questions": [
-            "Is the site selling anything?",
-            "What type of merchandise is it selling?"
-        ]
-    },
-    {
-        "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
-        "category": "science_journals",
-        "description": "Two translucent jellyfish floating in blue water.\n",
-        "questions": [
-            "Are they beautiful?",
-            "Are they for sale?"
-        ]
-    },
-    {
-        "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
-        "category": "travel",
-        "description": "Two translucent jellyfish floating in blue water.\n",
-        "questions": [
-            "Where is this?",
-            "Does it look nice?"
-        ]
-    },
-    {
-        "filename": "images/Coricancha,_Cusco,_Peru,_2015-07-31,_DD_68.jpeg",
-        "category": "science_journals",
-        "description": "Ancient stone walls with a round, grass-topped terrace in front.\n",
-        "questions": [
-            "Does it look like someone has been there recently?"
-        ]
-    },
-    {
-        "filename": "images/Coricancha,_Cusco,_Peru,_2015-07-31,_DD_68.jpeg",
-        "category": "travel",
-        "description": "Ancient stone walls with a round, grass-topped terrace in front.\n",
-        "questions": [
-            "What is the height of the wall?"
-        ]
-    },
-    {
-        "filename": "images/440px-STS-115_ISS_after_undocking.jpeg",
-        "category": "science_journals",
-        "description": "International Space Station in orbit, showing solar panels and modules.\n",
-        "questions": [
-            "What color is the space station"
-        ]
-    },
-    {
-        "filename": "images/340px-1940_Trachtenstrickjacke_anagoria.jpeg",
-        "category": "shopping",
-        "description": "A traditional knitted cardigan with decorative patterns.\n",
-        "questions": [
-            "What is the color scheme of this cardigan?"
-        ]
-    },
-    {
-        "filename": "images/340px-1940_Trachtenstrickjacke_anagoria.jpeg",
-        "category": "news",
-        "description": "A traditional knitted cardigan with decorative patterns.\n",
-        "questions": [
-            "who is wearing this cardigan?"
-        ]
-    },
-    {
-        "filename": "images/Magdalena_Frackowiak.jpeg",
-        "category": "shopping",
-        "description": "Model in a flowing red dress on the runway.\n",
-        "questions": [
-            "Is the model plus sized or petite?"
-        ]
-    },
-    {
-        "filename": "images/Magdalena_Frackowiak.jpeg",
-        "category": "news",
-        "description": "Model in a flowing red dress on the runway.\n",
-        "questions": [
-            "How long is the dress?"
-        ]
-    },
-    {
-        "filename": "images/2017_London_Marathon_-_Manuela_Schar_(3x4a).jpeg",
-        "category": "health",
-        "description": "Wheelchair athlete racing intensely on road.\n",
-        "questions": [
-            "Is this athlete racing with other people?"
-        ]
-    },
-    {
-        "filename": "images/2017_London_Marathon_-_Manuela_Schar_(3x4a).jpeg",
-        "category": "news",
-        "description": "Wheelchair athlete racing intensely on road.\n",
-        "questions": [
-            "What race was that athlete participating in?",
-            "Where do they hold that race?"
-        ]
-    },
-    {
-        "filename": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
-        "category": "shopping",
-        "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
-        "questions": [
-            "What style is the clothes?"
-        ]
-    },
-    {
-        "filename": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
-        "category": "news",
-        "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
-        "questions": [
-            "Are members of the audience or anyone else visible?",
-            "How many models are on stage?"
-        ]
-    },
-    {
-        "filename": "images/Amazon_CIAT_(2).jpeg",
-        "category": "science_journals",
-        "description": "Wide river bordered by dense jungle under a partly cloudy sky.\n",
-        "questions": [
-            "What does the environment look like?"
-        ]
-    },
-    {
-        "filename": "images/Amazon_CIAT_(2).jpeg",
-        "category": "news",
-        "description": "Wide river bordered by dense jungle under a partly cloudy sky.\n",
-        "questions": [
-            "Where is this located?"
-        ]
-    },
-    {
-        "filename": "images/440px-Milind_Soman_at_the_NDTV_Marks_for_Sports_event_12.jpeg",
-        "category": "news",
-        "description": "A seated man looking thoughtfully to the side, against a backdrop of an event banner. He has some sort of bracelet on his right arm. He is wearing a button-down blueish/gray shirt and has his hands on his thighs. He is not smiling.\n",
-        "questions": [
-            "What is the event described on the event banner?"
         ]
     }
 ]

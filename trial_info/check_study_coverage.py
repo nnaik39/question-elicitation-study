@@ -7,7 +7,7 @@ f = open('pilot_exp.json')
 # a dictionary
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (2).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (5).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -27,11 +27,6 @@ for participant in study_info:
    #         print(trial['glb_comments'])
 
 print("Questions per image-context pair: ", questions_per_image_context_pair)
-
-#with open("answer_elicitation_study.json", "w") as outfile:
- #   outfile.write(json.dumps(questions_per_image_context_pair))
-
-# ddexit()
 
 images_left = []
 
