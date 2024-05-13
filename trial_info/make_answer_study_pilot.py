@@ -5,7 +5,7 @@ f = open('full_question_elicitation_study.json')
  
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (40).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (1).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -31,16 +31,16 @@ answer_elicitation_study['images'] = []
 
 total_images = []
 
+all_collected_datapoints = []
+
 for i in pilot_exp['images']:
     if ((i['filename'], i['category'], i['description']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]) >= 2):
         total_images.append(i['filename'])
 
-        # Let me only add two questions per image-context pair!! That's already 3,400 questions!
-
-        questions = random.sample(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])], 2)
+        questions = random.sample(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])], 1)
 
         print("Two randomly sampled questions: ", questions)
-        
+
         for question in questions:
             answer_elicitation_study['images'].append({
                 'filename': i['filename'],
@@ -48,6 +48,14 @@ for i in pilot_exp['images']:
                 'description': i['description'],
                 'question': question,
             })
+        
+#        for question in questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]:
+        all_collected_datapoints.append({
+                'filename': i['filename'],
+                'category': i['category'],
+                'description': i['description'],
+                'questions': questions_per_image_context_pair[(i['filename'], i['category'], i['description'])],
+        })
     else:
         images_left.append((i['filename'], i['category']))
         new_pilot_exp['images'].append(i)
@@ -57,10 +65,17 @@ print("Total images in answer elicitation study: ", len(list(set(total_images)))
 images_left = list(set(images_left))
 print("Number of image-context pairs left ", len(images_left))
 
+print("Images left: ", images_left)
+
 json_object = json.dumps(new_pilot_exp, indent=4)
  
 with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json_object)
 
-with open("answer_elicitation_study.json", "w") as outfile:
-    outfile.write(json.dumps(answer_elicitation_study, indent = 4))
+#with open("answer_elicitation_study_1question_per_context_pair.json", "w") as outfile:
+ #   outfile.write(json.dumps(answer_elicitation_study, indent = 4))
+
+print("all collected datapoints ", all_collected_datapoints)
+
+with open("new_all_collected_datapoints.json", "w") as outfile:
+    outfile.write(json.dumps(all_collected_datapoints, indent = 4))

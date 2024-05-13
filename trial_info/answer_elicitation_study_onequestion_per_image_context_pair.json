@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "images/CantoneseJellyfish.jpeg",
+        "category": "health",
+        "description": "A dish of Cantonese-style jellyfish, typically served cold.\n",
+        "question": "What color is the food in the dish?"
+    },
+    {
+        "filename": "images/Jellyfish_aqurium.jpeg",
+        "category": "science_journals",
+        "description": "A swarm of jellyfish drifting in the ocean.\n",
+        "question": "what kind of jellyfish are they?"
+    },
+    {
+        "filename": "images/Jellyfish_aqurium.jpeg",
+        "category": "news",
+        "description": "A swarm of jellyfish drifting in the ocean.\n",
+        "question": "Is the picture taken below or is the picture taken from the surface?"
+    },
+]
