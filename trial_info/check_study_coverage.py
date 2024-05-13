@@ -7,7 +7,7 @@ f = open('pilot_exp.json')
 # a dictionary
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (1).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (2).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
@@ -21,10 +21,17 @@ for participant in study_info:
         questions_per_image_context_pair[(trial['picture'], trial['category'], trial['description'])].append(trial['q1'])
         questions_per_image_context_pair[(trial['picture'], trial['category'], trial['description'])].append(trial['q2'])
 
-        if (trial['comments'] != ''):
-            print(trial['comments'])
-        if (trial['glb_comments'] != ''):
-            print(trial['glb_comments'])
+#        if (trial['comments'] != ''):
+ #           print(trial['comments'])
+  #      if (trial['glb_comments'] != ''):
+   #         print(trial['glb_comments'])
+
+print("Questions per image-context pair: ", questions_per_image_context_pair)
+
+#with open("answer_elicitation_study.json", "w") as outfile:
+ #   outfile.write(json.dumps(questions_per_image_context_pair))
+
+# ddexit()
 
 images_left = []
 
@@ -33,17 +40,29 @@ answer_elicitation_study['images'] = []
 
 total_images = []
 
-for i in pilot_exp['images']:
-    if ((i['filename'], i['category'], i['description']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]) >= 2):
-        total_images.append(i['filename'])
+collected_answers_per_question = []
 
-        for question in questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]:
-            answer_elicitation_study['images'].append({
+for i in pilot_exp['images']:
+#    print("Questions per IC pair: ", questions_per_image_context_pair[(i['filename'], i['category'], i['description'])])
+
+    if ((i['filename'], i['category'], i['description']) in questions_per_image_context_pair):
+        collected_answers_per_question.append({
                 'filename': i['filename'],
                 'category': i['category'],
                 'description': i['description'],
-                'question': question,
-            })
+                'questions': questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]
+        })
+
+    if ((i['filename'], i['category'], i['description']) in questions_per_image_context_pair and len(questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]) >= 2):
+        total_images.append(i['filename'])
+
+#        for question in questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]:
+        answer_elicitation_study['images'].append({
+                'filename': i['filename'],
+                'category': i['category'],
+                'description': i['description'],
+                'questions': questions_per_image_context_pair[(i['filename'], i['category'], i['description'])]
+        })
     else:
         images_left.append((i['filename'], i['category']))
         new_pilot_exp['images'].append(i)
@@ -59,4 +78,4 @@ with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json_object)
 
 with open("answer_elicitation_study.json", "w") as outfile:
-    outfile.write(json.dumps(answer_elicitation_study))
+    outfile.write(json.dumps(collected_answers_per_question))

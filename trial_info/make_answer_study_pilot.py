@@ -5,10 +5,12 @@ f = open('full_question_elicitation_study.json')
  
 pilot_exp = json.load(f)
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (1).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-question-elicitation-study-dataset-expansion-export (3).json')
 study_info = json.load(f)
 new_pilot_exp = {}
 new_pilot_exp['images'] = []
+
+# Question: Why is it not four people here??
 
 questions_per_image_context_pair = {}
 
@@ -77,5 +79,5 @@ with open("new_pilot_exp.json", "w") as outfile:
 
 print("all collected datapoints ", all_collected_datapoints)
 
-with open("new_all_collected_datapoints.json", "w") as outfile:
+with open("all_collected_datapoints.json", "w") as outfile:
     outfile.write(json.dumps(all_collected_datapoints, indent = 4))
